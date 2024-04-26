@@ -1,0 +1,1294 @@
+#EXTM3U
+#EXP March 05.2025
+#EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
+https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max (4K)
+http://xtv.ooo:8080/0112228/0112229/109957
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (TATAPLAY)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max (Tata Play)
+http://xtv.ooo:8080/0112228/0112229/221259
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max HD
+http://xtv.ooo:8080/0112228/0112229/66179
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max [FHD]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max [FHD]
+http://xtv.ooo:8080/0112228/0112229/66180
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="Sony Max 2" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqm6N.jpg" group-title="Sony Max",Sony Max 2
+http://xtv.ooo:8080/0112228/0112229/66189
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCNMo.png" group-title="Sony Pix",Sony Pix (4K)
+http://xtv.ooo:8080/0112228/0112229/109966
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCNMo.png" group-title="Sony Pix",Sony Pix HD
+http://xtv.ooo:8080/0112228/0112229/66224
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Star Movies (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCiZb.jpg" group-title="Star Movies",Star Movies (4K)
+http://xtv.ooo:8080/0112228/0112229/109970
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies FHD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCiZb.jpg" group-title="Star Movies",Star Movies FHD
+http://xtv.ooo:8080/0112228/0112229/66213
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="Star Movies Select HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqnWg.jpg" group-title="Star Movies",Star Movies Select HD
+http://xtv.ooo:8080/0112228/0112229/66315
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqMTS.jpg" group-title="Star Gold",Star Gold (4K)
+http://xtv.ooo:8080/0112228/0112229/109959
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqLyZ.jpg" group-title="Star Gold",Star Gold Select (4K)
+http://xtv.ooo:8080/0112228/0112229/109960
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold Thrills" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqzEl.jpg" group-title="Star Gold",Star Gold Thrills
+http://xtv.ooo:8080/0112228/0112229/221258
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqMTS.jpg" group-title="Star Gold",Star Gold HD
+http://xtv.ooo:8080/0112228/0112229/66177
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold [FHD]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqMTS.jpg" group-title="Star Gold",Star Gold [FHD]
+http://xtv.ooo:8080/0112228/0112229/66178
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqLyZ.jpg" group-title="Star Gold",Star Gold Select
+http://xtv.ooo:8080/0112228/0112229/221257
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqLyZ.jpg" group-title="Star Gold",Star Gold Select HD
+http://xtv.ooo:8080/0112228/0112229/66176
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold 2" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqSfM.jpg" group-title="Star Gold",Star Gold 2
+http://xtv.ooo:8080/0112228/0112229/106133
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD (Tata sky)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqMTS.jpg" group-title="Star Gold",Star Gold HD (Tata sky)
+http://xtv.ooo:8080/0112228/0112229/112982
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="Star Gold Romance" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urq9ox.png" group-title="Star Gold",Star Gold Romance
+http://xtv.ooo:8080/0112228/0112229/66186
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCyhH.png" group-title="Movies Now",Movies Now (4K)
+http://xtv.ooo:8080/0112228/0112229/109968
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="&flix (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqNWm.jpg" group-title="Zee5 Channels",&flix (4K)
+http://xtv.ooo:8080/0112228/0112229/109962
+#EXTINF:-1 tvg-id="hbohd.in" tvg-name="&Prive (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqyRP.jpg" group-title="Zee5 Channels",& Prive (4K)
+http://xtv.ooo:8080/0112228/0112229/109963
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",&pictures (4K)
+http://xtv.ooo:8080/0112228/0112229/109955
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures
+http://xtv.ooo:8080/0112228/0112229/355774
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures Link 2" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures Link 2
+http://xtv.ooo:8080/0112228/0112229/221260
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures HD
+http://xtv.ooo:8080/0112228/0112229/66181
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures [FHD]
+http://xtv.ooo:8080/0112228/0112229/355586
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD] Link 2" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures [FHD] Link 2
+http://xtv.ooo:8080/0112228/0112229/66183
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIBaN.jpg" group-title="Zee5 Channels",ZEE CINEMA (4K)
+http://xtv.ooo:8080/0112228/0112229/109958
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIBaN.jpg" group-title="Zee5 Channels",ZEE CINEMA FHD (TATASKY)
+http://xtv.ooo:8080/0112228/0112229/221261
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIBaN.jpg" group-title="Zee5 Channels",ZEE CINEMA HD
+http://xtv.ooo:8080/0112228/0112229/206307
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIBaN.jpg" group-title="Zee5 Channels",ZEE CINEMA [FHD]
+http://xtv.ooo:8080/0112228/0112229/206308
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/26/urDiDl.jpg" group-title="MNX",MN+ (4K)
+http://xtv.ooo:8080/0112228/0112229/109965
+#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/26/urDiDl.jpg" group-title="MNX",MN+ FHD
+http://xtv.ooo:8080/0112228/0112229/355547
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="MNX HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/26/urDyQA.jpg" group-title="MNX",MNX HD
+http://xtv.ooo:8080/0112228/0112229/66266
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCuwQ.jpg" group-title="VH1 India",VH1 HD
+http://xtv.ooo:8080/0112228/0112229/356076
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/20/uv5XoK.jpg" group-title="Kolkata Channels",Zee Bangla HD
+http://xtv.ooo:8080/0112228/0112229/245893
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/20/uv5OJJ.jpg" group-title="Kolkata Channels",Star Jalsa HD
+http://xtv.ooo:8080/0112228/0112229/245898
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Colors Bangla" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/27/uvXo8x.png" group-title="Kolkata Channels",Colors Bangla
+http://xtv.ooo:8080/0112228/0112229/245895
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://openboxv8s.com/india/colors-in.png" group-title="Others",Colors (4K)
+http://xtv.ooo:8080/0112228/0112229/109947.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN | Colors" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Others",IN | Colors
+http://xtv.ooo:8080/0112228/0112229/221254.ts
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN | Colors HD" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Others",IN | Colors HD
+http://xtv.ooo:8080/0112228/0112229/66167
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN | Colors [FHD]" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Others",IN | Colors [FHD]
+http://xtv.ooo:8080/0112228/0112229/66168
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX (4k)" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Others",IN: COLORS CINEPLEX (4k)
+http://xtv.ooo:8080/0112228/0112229/206315
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Others",IN: COLORS CINEPLEX
+http://xtv.ooo:8080/0112228/0112229/104191
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Others",IN: COLORS CINEPLEX FHD
+http://xtv.ooo:8080/0112228/0112229/206310
+#EXTINF:-1 tvg-id="" tvg-name="IND: Colors Cineplex Bollywood" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/27/uvXML3.jpg" group-title="Others",IND: Colors Cineplex Bollywood
+http://xtv.ooo:8080/0112228/0112229/112983
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Star World HD
+http://xtv.ooo:8080/0112228/0112229/66211
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Star Movies FHD
+http://xtv.ooo:8080/0112228/0112229/66213
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN | Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="INDIAN | ENGLISH MOVIES",IN | Sony Pix HD
+http://xtv.ooo:8080/0112228/0112229/66224
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN | &Prive FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="INDIAN | ENGLISH MOVIES",IN | &Prive FHD
+http://xtv.ooo:8080/0112228/0112229/66228
+#EXTINF:-1 tvg-id="axnhd.in" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | HBO HD
+http://xtv.ooo:8080/0112228/0112229/66229
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" group-title="INDIAN | ENGLISH MOVIES",IN | & Flix HD
+http://xtv.ooo:8080/0112228/0112229/66236
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Explor FHD" tvg-logo="" group-title="INDIAN | ENGLISH MOVIES",IN: & Explor FHD
+http://xtv.ooo:8080/0112228/0112229/66241
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="IN: MNX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="INDIAN | ENGLISH MOVIES",IN: MNX FHD
+http://xtv.ooo:8080/0112228/0112229/66266
+#EXTINF:-1 tvg-id="" tvg-name="IN | Movies Now HD" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Movies Now HD
+http://xtv.ooo:8080/0112228/0112229/66271
+#EXTINF:-1 tvg-id="" tvg-name="IN | BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="INDIAN | ENTERTAINMENT",IN | BBO HD
+http://xtv.ooo:8080/0112228/0112229/66277
+#EXTINF:-1 tvg-id="foxlifehd.in" tvg-name="IN | Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="INDIAN | ENGLISH MOVIES",IN | Fox Life FHD
+http://xtv.ooo:8080/0112228/0112229/66278
+#EXTINF:-1 tvg-id="romedynowhdin.in" tvg-name="IN | Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Romedy Now
+http://xtv.ooo:8080/0112228/0112229/66282
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="IN | Zee Cafe HD" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Zee Cafe HD
+http://xtv.ooo:8080/0112228/0112229/66287
+#EXTINF:-1 tvg-id="" tvg-name="IN | AXN HD" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="INDIAN | D2H ACTIVE",IN | AXN HD
+http://xtv.ooo:8080/0112228/0112229/66313
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN | Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Star Movies Select HD
+http://xtv.ooo:8080/0112228/0112229/66315
+#EXTINF:-1 tvg-id="" tvg-name="IN | MN+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="INDIAN | ENGLISH MOVIES",IN | MN+ HD
+http://xtv.ooo:8080/0112228/0112229/66244
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC",IN | Zoom TV
+http://xtv.ooo:8080/0112228/0112229/66190
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="INDIAN | MUSIC",IN | 9xm
+http://xtv.ooo:8080/0112228/0112229/66192
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="INDIAN | MUSIC",IN | B4u Music
+http://xtv.ooo:8080/0112228/0112229/66203
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="INDIAN | MUSIC",IN | 9x Jalwa
+http://xtv.ooo:8080/0112228/0112229/66226
+#EXTINF:-1 tvg-id="" tvg-name="IN | MTV BEAT" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="INDIAN | MUSIC",IN | MTV BEAT
+http://xtv.ooo:8080/0112228/0112229/66273
+#EXTINF:-1 tvg-id="" tvg-name="ind-pun: Pittara TV" tvg-logo="" group-title="INDIAN | MUSIC",ind-pun: Pittara TV
+http://xtv.ooo:8080/0112228/0112229/66285
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="INDIAN | MUSIC",IN | 9x Tashan
+http://xtv.ooo:8080/0112228/0112229/66289
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastii" tvg-logo="" group-title="INDIAN | MUSIC",IN: Mastii
+http://xtv.ooo:8080/0112228/0112229/112988
+#EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="IN: UTV Bindass" tvg-logo="" group-title="INDIAN | MUSIC",IN: UTV Bindass
+http://xtv.ooo:8080/0112228/0112229/112993
+#EXTINF:-1 tvg-id="" tvg-name="IND-Punjabi: PTC MUSIC" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="INDIAN | MUSIC",IND-Punjabi: PTC MUSIC
+http://xtv.ooo:8080/0112228/0112229/153373
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="INDIAN | MUSIC",MUSIC INDIA
+http://xtv.ooo:8080/0112228/0112229/190028
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood" tvg-logo="" group-title="INDIAN | MUSIC",IN: Boogle Bollywood
+http://xtv.ooo:8080/0112228/0112229/206045
+#EXTINF:-1 tvg-id="" tvg-name="IND: MTV HD +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="INDIAN | MUSIC",IND: MTV HD +
+http://xtv.ooo:8080/0112228/0112229/206049
+#EXTINF:-1 tvg-id="" tvg-name="IND: MTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="INDIAN | MUSIC",IND: MTV India
+http://xtv.ooo:8080/0112228/0112229/206054
+#EXTINF:-1 tvg-id="" tvg-name="IND:PB: Balle Balle" tvg-logo="" group-title="INDIAN | MUSIC",IND:PB: Balle Balle
+http://xtv.ooo:8080/0112228/0112229/219495
+#EXTINF:-1 tvg-id="" tvg-name="IND:PB: Wah Punjabi" tvg-logo="" group-title="INDIAN | MUSIC",IND:PB: Wah Punjabi
+http://xtv.ooo:8080/0112228/0112229/219496
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="INDIAN | MUSIC",IND: ZING
+http://xtv.ooo:8080/0112228/0112229/219497
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 18
+http://xtv.ooo:8080/0112228/0112229/362865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 19
+http://xtv.ooo:8080/0112228/0112229/362866
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 20
+http://xtv.ooo:8080/0112228/0112229/362867
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 21
+http://xtv.ooo:8080/0112228/0112229/362868
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",IN: 24/7 MUSIC 01
+http://xtv.ooo:8080/0112228/0112229/219498
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",IN: 24/7 MUSIC 02
+http://xtv.ooo:8080/0112228/0112229/270503
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24/7 MUSIC 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",IN: 24/7 MUSIC 03
+http://xtv.ooo:8080/0112228/0112229/270504
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 04
+http://xtv.ooo:8080/0112228/0112229/270505
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 05
+http://xtv.ooo:8080/0112228/0112229/270506
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 06
+http://xtv.ooo:8080/0112228/0112229/270507
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 07
+http://xtv.ooo:8080/0112228/0112229/270508
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 08
+http://xtv.ooo:8080/0112228/0112229/270509
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 09
+http://xtv.ooo:8080/0112228/0112229/270510
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 10
+http://xtv.ooo:8080/0112228/0112229/270511
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 11
+http://xtv.ooo:8080/0112228/0112229/270512
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 12
+http://xtv.ooo:8080/0112228/0112229/270513
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 13
+http://xtv.ooo:8080/0112228/0112229/270514
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 14
+http://xtv.ooo:8080/0112228/0112229/270515
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 15
+http://xtv.ooo:8080/0112228/0112229/270516
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 16
+http://xtv.ooo:8080/0112228/0112229/270517
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MUSIC 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC",24/7 MUSIC 17
+http://xtv.ooo:8080/0112228/0112229/270518
+#EXTINF:-1 tvg-id="" tvg-name="***IND: SPORTS (4K ULTRA HD)***" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",***IND: SPORTS (4K ULTRA HD)***
+http://xtv.ooo:8080/0112228/0112229/109982
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 1 (4K)
+http://xtv.ooo:8080/0112228/0112229/109983
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 2 (4K)
+http://xtv.ooo:8080/0112228/0112229/109984
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 3 (4K)
+http://xtv.ooo:8080/0112228/0112229/109985
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sport 1 HINDI (4K)
+http://xtv.ooo:8080/0112228/0112229/109986
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 1 (4K)
+http://xtv.ooo:8080/0112228/0112229/109987
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 2 (4K)
+http://xtv.ooo:8080/0112228/0112229/109988
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY SIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)",SONY SIX (4K)
+http://xtv.ooo:8080/0112228/0112229/109992
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 1 (4K)
+http://xtv.ooo:8080/0112228/0112229/109993
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 2 (4K)
+http://xtv.ooo:8080/0112228/0112229/109994
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT (4K)" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",IN: EUROPSPORT (4K)
+http://xtv.ooo:8080/0112228/0112229/206324
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HD" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IN | BBC EART HD
+http://xtv.ooo:8080/0112228/0112229/206278
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Travel XP Eng
+http://xtv.ooo:8080/0112228/0112229/206279
+#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY",IND: Travel_XP Hindi
+http://xtv.ooo:8080/0112228/0112229/206280
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
+http://xtv.ooo:8080/0112228/0112229/206282
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD
+http://xtv.ooo:8080/0112228/0112229/206283
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD
+http://xtv.ooo:8080/0112228/0112229/206285
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
+http://xtv.ooo:8080/0112228/0112229/206286
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi
+http://xtv.ooo:8080/0112228/0112229/206287
+#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
+http://xtv.ooo:8080/0112228/0112229/206289
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
+http://xtv.ooo:8080/0112228/0112229/206291
+#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Turbo
+http://xtv.ooo:8080/0112228/0112229/206292
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IND: History 18 Hindi
+http://xtv.ooo:8080/0112228/0112229/206294
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 FHD
+http://xtv.ooo:8080/0112228/0112229/206295
+#EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY",IND: Epic
+http://xtv.ooo:8080/0112228/0112229/206296
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
+http://xtv.ooo:8080/0112228/0112229/206587
+#EXTINF:-1 tvg-id="" tvg-name="DOC | NAT GEO WILD Safari" tvg-logo="" group-title="INDIAN | DOCUMENTARY",DOC | NAT GEO WILD Safari
+http://xtv.ooo:8080/0112228/0112229/363003
+#EXTINF:-1 tvg-id="" tvg-name="DOC | Nat Geo Wild and Worlds Deadliest" tvg-logo="" group-title="INDIAN | DOCUMENTARY",DOC | Nat Geo Wild and Worlds Deadliest
+http://xtv.ooo:8080/0112228/0112229/363004
+#EXTINF:-1 tvg-id="" tvg-name="DOC | Nat Geo Wild Newest Clips" tvg-logo="" group-title="INDIAN | DOCUMENTARY",DOC | Nat Geo Wild Newest Clips
+http://xtv.ooo:8080/0112228/0112229/363005
+#EXTINF:-1 tvg-id="" tvg-name="DOC | Nat Geo Wild NEWS" tvg-logo="" group-title="INDIAN | DOCUMENTARY",DOC | Nat Geo Wild NEWS
+http://xtv.ooo:8080/0112228/0112229/363006
+#EXTINF:-1 tvg-id="" tvg-name="DOC | Wildlife HINDI" tvg-logo="" group-title="INDIAN | DOCUMENTARY",DOC | Wildlife HINDI
+http://xtv.ooo:8080/0112228/0112229/363002
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: Sonic 24/7" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: Sonic 24/7
+http://xtv.ooo:8080/0112228/0112229/301500
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: CoComelon TV 24/7" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: CoComelon TV 24/7
+http://xtv.ooo:8080/0112228/0112229/301499
+#EXTINF:-1 tvg-id="" tvg-name="***KIDS***" tvg-logo="" group-title="INDIAN | KIDS Cartoon",***KIDS***
+http://xtv.ooo:8080/0112228/0112229/106148
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network
+http://xtv.ooo:8080/0112228/0112229/150478
+#EXTINF:-1 tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
+http://xtv.ooo:8080/0112228/0112229/150482
+#EXTINF:-1 tvg-id="pogo.in" tvg-name="IN: Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="INDIAN | KIDS Cartoon",IN: Pogo
+http://xtv.ooo:8080/0112228/0112229/150483
+#EXTINF:-1 tvg-id="0" tvg-name="IN | Sony yay" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="INDIAN | KIDS Cartoon",IN | Sony yay
+http://xtv.ooo:8080/0112228/0112229/26187
+#EXTINF:-1 tvg-id="" tvg-name="IN: NICK SONIC" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="INDIAN | KIDS Cartoon",IN: NICK SONIC
+http://xtv.ooo:8080/0112228/0112229/34011
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="NICK HD+ [FHD]" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png" group-title="INDIAN | KIDS Cartoon",NICK HD+ [FHD]
+http://xtv.ooo:8080/0112228/0112229/76722
+#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png" group-title="INDIAN | KIDS Cartoon",Discovery kids
+http://xtv.ooo:8080/0112228/0112229/76723
+#EXTINF:-1 tvg-id="" tvg-name="IN: Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Disney Junior
+http://xtv.ooo:8080/0112228/0112229/153175
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN | DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN | DISNEY HD
+http://xtv.ooo:8080/0112228/0112229/167551
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: Chutti Tv" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: Chutti Tv
+http://xtv.ooo:8080/0112228/0112229/150479
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png" group-title="INDIAN | KIDS Cartoon",IN: Hungama
+http://xtv.ooo:8080/0112228/0112229/150480
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network HD+
+http://xtv.ooo:8080/0112228/0112229/153154
+#EXTINF:-1 tvg-id="" tvg-name="IND: Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="INDIAN | KIDS Cartoon",IND: Nick Junior
+http://xtv.ooo:8080/0112228/0112229/153156
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: All Hail King Julien_ Exiled" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: All Hail King Julien_ Exiled
+http://xtv.ooo:8080/0112228/0112229/301504
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Rick And Morty" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Rick And Morty
+http://xtv.ooo:8080/0112228/0112229/301505
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Masha and the Bear" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Masha and the Bear
+http://xtv.ooo:8080/0112228/0112229/301506
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Little Baby Bum" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Little Baby Bum
+http://xtv.ooo:8080/0112228/0112229/301507
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: The Boss Baby_ Back in Business" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: The Boss Baby_ Back in Business
+http://xtv.ooo:8080/0112228/0112229/301508
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Peppa Pig" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Peppa Pig
+http://xtv.ooo:8080/0112228/0112229/301509
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Blippi" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Blippi
+http://xtv.ooo:8080/0112228/0112229/301510
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kids: Kids: Gabby_s Dollhouse" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 Kids: Kids: Gabby_s Dollhouse
+http://xtv.ooo:8080/0112228/0112229/301511
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU 01
+http://xtv.ooo:8080/0112228/0112229/307079
+#EXTINF:-1 tvg-id="" tvg-name="Oggy and the Cockroaches Hindi" tvg-logo="" group-title="INDIAN | KIDS Cartoon",Oggy and the Cockroaches Hindi
+http://xtv.ooo:8080/0112228/0112229/308282
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MOTU PATLU 02" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png" group-title="INDIAN | KIDS Cartoon",24/7 MOTU PATLU 02
+http://xtv.ooo:8080/0112228/0112229/311373
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chacha Bhatija" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFlODk2ZmEtMWE5MC00Nzg5LWE3ODMtMzViYTRhNjdjMjgzXkEyXkFqcGdeQXVyNjEyNjM1MjY@._V1_.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Chacha Bhatija
+http://xtv.ooo:8080/0112228/0112229/311774
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wow Kids Action" tvg-logo="http://logo.opplextv.com/logo/WowKidsAction.png" group-title="INDIAN | KIDS Cartoon",24/7 Wow Kids Action
+http://xtv.ooo:8080/0112228/0112229/314753
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vir The Robot Boy" tvg-logo="http://logo.opplextv.com/logo/VirTheRobotBoy.png" group-title="INDIAN | KIDS Cartoon",24/7 Vir The Robot Boy
+http://xtv.ooo:8080/0112228/0112229/314754
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chhota Bheem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Chhota Bheem
+http://xtv.ooo:8080/0112228/0112229/315401
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="INDIAN | KIDS Cartoon",24/7 Tom & Jerry
+http://xtv.ooo:8080/0112228/0112229/329247
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png" group-title="INDIAN | KIDS Cartoon",24/7 Scooby-Doo
+http://xtv.ooo:8080/0112228/0112229/329248
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS SONGS HINDI" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 KIDS SONGS HINDI
+http://xtv.ooo:8080/0112228/0112229/340802
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BEN 10 ENG" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 BEN 10 ENG
+http://xtv.ooo:8080/0112228/0112229/340803
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BEN 10 HINDI" tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 BEN 10 HINDI
+http://xtv.ooo:8080/0112228/0112229/340804
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CHUCHU TV " tvg-logo="" group-title="INDIAN | KIDS Cartoon",24/7 CHUCHU TV 
+http://xtv.ooo:8080/0112228/0112229/340807
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baal Veer " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Baalveer_Returns_Title_Card.jpg/220px-Baalveer_Returns_Title_Card.jpg" group-title="INDIAN | KIDS Cartoon",24/7 Baal Veer 
+http://xtv.ooo:8080/0112228/0112229/340809
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHIVA" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png" group-title="INDIAN | KIDS Cartoon",24/7 SHIVA
+http://xtv.ooo:8080/0112228/0112229/342074
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOV HINDI" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOV HINDI
+http://xtv.ooo:8080/0112228/0112229/362998
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES
+http://xtv.ooo:8080/0112228/0112229/362999
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 01" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES ENG 01
+http://xtv.ooo:8080/0112228/0112229/363000
+#EXTINF:-1 tvg-id="" tvg-name="24/7 KIDS | MOVIES ENG 02" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png" group-title="INDIAN | KIDS Cartoon",24/7 KIDS | MOVIES ENG 02
+http://xtv.ooo:8080/0112228/0112229/363001
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- BeIN Sports ----★●•" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/beIN-MEDIA-GROUP.png" group-title="BEIN SPORTS",•●★--- BeIN Sports ----★●•
+http://xtv.ooo:8080/0112228/0112229/222528
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 1 HD
+http://xtv.ooo:8080/0112228/0112229/222532
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 2 FHD
+http://xtv.ooo:8080/0112228/0112229/222534
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports English 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_ENGLISH_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports English 3 HD
+http://xtv.ooo:8080/0112228/0112229/222538
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports News HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports_News.png" group-title="BEIN SPORTS",AR: BeIN Sports News HD
+http://xtv.ooo:8080/0112228/0112229/222540
+#EXTINF:-1 tvg-id="beinsports4k.qa" tvg-name="AR: BeIN Sports HD*" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports.png" group-title="BEIN SPORTS",AR: BeIN Sports HD*
+http://xtv.ooo:8080/0112228/0112229/222542
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN 4K*" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/4k_DIGITAL_Mono.png" group-title="BEIN SPORTS",AR: BeIN 4K*
+http://xtv.ooo:8080/0112228/0112229/222543
+#EXTINF:-1 tvg-id="beinsportsmax1ar.qa" tvg-name="AR: BeIN Sports Max 1" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="BEIN SPORTS",AR: BeIN Sports Max 1
+http://xtv.ooo:8080/0112228/0112229/222544
+#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR: BeIN Sports Max 2" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F653%2Fbein-sports-max-1.png" group-title="BEIN SPORTS",AR: BeIN Sports Max 2
+http://xtv.ooo:8080/0112228/0112229/222545
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 3" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f652%2fbein-sports-max-1.png" group-title="BEIN SPORTS",AR: BeIN Sports Max 3
+http://xtv.ooo:8080/0112228/0112229/302322
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 4" tvg-logo="https://img.kooora.com/?i=beinfrancehd%2fbeinsportsmax4fr.jpg" group-title="BEIN SPORTS",AR: BeIN Sports Max 4
+http://xtv.ooo:8080/0112228/0112229/302323
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 8" tvg-logo="https://img.kooora.com/?i=beinfrancehd%2fbeinsportsmax5fr.jpg" group-title="BEIN SPORTS",AR: BeIN Sports Max 8
+http://xtv.ooo:8080/0112228/0112229/302324
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Max 9" tvg-logo="https://img.kooora.com/?i=beinfrancehd%2fbeinsportsmax6fr.jpg" group-title="BEIN SPORTS",AR: BeIN Sports Max 9
+http://xtv.ooo:8080/0112228/0112229/302325
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-name="AR: BeIN Sports Premium 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports Premium 1
+http://xtv.ooo:8080/0112228/0112229/222546
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="AR: BeIN Sports Premium 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports Premium 2
+http://xtv.ooo:8080/0112228/0112229/222551
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Premium 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports Premium 3 HD
+http://xtv.ooo:8080/0112228/0112229/222558
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports1.png" group-title="BEIN SPORTS",AR: BeIN Sports 1 HD
+http://xtv.ooo:8080/0112228/0112229/222563
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports2.png" group-title="BEIN SPORTS",AR: BeIN Sports 2 HD
+http://xtv.ooo:8080/0112228/0112229/222568
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports 3 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports3.png" group-title="BEIN SPORTS",AR: BeIN Sports 3 HD
+http://xtv.ooo:8080/0112228/0112229/222573
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports 4 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports4.png" group-title="BEIN SPORTS",AR: BeIN Sports 4 HD
+http://xtv.ooo:8080/0112228/0112229/222578
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports5.png" group-title="BEIN SPORTS",AR: BeIN Sports 5 HD
+http://xtv.ooo:8080/0112228/0112229/222583
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports 6 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports6.png" group-title="BEIN SPORTS",AR: BeIN Sports 6 HD
+http://xtv.ooo:8080/0112228/0112229/222588
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports 7 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_Sports7.png" group-title="BEIN SPORTS",AR: BeIN Sports 7 HD
+http://xtv.ooo:8080/0112228/0112229/222593
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Xtra 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports Xtra 1
+http://xtv.ooo:8080/0112228/0112229/222609
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports Xtra 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="BEIN SPORTS",AR: BeIN Sports Xtra 2
+http://xtv.ooo:8080/0112228/0112229/222610
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports NBA" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/Bein_NbA.png" group-title="BEIN SPORTS",AR: BeIN Sports NBA
+http://xtv.ooo:8080/0112228/0112229/222618
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="BANGLADESH",•●★--- Welcome ----★●•
+http://xtv.ooo:8080/0112228/0112229/245892
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="BANGLADESH",IND-Bangla: Zee Bangla HD
+http://xtv.ooo:8080/0112228/0112229/245893
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Colors Bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: Colors Bangla
+http://xtv.ooo:8080/0112228/0112229/245895
+#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-name="IND-Bangla: Zee Bangla Cinema" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="BANGLADESH",IND-Bangla: Zee Bangla Cinema
+http://xtv.ooo:8080/0112228/0112229/245897
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="BANGLADESH",IND-Bangla: Star Jalsa HD
+http://xtv.ooo:8080/0112228/0112229/245898
+#EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: Jalsa Movies HD" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="BANGLADESH",IND-Bangla: Jalsa Movies HD
+http://xtv.ooo:8080/0112228/0112229/245900
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLADESH",BD-loc: Gazi TV
+http://xtv.ooo:8080/0112228/0112229/245901
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Channel 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLADESH",BD-loc: Channel 9
+http://xtv.ooo:8080/0112228/0112229/245902
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="BANGLADESH",BD-loc: NEWS 24
+http://xtv.ooo:8080/0112228/0112229/245903
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Masranga HD" tvg-logo="" group-title="BANGLADESH",BD-loc: Masranga HD
+http://xtv.ooo:8080/0112228/0112229/245904
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="BANGLADESH",BD-LOC: ATN News
+http://xtv.ooo:8080/0112228/0112229/245905
+#EXTINF:-1 tvg-id="" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="BANGLADESH",IND-Bangla: SUN Bangla
+http://xtv.ooo:8080/0112228/0112229/245906
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: 71banglatv" tvg-logo="" group-title="BANGLADESH",BD-LOC: 71banglatv
+http://xtv.ooo:8080/0112228/0112229/245907
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Asian tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BANGLADESH",BD-LOC: Asian tv
+http://xtv.ooo:8080/0112228/0112229/245908
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="BANGLADESH",BD-LOC: ATN Bangla
+http://xtv.ooo:8080/0112228/0112229/245909
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Bangla Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/220px-Bangla_TV_Logo.png" group-title="BANGLADESH",BD-LOC: Bangla Tv
+http://xtv.ooo:8080/0112228/0112229/245910
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="BANGLADESH",BD-LOC: RTV
+http://xtv.ooo:8080/0112228/0112229/245911
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: channel I" tvg-logo="" group-title="BANGLADESH",BD-LOC: channel I
+http://xtv.ooo:8080/0112228/0112229/245913
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLADESH",BD-LOC: Dbc News
+http://xtv.ooo:8080/0112228/0112229/245914
+#EXTINF:-1 tvg-id="" tvg-name="BD | EKATTOR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="BANGLADESH",BD | EKATTOR TV HD
+http://xtv.ooo:8080/0112228/0112229/245915
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png" group-title="BANGLADESH",BD-LOC: independent
+http://xtv.ooo:8080/0112228/0112229/245916
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: jamuna tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="BANGLADESH",BD-LOC: jamuna tv
+http://xtv.ooo:8080/0112228/0112229/245917
+#EXTINF:-1 tvg-id="" tvg-name="BD-LOC: R PLUS" tvg-logo="" group-title="BANGLADESH",BD-LOC: R PLUS
+http://xtv.ooo:8080/0112228/0112229/245918
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Mohona tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png" group-title="BANGLADESH",BD-loc: Mohona tv
+http://xtv.ooo:8080/0112228/0112229/245920
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: DHOOM MUSIC" tvg-logo="" group-title="BANGLADESH",BD-loc: DHOOM MUSIC
+http://xtv.ooo:8080/0112228/0112229/245921
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Btv world" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="BANGLADESH",BD-loc: Btv world
+http://xtv.ooo:8080/0112228/0112229/245922
+#EXTINF:-1 tvg-id="" tvg-name="BD | BOISHAKHI TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="BANGLADESH",BD | BOISHAKHI TV HD
+http://xtv.ooo:8080/0112228/0112229/245923
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: ntv" tvg-logo="" group-title="BANGLADESH",BD-loc: ntv
+http://xtv.ooo:8080/0112228/0112229/245924
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: SOMOY tv NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="BANGLADESH",BD-loc: SOMOY tv NEWS
+http://xtv.ooo:8080/0112228/0112229/245925
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Deepto tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLADESH",BD-loc: Deepto tv
+http://xtv.ooo:8080/0112228/0112229/245927
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Aakaash" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/80/%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6_%E0%A7%AE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="BANGLADESH",BD-loc: Aakaash
+http://xtv.ooo:8080/0112228/0112229/245928
+#EXTINF:-1 tvg-id="" tvg-name="BD: Ananda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" group-title="BANGLADESH",BD: Ananda TV
+http://xtv.ooo:8080/0112228/0112229/245929
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: BTV-" tvg-logo="" group-title="BANGLADESH",BD-loc: BTV-
+http://xtv.ooo:8080/0112228/0112229/245930
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Ruposhi Bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: Ruposhi Bangla
+http://xtv.ooo:8080/0112228/0112229/245932
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: sangeet bangla" tvg-logo="" group-title="BANGLADESH",BD-loc: sangeet bangla
+http://xtv.ooo:8080/0112228/0112229/245933
+#EXTINF:-1 tvg-id="" tvg-name="BD: Gaanb Angla Tv" tvg-logo="" group-title="BANGLADESH",BD: Gaanb Angla Tv
+http://xtv.ooo:8080/0112228/0112229/245935
+#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Ekushey TV" tvg-logo="" group-title="BANGLADESH",bd-loc: Ekushey TV
+http://xtv.ooo:8080/0112228/0112229/245937
+#EXTINF:-1 tvg-id="" tvg-name="bd-loc: Nagorik tv" tvg-logo="" group-title="BANGLADESH",bd-loc: Nagorik tv
+http://xtv.ooo:8080/0112228/0112229/245939
+#EXTINF:-1 tvg-id="" tvg-name="bd-loc: SANGSAD BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emblem_of_the_Jatiya_Sangsad.svg/2048px-Emblem_of_the_Jatiya_Sangsad.svg.png" group-title="BANGLADESH",bd-loc: SANGSAD BANGLADESH
+http://xtv.ooo:8080/0112228/0112229/245940
+#EXTINF:-1 tvg-id="" tvg-name="bd-loc: R PLUS GOLD" tvg-logo="" group-title="BANGLADESH",bd-loc: R PLUS GOLD
+http://xtv.ooo:8080/0112228/0112229/245941
+#EXTINF:-1 tvg-id="" tvg-name="BD | NEWS TIME TV" tvg-logo="" group-title="BANGLADESH",BD | NEWS TIME TV
+http://xtv.ooo:8080/0112228/0112229/245942
+#EXTINF:-1 tvg-id="" tvg-name="BD: EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLADESH",BD: EKHON TV
+http://xtv.ooo:8080/0112228/0112229/245943
+#EXTINF:-1 tvg-id="" tvg-name="bd-loc: SA TV" tvg-logo="" group-title="BANGLADESH",bd-loc: SA TV
+http://xtv.ooo:8080/0112228/0112229/245945
+#EXTINF:-1 tvg-id="" tvg-name="bd-loc: bijoy tv" tvg-logo="" group-title="BANGLADESH",bd-loc: bijoy tv
+http://xtv.ooo:8080/0112228/0112229/245946
+#EXTINF:-1 tvg-id="" tvg-name="BD-Loc: channel S BD" tvg-logo="" group-title="BANGLADESH",BD-Loc: channel S BD
+http://xtv.ooo:8080/0112228/0112229/245947
+#EXTINF:-1 tvg-id="" tvg-name="BD-Loc: Nexus TV" tvg-logo="" group-title="BANGLADESH",BD-Loc: Nexus TV
+http://xtv.ooo:8080/0112228/0112229/245949
+#EXTINF:-1 tvg-id="" tvg-name="Bd-loc: Tv9 bangla" tvg-logo="" group-title="BANGLADESH",Bd-loc: Tv9 bangla
+http://xtv.ooo:8080/0112228/0112229/245950
+#EXTINF:-1 tvg-id="" tvg-name="BD: MOVIE BANGLA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTKQDhLgy2m5yX3PRqIxFs9B-4Ia0bwC7ajrgx=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH",BD: MOVIE BANGLA
+http://xtv.ooo:8080/0112228/0112229/245951
+#EXTINF:-1 tvg-id="" tvg-name="BD: ENTER 10 BANGLA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOYXIeK79V_LpWCfGMDVyHvm65EaId7IfkUHFh=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH",BD: ENTER 10 BANGLA
+http://xtv.ooo:8080/0112228/0112229/245954
+#EXTINF:-1 tvg-id="" tvg-name="BD | DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLADESH",BD | DURONTO TV
+http://xtv.ooo:8080/0112228/0112229/245955
+#EXTINF:-1 tvg-id="" tvg-name="BD | BANGLA VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="BANGLADESH",BD | BANGLA VISION
+http://xtv.ooo:8080/0112228/0112229/245957
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="BANGLADESH",SONY YAY!
+http://xtv.ooo:8080/0112228/0112229/245959
+#EXTINF:-1 tvg-id="" tvg-name="BD | NRB TV HD" tvg-logo="https://i.postimg.cc/qR1X9V5j/nbr-tv.png" group-title="BANGLADESH",BD | NRB TV HD
+http://xtv.ooo:8080/0112228/0112229/245962
+#EXTINF:-1 tvg-id="" tvg-name="BD | MY TV" tvg-logo="https://i.pinimg.com/474x/58/a9/73/58a97334970cc43ef4a9a558c3c4f806.jpg" group-title="BANGLADESH",BD | MY TV
+http://xtv.ooo:8080/0112228/0112229/245964
+#EXTINF:-1 tvg-id="" tvg-name="BD | ATN MUSIC" tvg-logo="https://lh3.googleusercontent.com/-30dX2gAbWBA/XrWrVwyUkSI/AAAAAAAAAnE/CIy_3loKQ34fED9Azwynih_T73E8is9jQCLcBGAsYHQ/w680/ATNMusic.png" group-title="BANGLADESH",BD | ATN MUSIC
+http://xtv.ooo:8080/0112228/0112229/245965
+#EXTINF:-1 tvg-id="" tvg-name="BD | DISCOVERY BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" group-title="BANGLADESH",BD | DISCOVERY BANGLA
+http://xtv.ooo:8080/0112228/0112229/245966
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO BANGLA" tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" group-title="BANGLADESH",NAT GEO BANGLA
+http://xtv.ooo:8080/0112228/0112229/245967
+#EXTINF:-1 tvg-id="" tvg-name="BD: TRAVELXP BANGLA" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="BANGLADESH",BD: TRAVELXP BANGLA
+http://xtv.ooo:8080/0112228/0112229/245968
+#EXTINF:-1 tvg-id="" tvg-name="BD: CHANNEL 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel24_bd.png" group-title="BANGLADESH",BD: CHANNEL 24
+http://xtv.ooo:8080/0112228/0112229/245969
+#EXTINF:-1 tvg-id="" tvg-name="BD | SONY AATH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" group-title="BANGLADESH",BD | SONY AATH
+http://xtv.ooo:8080/0112228/0112229/245989
+#EXTINF:-1 tvg-id="" tvg-name="BTV CTG" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1582805167-29769965.png?v=4.1.1" group-title="BANGLADESH",BTV CTG
+http://xtv.ooo:8080/0112228/0112229/245990
+#EXTINF:-1 tvg-id="" tvg-name="ABP ANANDA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png" group-title="BANGLADESH",ABP ANANDA
+http://xtv.ooo:8080/0112228/0112229/245991
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 BANGLA" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/02/News18-Bangla.jpg" group-title="BANGLADESH",NEWS 18 BANGLA
+http://xtv.ooo:8080/0112228/0112229/245992
+#EXTINF:-1 tvg-id="" tvg-name="JONMO BHUMI TV **" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQTD0TNVV6sAql7Idu2YuSO5M14buCwGQQmOZac=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESH",JONMO BHUMI TV **
+http://xtv.ooo:8080/0112228/0112229/246001
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA 21 TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-bangla-21-8660.jpg" group-title="BANGLADESH",BANGLA 21 TV
+http://xtv.ooo:8080/0112228/0112229/246003
+#EXTINF:-1 tvg-id="" tvg-name="BD | AMAR BANGLA" tvg-logo="https://aamarbanglachannel.in/wp-content/uploads/2021/07/cropped-Aamar-Bangla-Logo.jpg" group-title="BANGLADESH",BD | AMAR BANGLA
+http://xtv.ooo:8080/0112228/0112229/246007
+#EXTINF:-1 tvg-id="" tvg-name="BD-UK: ATN BANGLA" tvg-logo="https://play-lh.googleusercontent.com/5kkuqfLE8ukxWVOkObzhiVO37shyj_DnuQL4qZEAKd4qaMhBF36H4mxs4ivLtvTF7nc" group-title="BANGLADESH",BD-UK: ATN BANGLA
+http://xtv.ooo:8080/0112228/0112229/246010
+#EXTINF:-1 tvg-id="" tvg-name="BD: channel S UK" tvg-logo="" group-title="BANGLADESH",BD: channel S UK
+http://xtv.ooo:8080/0112228/0112229/301102
+#EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bangla" tvg-logo="" group-title="BANGLADESH",IN: Republic Bangla
+http://xtv.ooo:8080/0112228/0112229/355824
+#EXTINF:-1 tvg-id="" tvg-name="RU: Music Box" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/7b7598f3a50ddc638420de3000957ce8.jpg" group-title="Russia ➾ Music",RU: Music Box
+http://xtv.ooo:8080/0112228/0112229/353319
+#EXTINF:-1 tvg-id="" tvg-name="01 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",01 BLOCKBUSTER
+http://xtv.ooo:8080/0112228/0112229/341039
+#EXTINF:-1 tvg-id="" tvg-name="02 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",02 BLOCKBUSTER
+http://xtv.ooo:8080/0112228/0112229/341040
+#EXTINF:-1 tvg-id="" tvg-name="03 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",03 BLOCKBUSTER
+http://xtv.ooo:8080/0112228/0112229/341041
+#EXTINF:-1 tvg-id="" tvg-name="04 BLOCKBUSTER COMEDY" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",04 BLOCKBUSTER COMEDY
+http://xtv.ooo:8080/0112228/0112229/341042
+#EXTINF:-1 tvg-id="" tvg-name="05 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",05 BLOCKBUSTER
+http://xtv.ooo:8080/0112228/0112229/341043
+#EXTINF:-1 tvg-id="" tvg-name="06 BLOCKBUSTER CLASSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",06 BLOCKBUSTER CLASSIC
+http://xtv.ooo:8080/0112228/0112229/341329
+#EXTINF:-1 tvg-id="" tvg-name="07 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",07 BLOCKBUSTER
+http://xtv.ooo:8080/0112228/0112229/362983
+#EXTINF:-1 tvg-id="" tvg-name="08 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",08 BLOCKBUSTER
+http://xtv.ooo:8080/0112228/0112229/362984
+#EXTINF:-1 tvg-id="" tvg-name="09 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES",09 BLOCKBUSTER
+http://xtv.ooo:8080/0112228/0112229/362985
+#EXTINF:-1 tvg-id="" tvg-name="01 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",01 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250346
+#EXTINF:-1 tvg-id="" tvg-name="02 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",02 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250347
+#EXTINF:-1 tvg-id="" tvg-name="03 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",03 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250348
+#EXTINF:-1 tvg-id="" tvg-name="04 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",04 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250349
+#EXTINF:-1 tvg-id="" tvg-name="05 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",05 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250350
+#EXTINF:-1 tvg-id="" tvg-name="06 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",06 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250351
+#EXTINF:-1 tvg-id="" tvg-name="07 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",07 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250352
+#EXTINF:-1 tvg-id="" tvg-name="08 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",08 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250353
+#EXTINF:-1 tvg-id="" tvg-name="09 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",09 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250354
+#EXTINF:-1 tvg-id="" tvg-name="10 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",10 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250355
+#EXTINF:-1 tvg-id="" tvg-name="11 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",11 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250356
+#EXTINF:-1 tvg-id="" tvg-name="12 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",12 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250357
+#EXTINF:-1 tvg-id="" tvg-name="13 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",13 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250358
+#EXTINF:-1 tvg-id="" tvg-name="14 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",14 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/250359
+#EXTINF:-1 tvg-id="" tvg-name="15 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",15 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251340
+#EXTINF:-1 tvg-id="" tvg-name="16 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",16 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251341
+#EXTINF:-1 tvg-id="" tvg-name="17 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",17 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251342
+#EXTINF:-1 tvg-id="" tvg-name="18 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",18 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251343
+#EXTINF:-1 tvg-id="" tvg-name="19 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",19 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251344
+#EXTINF:-1 tvg-id="" tvg-name="20 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",20 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251345
+#EXTINF:-1 tvg-id="" tvg-name="21 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",21 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251346
+#EXTINF:-1 tvg-id="" tvg-name="22 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",22 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251347
+#EXTINF:-1 tvg-id="" tvg-name="23 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",23 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251348
+#EXTINF:-1 tvg-id="" tvg-name="24 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",24 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251349
+#EXTINF:-1 tvg-id="" tvg-name="25 ***" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",25 ***
+http://xtv.ooo:8080/0112228/0112229/251350
+#EXTINF:-1 tvg-id="" tvg-name="26 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",26 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251351
+#EXTINF:-1 tvg-id="" tvg-name="27 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",27 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251352
+#EXTINF:-1 tvg-id="" tvg-name="28 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",28 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251353
+#EXTINF:-1 tvg-id="" tvg-name="29 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",29 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251354
+#EXTINF:-1 tvg-id="" tvg-name="30 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",30 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251561
+#EXTINF:-1 tvg-id="" tvg-name="31 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",31 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251562
+#EXTINF:-1 tvg-id="" tvg-name="32 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",32 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251563
+#EXTINF:-1 tvg-id="" tvg-name="33 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",33 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251564
+#EXTINF:-1 tvg-id="" tvg-name="34 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",34 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251565
+#EXTINF:-1 tvg-id="" tvg-name="35 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",35 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251566
+#EXTINF:-1 tvg-id="" tvg-name="36 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",36 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251567
+#EXTINF:-1 tvg-id="" tvg-name="37 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",37 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251568
+#EXTINF:-1 tvg-id="" tvg-name="38 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",38 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251569
+#EXTINF:-1 tvg-id="" tvg-name="39 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",39 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251570
+#EXTINF:-1 tvg-id="" tvg-name="40 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",40 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251571
+#EXTINF:-1 tvg-id="" tvg-name="41 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",41 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251572
+#EXTINF:-1 tvg-id="" tvg-name="42 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",42 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251573
+#EXTINF:-1 tvg-id="" tvg-name="43 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",43 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251574
+#EXTINF:-1 tvg-id="" tvg-name="44 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",44 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251575
+#EXTINF:-1 tvg-id="" tvg-name="45 ***" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES",45 ***
+http://xtv.ooo:8080/0112228/0112229/251576
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 18
+http://xtv.ooo:8080/0112228/0112229/362841
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 19
+http://xtv.ooo:8080/0112228/0112229/362842
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 20
+http://xtv.ooo:8080/0112228/0112229/362843
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 21
+http://xtv.ooo:8080/0112228/0112229/362844
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 01
+http://xtv.ooo:8080/0112228/0112229/268058
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 02
+http://xtv.ooo:8080/0112228/0112229/268065
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 03
+http://xtv.ooo:8080/0112228/0112229/270488
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 04
+http://xtv.ooo:8080/0112228/0112229/270489
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 05
+http://xtv.ooo:8080/0112228/0112229/270490
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 06
+http://xtv.ooo:8080/0112228/0112229/270491
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 07
+http://xtv.ooo:8080/0112228/0112229/270492
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 08
+http://xtv.ooo:8080/0112228/0112229/270493
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 09
+http://xtv.ooo:8080/0112228/0112229/270494
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 10
+http://xtv.ooo:8080/0112228/0112229/270495
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 11
+http://xtv.ooo:8080/0112228/0112229/270496
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 12
+http://xtv.ooo:8080/0112228/0112229/270497
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 13
+http://xtv.ooo:8080/0112228/0112229/270498
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 14
+http://xtv.ooo:8080/0112228/0112229/270499
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 15
+http://xtv.ooo:8080/0112228/0112229/270500
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 16
+http://xtv.ooo:8080/0112228/0112229/270501
+#EXTINF:-1 tvg-id="" tvg-name="Playlist 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC",Playlist 17
+http://xtv.ooo:8080/0112228/0112229/270502
+#EXTINF:-1 tvg-id="" tvg-name="15 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",15 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362986
+#EXTINF:-1 tvg-id="" tvg-name="16 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",16 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362987
+#EXTINF:-1 tvg-id="" tvg-name="17 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",17 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362988
+#EXTINF:-1 tvg-id="" tvg-name="18 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",18 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362989
+#EXTINF:-1 tvg-id="" tvg-name="01 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",01 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/253596
+#EXTINF:-1 tvg-id="" tvg-name="02 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",02 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/253597
+#EXTINF:-1 tvg-id="" tvg-name="03 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",03 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/253598
+#EXTINF:-1 tvg-id="" tvg-name="04 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",04 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263386
+#EXTINF:-1 tvg-id="" tvg-name="05 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",05 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263387
+#EXTINF:-1 tvg-id="" tvg-name="06 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",06 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263388
+#EXTINF:-1 tvg-id="" tvg-name="07 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",07 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263389
+#EXTINF:-1 tvg-id="" tvg-name="08 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",08 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263390
+#EXTINF:-1 tvg-id="" tvg-name="09 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",09 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263391
+#EXTINF:-1 tvg-id="" tvg-name="10 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",10 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263392
+#EXTINF:-1 tvg-id="" tvg-name="11 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",11 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263393
+#EXTINF:-1 tvg-id="" tvg-name="12 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",12 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263394
+#EXTINF:-1 tvg-id="" tvg-name="13 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",13 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263395
+#EXTINF:-1 tvg-id="" tvg-name="14 TOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/LOLLYWOODMOVIES247.png" group-title="24/7 SOUTH INDIAN DUBBED MOVIES",14 TOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/263396
+#EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS S16 24x7" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",BIGG BOSS S16 24x7
+http://xtv.ooo:8080/0112228/0112229/207233
+#EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS S15 24x7" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",BIGG BOSS S15 24x7
+http://xtv.ooo:8080/0112228/0112229/219642
+#EXTINF:-1 tvg-id="" tvg-name="CID 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CID 24x7
+http://xtv.ooo:8080/0112228/0112229/340808
+#EXTINF:-1 tvg-id="" tvg-name="CID | BACK TO BACK" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2N2M4YWMtYWE2OS00YzlmLThlZDEtOGZkMTQ5MzgwMTI5XkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_FMjpg_UX1000_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CID | BACK TO BACK
+http://xtv.ooo:8080/0112228/0112229/340873
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL Shatrak 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Crime-Patrol-Satark1_landscape_Thumb2.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL Shatrak 24x7
+http://xtv.ooo:8080/0112228/0112229/340874
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL DIAL100 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNiNDQ2MjctNmUwNC00N2ZlLTk3ODYtNTFmOWI1NzdmMTAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL DIAL100 24x7
+http://xtv.ooo:8080/0112228/0112229/340875
+#EXTINF:-1 tvg-id="" tvg-name="CRIME PATROL 2.0 24x7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/CP_rev_14april_landscape_thumb.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",CRIME PATROL 2.0 24x7
+http://xtv.ooo:8080/0112228/0112229/340876
+#EXTINF:-1 tvg-id="" tvg-name="The Kapil Sharma Show 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/The_Kapil_Sharma_Show_logo.png" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",The Kapil Sharma Show 24x7
+http://xtv.ooo:8080/0112228/0112229/342075
+#EXTINF:-1 tvg-id="" tvg-name="Indian Idol S13 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Indian_Idol.png/250px-Indian_Idol.png" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",Indian Idol S13 24x7
+http://xtv.ooo:8080/0112228/0112229/344483
+#EXTINF:-1 tvg-id="" tvg-name="Super Dancer Chapter4 24x7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Super_Dancer.png" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",Super Dancer Chapter4 24x7
+http://xtv.ooo:8080/0112228/0112229/344486
+#EXTINF:-1 tvg-id="" tvg-name="Crime Patrol Shatrak S2 24x7" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM4ZWU1M2UtYTc4Ni00MzdkLThiNTEtOTM4ODcwMWYwMGE1XkEyXkFqcGdeQXVyMTMxODc2MDIz._V1_.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",Crime Patrol Shatrak S2 24x7
+http://xtv.ooo:8080/0112228/0112229/345742
+#EXTINF:-1 tvg-id="" tvg-name="HORROR DRAMA 24x7" tvg-logo="" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",HORROR DRAMA 24x7
+http://xtv.ooo:8080/0112228/0112229/368954
+#EXTINF:-1 tvg-id="" tvg-name="46 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",46 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251577
+#EXTINF:-1 tvg-id="" tvg-name="47 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",47 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251578
+#EXTINF:-1 tvg-id="" tvg-name="48 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",48 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251579
+#EXTINF:-1 tvg-id="" tvg-name="49 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",49 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251580
+#EXTINF:-1 tvg-id="" tvg-name="50 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",50 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251581
+#EXTINF:-1 tvg-id="" tvg-name="51 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",51 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251582
+#EXTINF:-1 tvg-id="" tvg-name="52 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",52 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251583
+#EXTINF:-1 tvg-id="" tvg-name="53 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",53 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251584
+#EXTINF:-1 tvg-id="" tvg-name="54 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",54 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251585
+#EXTINF:-1 tvg-id="" tvg-name="55 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",55 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251586
+#EXTINF:-1 tvg-id="" tvg-name="56 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",56 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251587
+#EXTINF:-1 tvg-id="" tvg-name="57 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",57 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251588
+#EXTINF:-1 tvg-id="" tvg-name="58 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",58 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251589
+#EXTINF:-1 tvg-id="" tvg-name="59 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",59 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251590
+#EXTINF:-1 tvg-id="" tvg-name="60 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",60 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/251591
+#EXTINF:-1 tvg-id="" tvg-name="61 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",61 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362976
+#EXTINF:-1 tvg-id="" tvg-name="62 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",62 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362977
+#EXTINF:-1 tvg-id="" tvg-name="63 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",63 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362978
+#EXTINF:-1 tvg-id="" tvg-name="64 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",64 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362979
+#EXTINF:-1 tvg-id="" tvg-name="65 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",65 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362980
+#EXTINF:-1 tvg-id="" tvg-name="66 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",66 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362981
+#EXTINF:-1 tvg-id="" tvg-name="67 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD SHEMAROO MOVIES",67 BOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/362982
+#EXTINF:-1 tvg-id="" tvg-name="01 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",01 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/285183
+#EXTINF:-1 tvg-id="" tvg-name="02 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",02 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/301092
+#EXTINF:-1 tvg-id="" tvg-name="03 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",03 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/301093
+#EXTINF:-1 tvg-id="" tvg-name="04 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",04 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/301094
+#EXTINF:-1 tvg-id="" tvg-name="05 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",05 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/301095
+#EXTINF:-1 tvg-id="" tvg-name="06 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",06 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/301096
+#EXTINF:-1 tvg-id="" tvg-name="07 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",07 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/301097
+#EXTINF:-1 tvg-id="" tvg-name="08 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",08 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/301098
+#EXTINF:-1 tvg-id="" tvg-name="09 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",09 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/301099
+#EXTINF:-1 tvg-id="" tvg-name="10 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",10 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/341310
+#EXTINF:-1 tvg-id="" tvg-name="11 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",11 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/341311
+#EXTINF:-1 tvg-id="" tvg-name="12 HOLLYWOOD ACTION 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title="24/7 HOLLYWOOD ACTION MOVIES",12 HOLLYWOOD ACTION 24/7
+http://xtv.ooo:8080/0112228/0112229/341312
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="24/7 HOLLYWOOD BLOCKBUSTER",•●★--- Welcome ----★●•
+http://xtv.ooo:8080/0112228/0112229/369818
+#EXTINF:-1 tvg-id="" tvg-name="Movies: Fast & Furious 24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",Movies: Fast & Furious 24/7
+http://xtv.ooo:8080/0112228/0112229/369819
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES: INDIANA JONES 24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",MOVIES: INDIANA JONES 24/7
+http://xtv.ooo:8080/0112228/0112229/369820
+#EXTINF:-1 tvg-id="" tvg-name="SHOWS:JAMES BOND 24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",SHOWS:JAMES BOND 24/7
+http://xtv.ooo:8080/0112228/0112229/369821
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES: The transporter 24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",MOVIES: The transporter 24/7
+http://xtv.ooo:8080/0112228/0112229/369822
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Globe_Tamil_Bloclbuster" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7: Globe_Tamil_Bloclbuster
+http://xtv.ooo:8080/0112228/0112229/369823
+#EXTINF:-1 tvg-id="" tvg-name="Movies: X-Men 24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",Movies: X-Men 24/7
+http://xtv.ooo:8080/0112228/0112229/369824
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES: Blade 24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",MOVIES: Blade 24/7
+http://xtv.ooo:8080/0112228/0112229/369825
+#EXTINF:-1 tvg-id="" tvg-name="Movies: CAPTAIN AMERICA / AVENGERS  24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",Movies: CAPTAIN AMERICA / AVENGERS  24/7
+http://xtv.ooo:8080/0112228/0112229/369826
+#EXTINF:-1 tvg-id="" tvg-name="Movies: Pirates Of The Caribbean 24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",Movies: Pirates Of The Caribbean 24/7
+http://xtv.ooo:8080/0112228/0112229/369827
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES: ROCKY MOVIES 24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",MOVIES: ROCKY MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/369828
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES: CARRY ON MOVIES  24/7" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",MOVIES: CARRY ON MOVIES  24/7
+http://xtv.ooo:8080/0112228/0112229/369829
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: Fast and Furious Collection" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: Fast and Furious Collection
+http://xtv.ooo:8080/0112228/0112229/369830
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: Cyborg  + Blade" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: Cyborg  + Blade
+http://xtv.ooo:8080/0112228/0112229/369831
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: Jeepers_creepes + Scream" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: Jeepers_creepes + Scream
+http://xtv.ooo:8080/0112228/0112229/369832
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: Jurassic World Colletion" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: Jurassic World Colletion
+http://xtv.ooo:8080/0112228/0112229/369833
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: Oceans Complete Collection" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: Oceans Complete Collection
+http://xtv.ooo:8080/0112228/0112229/369834
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: Rambo_collection" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: Rambo_collection
+http://xtv.ooo:8080/0112228/0112229/369835
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: The_kingsman + Mission_impossoble Collection" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: The_kingsman + Mission_impossoble Collection
+http://xtv.ooo:8080/0112228/0112229/369836
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: Halloween + Jaws." tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: Halloween + Jaws.
+http://xtv.ooo:8080/0112228/0112229/369837
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: John_wick+MiiB+Mortal_kombat" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: John_wick+MiiB+Mortal_kombat
+http://xtv.ooo:8080/0112228/0112229/369838
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: Bruce_lee+Underworld+godfather" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: Bruce_lee+Underworld+godfather
+http://xtv.ooo:8080/0112228/0112229/369839
+#EXTINF:-1 tvg-id="" tvg-name="24/7 4k: 4K_movies_2022_2021_vol_3" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 4k: 4K_movies_2022_2021_vol_3
+http://xtv.ooo:8080/0112228/0112229/369840
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: 4K_movies_2022_2021_vol_2" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: 4K_movies_2022_2021_vol_2
+http://xtv.ooo:8080/0112228/0112229/369841
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies: 4K_movies_2022_2021_vol_1" tvg-logo="" group-title="24/7 HOLLYWOOD BLOCKBUSTER",24/7 Movies: 4K_movies_2022_2021_vol_1
+http://xtv.ooo:8080/0112228/0112229/369842
+#EXTINF:-1 tvg-id="" tvg-name="2023 HOLLYWOOD MOVIES 24/7 01" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",2023 HOLLYWOOD MOVIES 24/7 01
+http://xtv.ooo:8080/0112228/0112229/345767
+#EXTINF:-1 tvg-id="" tvg-name="2023 HOLLYWOOD MOVIES 24/7 02" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",2023 HOLLYWOOD MOVIES 24/7 02
+http://xtv.ooo:8080/0112228/0112229/345768
+#EXTINF:-1 tvg-id="" tvg-name="01 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",01 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345769
+#EXTINF:-1 tvg-id="" tvg-name="02 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",02 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345770
+#EXTINF:-1 tvg-id="" tvg-name="03 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",03 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345771
+#EXTINF:-1 tvg-id="" tvg-name="04 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",04 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345772
+#EXTINF:-1 tvg-id="" tvg-name="05 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",05 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345773
+#EXTINF:-1 tvg-id="" tvg-name="06 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",06 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345774
+#EXTINF:-1 tvg-id="" tvg-name="07 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",07 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345775
+#EXTINF:-1 tvg-id="" tvg-name="08 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",08 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345776
+#EXTINF:-1 tvg-id="" tvg-name="09 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",09 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345777
+#EXTINF:-1 tvg-id="" tvg-name="10 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",10 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345778
+#EXTINF:-1 tvg-id="" tvg-name="11 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",11 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345779
+#EXTINF:-1 tvg-id="" tvg-name="12 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",12 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345780
+#EXTINF:-1 tvg-id="" tvg-name="13 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",13 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345781
+#EXTINF:-1 tvg-id="" tvg-name="14 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",14 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345782
+#EXTINF:-1 tvg-id="" tvg-name="15 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",15 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345783
+#EXTINF:-1 tvg-id="" tvg-name="16 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",16 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345784
+#EXTINF:-1 tvg-id="" tvg-name="17 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",17 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345785
+#EXTINF:-1 tvg-id="" tvg-name="18 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",18 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345786
+#EXTINF:-1 tvg-id="" tvg-name="19 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",19 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345787
+#EXTINF:-1 tvg-id="" tvg-name="20 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",20 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345788
+#EXTINF:-1 tvg-id="" tvg-name="21 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",21 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345789
+#EXTINF:-1 tvg-id="" tvg-name="22 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",22 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345790
+#EXTINF:-1 tvg-id="" tvg-name="23 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",23 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345791
+#EXTINF:-1 tvg-id="" tvg-name="24 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",24 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345792
+#EXTINF:-1 tvg-id="" tvg-name="25 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",25 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345793
+#EXTINF:-1 tvg-id="" tvg-name="26 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",26 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345794
+#EXTINF:-1 tvg-id="" tvg-name="27 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",27 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345795
+#EXTINF:-1 tvg-id="" tvg-name="28 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",28 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345796
+#EXTINF:-1 tvg-id="" tvg-name="29 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",29 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345797
+#EXTINF:-1 tvg-id="" tvg-name="30 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",30 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345798
+#EXTINF:-1 tvg-id="" tvg-name="31 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",31 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345799
+#EXTINF:-1 tvg-id="" tvg-name="32 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",32 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345800
+#EXTINF:-1 tvg-id="" tvg-name="33 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",33 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345801
+#EXTINF:-1 tvg-id="" tvg-name="34 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",34 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345802
+#EXTINF:-1 tvg-id="" tvg-name="35 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",35 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345803
+#EXTINF:-1 tvg-id="" tvg-name="36 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",36 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345804
+#EXTINF:-1 tvg-id="" tvg-name="37 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",37 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345805
+#EXTINF:-1 tvg-id="" tvg-name="38 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",38 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345806
+#EXTINF:-1 tvg-id="" tvg-name="39 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",39 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345807
+#EXTINF:-1 tvg-id="" tvg-name="40 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",40 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345808
+#EXTINF:-1 tvg-id="" tvg-name="41 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",41 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345809
+#EXTINF:-1 tvg-id="" tvg-name="42 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",42 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345810
+#EXTINF:-1 tvg-id="" tvg-name="43 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",43 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345811
+#EXTINF:-1 tvg-id="" tvg-name="44 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",44 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345812
+#EXTINF:-1 tvg-id="" tvg-name="45 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",45 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345813
+#EXTINF:-1 tvg-id="" tvg-name="46 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",46 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345814
+#EXTINF:-1 tvg-id="" tvg-name="47 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",47 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345815
+#EXTINF:-1 tvg-id="" tvg-name="48 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",48 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345816
+#EXTINF:-1 tvg-id="" tvg-name="49 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",49 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345817
+#EXTINF:-1 tvg-id="" tvg-name="50 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",50 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345818
+#EXTINF:-1 tvg-id="" tvg-name="51 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",51 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345819
+#EXTINF:-1 tvg-id="" tvg-name="52 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",52 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345820
+#EXTINF:-1 tvg-id="" tvg-name="53 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",53 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345821
+#EXTINF:-1 tvg-id="" tvg-name="54 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",54 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345822
+#EXTINF:-1 tvg-id="" tvg-name="55 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",55 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345823
+#EXTINF:-1 tvg-id="" tvg-name="56 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",56 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345824
+#EXTINF:-1 tvg-id="" tvg-name="57 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",57 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345825
+#EXTINF:-1 tvg-id="" tvg-name="58 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",58 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345826
+#EXTINF:-1 tvg-id="" tvg-name="59 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",59 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345827
+#EXTINF:-1 tvg-id="" tvg-name="60 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",60 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345828
+#EXTINF:-1 tvg-id="" tvg-name="61 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",61 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345829
+#EXTINF:-1 tvg-id="" tvg-name="62 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",62 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345830
+#EXTINF:-1 tvg-id="" tvg-name="63 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",63 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345831
+#EXTINF:-1 tvg-id="" tvg-name="64 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",64 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345832
+#EXTINF:-1 tvg-id="" tvg-name="65 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",65 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345833
+#EXTINF:-1 tvg-id="" tvg-name="66 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",66 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345834
+#EXTINF:-1 tvg-id="" tvg-name="67 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",67 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345835
+#EXTINF:-1 tvg-id="" tvg-name="68 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",68 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345836
+#EXTINF:-1 tvg-id="" tvg-name="69 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",69 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345837
+#EXTINF:-1 tvg-id="" tvg-name="70 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",70 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345838
+#EXTINF:-1 tvg-id="" tvg-name="71 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",71 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345839
+#EXTINF:-1 tvg-id="" tvg-name="72 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",72 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345840
+#EXTINF:-1 tvg-id="" tvg-name="73 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",73 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345841
+#EXTINF:-1 tvg-id="" tvg-name="74 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",74 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345842
+#EXTINF:-1 tvg-id="" tvg-name="75 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",75 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345843
+#EXTINF:-1 tvg-id="" tvg-name="76 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",76 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345844
+#EXTINF:-1 tvg-id="" tvg-name="77 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",77 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345845
+#EXTINF:-1 tvg-id="" tvg-name="78 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",78 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345846
+#EXTINF:-1 tvg-id="" tvg-name="79 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",79 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345847
+#EXTINF:-1 tvg-id="" tvg-name="80 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",80 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345848
+#EXTINF:-1 tvg-id="" tvg-name="81 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",81 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345849
+#EXTINF:-1 tvg-id="" tvg-name="82 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",82 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345850
+#EXTINF:-1 tvg-id="" tvg-name="83 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",83 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345851
+#EXTINF:-1 tvg-id="" tvg-name="84 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",84 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345852
+#EXTINF:-1 tvg-id="" tvg-name="85 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",85 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345853
+#EXTINF:-1 tvg-id="" tvg-name="86 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",86 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345854
+#EXTINF:-1 tvg-id="" tvg-name="87 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",87 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345855
+#EXTINF:-1 tvg-id="" tvg-name="88 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",88 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345856
+#EXTINF:-1 tvg-id="" tvg-name="89 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",89 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345857
+#EXTINF:-1 tvg-id="" tvg-name="90 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",90 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345858
+#EXTINF:-1 tvg-id="" tvg-name="91 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",91 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345859
+#EXTINF:-1 tvg-id="" tvg-name="92 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",92 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345860
+#EXTINF:-1 tvg-id="" tvg-name="93 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",93 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345861
+#EXTINF:-1 tvg-id="" tvg-name="94 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",94 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345862
+#EXTINF:-1 tvg-id="" tvg-name="95 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",95 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345863
+#EXTINF:-1 tvg-id="" tvg-name="96 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",96 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345864
+#EXTINF:-1 tvg-id="" tvg-name="97 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",97 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345865
+#EXTINF:-1 tvg-id="" tvg-name="98 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",98 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345866
+#EXTINF:-1 tvg-id="" tvg-name="99 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",99 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345867
+#EXTINF:-1 tvg-id="" tvg-name="100 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",100 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345868
+#EXTINF:-1 tvg-id="" tvg-name="101 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",101 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345869
+#EXTINF:-1 tvg-id="" tvg-name="102 HOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODMOVIES247logo.png" group-title="24/7 HOLLYWOOD MOVIES",102 HOLLYWOOD MOVIES 24/7
+http://xtv.ooo:8080/0112228/0112229/345870
+#EXTINF:-1 tvg-id="" tvg-name="01 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",01 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341313
+#EXTINF:-1 tvg-id="" tvg-name="02 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",02 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341314
+#EXTINF:-1 tvg-id="" tvg-name="03 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",03 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341315
+#EXTINF:-1 tvg-id="" tvg-name="04 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",04 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341316
+#EXTINF:-1 tvg-id="" tvg-name="05 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",05 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341317
+#EXTINF:-1 tvg-id="" tvg-name="06 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",06 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341318
+#EXTINF:-1 tvg-id="" tvg-name="07 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",07 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341319
+#EXTINF:-1 tvg-id="" tvg-name="08 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",08 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341320
+#EXTINF:-1 tvg-id="" tvg-name="09 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",09 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341321
+#EXTINF:-1 tvg-id="" tvg-name="10 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",10 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341322
+#EXTINF:-1 tvg-id="" tvg-name="11 HOLLYWOOD HORROR 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",11 HOLLYWOOD HORROR 24/7
+http://xtv.ooo:8080/0112228/0112229/341323
+#EXTINF:-1 tvg-id="" tvg-name="01 HOLLYWOOD THRILLER 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODACTION247.png" group-title=" 24/7 HOLLYWOOD HORROR MOVIES",01 HOLLYWOOD THRILLER 24/7
+http://xtv.ooo:8080/0112228/0112229/341324
+#EXTINF:-1 tvg-id="" tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",•●★--- Welcome ----★●•
+http://xtv.ooo:8080/0112228/0112229/369802
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Money Heist" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Money Heist
+http://xtv.ooo:8080/0112228/0112229/369803
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Money Heist" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Money Heist
+http://xtv.ooo:8080/0112228/0112229/369804
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Money Heist  Korea" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Money Heist  Korea
+http://xtv.ooo:8080/0112228/0112229/369805
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Squid Game" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Squid Game
+http://xtv.ooo:8080/0112228/0112229/369806
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Viking Season 1-4" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Viking Season 1-4
+http://xtv.ooo:8080/0112228/0112229/369807
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Viking Season 5-6" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Viking Season 5-6
+http://xtv.ooo:8080/0112228/0112229/369808
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: The Wire" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: The Wire
+http://xtv.ooo:8080/0112228/0112229/369809
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Narcos" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Narcos
+http://xtv.ooo:8080/0112228/0112229/369810
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Man Vs Bee" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Man Vs Bee
+http://xtv.ooo:8080/0112228/0112229/369811
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: El Chapo" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: El Chapo
+http://xtv.ooo:8080/0112228/0112229/369812
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: King Of Queens Seasons 1-5" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: King Of Queens Seasons 1-5
+http://xtv.ooo:8080/0112228/0112229/369813
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: King Of Queens Seasons 6-9" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: King Of Queens Seasons 6-9
+http://xtv.ooo:8080/0112228/0112229/369814
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Breaking Bad" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Breaking Bad
+http://xtv.ooo:8080/0112228/0112229/369815
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: Band Of Brothers" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: Band Of Brothers
+http://xtv.ooo:8080/0112228/0112229/369816
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series: The Witcher" tvg-logo="" group-title="24/7 SERIES BLOCKBUSTER HOLLYWOOD",24/7 Series: The Witcher
+http://xtv.ooo:8080/0112228/0112229/369817
+#EXTINF:-1 tvg-id="" tvg-name="01 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",01 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/263421
+#EXTINF:-1 tvg-id="" tvg-name="02 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",02 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268020
+#EXTINF:-1 tvg-id="" tvg-name="03 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",03 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268021
+#EXTINF:-1 tvg-id="" tvg-name="04 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",04 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268022
+#EXTINF:-1 tvg-id="" tvg-name="05 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",05 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268023
+#EXTINF:-1 tvg-id="" tvg-name="06 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",06 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268024
+#EXTINF:-1 tvg-id="" tvg-name="07 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",07 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268025
+#EXTINF:-1 tvg-id="" tvg-name="08 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",08 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268026
+#EXTINF:-1 tvg-id="" tvg-name="09 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",09 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268027
+#EXTINF:-1 tvg-id="" tvg-name="10 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",10 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268028
+#EXTINF:-1 tvg-id="" tvg-name="11 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",11 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268029
+#EXTINF:-1 tvg-id="" tvg-name="12 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",12 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268030
+#EXTINF:-1 tvg-id="" tvg-name="13 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",13 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268031
+#EXTINF:-1 tvg-id="" tvg-name="14 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",14 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268032
+#EXTINF:-1 tvg-id="" tvg-name="15 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",15 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268033
+#EXTINF:-1 tvg-id="" tvg-name="16 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",16 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268034
+#EXTINF:-1 tvg-id="" tvg-name="17 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",17 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268035
+#EXTINF:-1 tvg-id="" tvg-name="18 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",18 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268036
+#EXTINF:-1 tvg-id="" tvg-name="19 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",19 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268037
+#EXTINF:-1 tvg-id="" tvg-name="20 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",20 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268038
+#EXTINF:-1 tvg-id="" tvg-name="21 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",21 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268039
+#EXTINF:-1 tvg-id="" tvg-name="22 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",22 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268040
+#EXTINF:-1 tvg-id="" tvg-name="23 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",23 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268041
+#EXTINF:-1 tvg-id="" tvg-name="24 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",24 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268042
+#EXTINF:-1 tvg-id="" tvg-name="25 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",25 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268043
+#EXTINF:-1 tvg-id="" tvg-name="26 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",26 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268044
+#EXTINF:-1 tvg-id="" tvg-name="27 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",27 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268045
+#EXTINF:-1 tvg-id="" tvg-name="28 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",28 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268046
+#EXTINF:-1 tvg-id="" tvg-name="29 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",29 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268047
+#EXTINF:-1 tvg-id="" tvg-name="30 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",30 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268048
+#EXTINF:-1 tvg-id="" tvg-name="31 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",31 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268049
+#EXTINF:-1 tvg-id="" tvg-name="32 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",32 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268050
+#EXTINF:-1 tvg-id="" tvg-name="33 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",33 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268051
+#EXTINF:-1 tvg-id="" tvg-name="34 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",34 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268052
+#EXTINF:-1 tvg-id="" tvg-name="35 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",35 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268053
+#EXTINF:-1 tvg-id="" tvg-name="36 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",36 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268054
+#EXTINF:-1 tvg-id="" tvg-name="37 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",37 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268055
+#EXTINF:-1 tvg-id="" tvg-name="38 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",38 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268056
+#EXTINF:-1 tvg-id="" tvg-name="39 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",39 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/268057
+#EXTINF:-1 tvg-id="" tvg-name="40 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",40 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/362990
+#EXTINF:-1 tvg-id="" tvg-name="41 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",41 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/362991
+#EXTINF:-1 tvg-id="" tvg-name="42 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",42 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/362992
+#EXTINF:-1 tvg-id="" tvg-name="43 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",43 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/362993
+#EXTINF:-1 tvg-id="" tvg-name="44 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",44 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/362994
+#EXTINF:-1 tvg-id="" tvg-name="45 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",45 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/362995
+#EXTINF:-1 tvg-id="" tvg-name="46 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES",46 HOLLYWOOD HINDI DUBBED 24/7
+http://xtv.ooo:8080/0112228/0112229/362996
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E01
+http://xtv.ooo:8080/series/0112228/0112229/265946.mkv
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E02
+http://xtv.ooo:8080/series/0112228/0112229/265947.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E03
+http://xtv.ooo:8080/series/0112228/0112229/265948.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E04
+http://xtv.ooo:8080/series/0112228/0112229/265949.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E05
+http://xtv.ooo:8080/series/0112228/0112229/265950.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E06
+http://xtv.ooo:8080/series/0112228/0112229/265951.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E07
+http://xtv.ooo:8080/series/0112228/0112229/265952.mkv
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E08
+http://xtv.ooo:8080/series/0112228/0112229/265953.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E09
+http://xtv.ooo:8080/series/0112228/0112229/265954.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E10
+http://xtv.ooo:8080/series/0112228/0112229/265955.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E11
+http://xtv.ooo:8080/series/0112228/0112229/265956.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E12
+http://xtv.ooo:8080/series/0112228/0112229/265957.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E13
+http://xtv.ooo:8080/series/0112228/0112229/265958.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E14
+http://xtv.ooo:8080/series/0112228/0112229/265959.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E15
+http://xtv.ooo:8080/series/0112228/0112229/265960.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E16
+http://xtv.ooo:8080/series/0112228/0112229/265961.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E17
+http://xtv.ooo:8080/series/0112228/0112229/265962.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E18
+http://xtv.ooo:8080/series/0112228/0112229/265963.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E19
+http://xtv.ooo:8080/series/0112228/0112229/265964.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E20
+http://xtv.ooo:8080/series/0112228/0112229/265965.mp4 
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E21
+http://xtv.ooo:8080/series/0112228/0112229/265966.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E22
+http://xtv.ooo:8080/series/0112228/0112229/265967.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E23
+http://xtv.ooo:8080/series/0112228/0112229/265968.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E24
+http://xtv.ooo:8080/series/0112228/0112229/265969.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E25
+http://xtv.ooo:8080/series/0112228/0112229/265970.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E26
+http://xtv.ooo:8080/series/0112228/0112229/265971.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E27
+http://xtv.ooo:8080/series/0112228/0112229/265972.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E28
+http://xtv.ooo:8080/series/0112228/0112229/265973.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E29
+http://xtv.ooo:8080/series/0112228/0112229/265974.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E30
+http://xtv.ooo:8080/series/0112228/0112229/265975.mp4
+#EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E31
+http://xtv.ooo:8080/series/0112228/0112229/265976.mkv
