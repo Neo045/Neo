@@ -1,7 +1,151 @@
 #EXTM3U
-#EXP March 05.2025
+#Exp_March_5_2025
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="" tvg-name="*** WellCome ***" tvg-logo="" group-title="CRICKET",*** WellCome ***
+http://xtv.ooo:8080/0112228/0112229/26014
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
+http://xtv.ooo:8080/0112228/0112229/167567
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS HD
+http://xtv.ooo:8080/0112228/0112229/217968
+#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET",PK | Geo Super HD
+http://xtv.ooo:8080/0112228/0112229/167568
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/02/df8bdc0787eb68c35292ff74fa60466b-2-3.jpg" group-title="CRICKET",PK: TEN SPORTS
+http://xtv.ooo:8080/0112228/0112229/167569
+#EXTINF:-1 tvg-id="" tvg-name="T20 WORLD CUP 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png" group-title="CRICKET",T20 WORLD CUP 01
+http://xtv.ooo:8080/0112228/0112229/219643
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD (Server 1)
+http://xtv.ooo:8080/0112228/0112229/219689
+#EXTINF:-1 tvg-id="" tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET",PK: A Sports HD (Server 2)
+http://xtv.ooo:8080/0112228/0112229/221417
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN | Sony Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET",IN | Sony Ten 1 HD
+http://xtv.ooo:8080/0112228/0112229/167570
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN | Sony Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET",IN | Sony Ten 2 HD
+http://xtv.ooo:8080/0112228/0112229/167571
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN | Sony Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="CRICKET",IN | Sony Ten 3 HD
+http://xtv.ooo:8080/0112228/0112229/167572
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 4" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1624_1.png" group-title="CRICKET",IN: Sony Ten 4
+http://xtv.ooo:8080/0112228/0112229/167595
+#EXTINF:-1 tvg-id="" tvg-name="CRI: Ten Cricket" tvg-logo="https://www.pngkey.com/png/detail/244-2446295_pakistan-ten-sports-channel-logo.png" group-title="CRICKET",CRI: Ten Cricket
+http://xtv.ooo:8080/0112228/0112229/167587
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
+http://xtv.ooo:8080/0112228/0112229/167573
+#EXTINF:-1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: Star Sports tamil 1
+http://xtv.ooo:8080/0112228/0112229/167574
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
+http://xtv.ooo:8080/0112228/0112229/167575
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD
+http://xtv.ooo:8080/0112228/0112229/167576
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CRICKET",IN | Star Sports 3 HD
+http://xtv.ooo:8080/0112228/0112229/167577
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 1
+http://xtv.ooo:8080/0112228/0112229/167578
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 2
+http://xtv.ooo:8080/0112228/0112229/167579
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="CRICKET",IN | SONY TEN 5
+http://xtv.ooo:8080/0112228/0112229/167580
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET",IN | Astro Cricket HD
+http://xtv.ooo:8080/0112228/0112229/167581
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="CRICKET",SuperSport Cricket
+http://xtv.ooo:8080/0112228/0112229/167592
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="CRICKET",AU: FOX CRICKET 501
+http://xtv.ooo:8080/0112228/0112229/167593
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title="CRICKET",UK: Sky Sports Cricket
+http://xtv.ooo:8080/0112228/0112229/167594
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="CRICKET",IN | Willow Xtra
+http://xtv.ooo:8080/0112228/0112229/167582
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET",IN: Willow Cricket HD
+http://xtv.ooo:8080/0112228/0112229/167583
+#EXTINF:-1 tvg-id="" tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title="CRICKET",BS | beIN SPORT CRICKET
+http://xtv.ooo:8080/0112228/0112229/167584
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="CRICKET",IN: EUROSPORT HD
+http://xtv.ooo:8080/0112228/0112229/167585
+#EXTINF:-1 tvg-id="" tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET",IN: 1SPORTS
+http://xtv.ooo:8080/0112228/0112229/167586
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title="CRICKET",IN: DD Sports
+http://xtv.ooo:8080/0112228/0112229/167588
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET",T-SPORTS
+http://xtv.ooo:8080/0112228/0112229/167590
+#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title="CRICKET",AFG: RTA SPORTS
+http://xtv.ooo:8080/0112228/0112229/167591
+#EXTINF:-1 tvg-id="" tvg-name="IND: jio Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="CRICKET",IND: jio Cricket
+http://xtv.ooo:8080/0112228/0112229/206297
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK: TNT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET",UK: TNT Sport 2 CRICKET
+http://xtv.ooo:8080/0112228/0112229/206566
+#EXTINF:-1 tvg-id="" tvg-name="PK: MAQ TV CRICKET" tvg-logo="" group-title="CRICKET",PK: MAQ TV CRICKET
+http://xtv.ooo:8080/0112228/0112229/207190
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="CRICKET",NZ: SKY Sport Cricket 3
+http://xtv.ooo:8080/0112228/0112229/217530
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sports 18 (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title="CRICKET",IN: Sports 18 (4K)
+http://xtv.ooo:8080/0112228/0112229/302600
+#EXTINF:-1 tvg-id="" tvg-name="PK: FAST SPORTS" tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="CRICKET",PK: FAST SPORTS
+http://xtv.ooo:8080/0112228/0112229/308225
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay CricLife 1" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="CRICKET",StarzPlay CricLife 1
+http://xtv.ooo:8080/0112228/0112229/371469
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay CricLife 2" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="CRICKET",StarzPlay CricLife 2
+http://xtv.ooo:8080/0112228/0112229/371470
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay CricLife 3" tvg-logo="http://logo.opplextv.com/logo/criclifelogo.png" group-title="CRICKET",StarzPlay CricLife 3
+http://xtv.ooo:8080/0112228/0112229/371471
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E01" tvg-logo="http://webo.asia/logos/quran/1.png" group-title="ISLAMIC",QURAN MAJEED S01 E01
+http://xtv.ooo:8080/series/0112228/0112229/39336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E02" tvg-logo="http://webo.asia/logos/quran/2.png" group-title="ISLAMIC",QURAN MAJEED S01 E02
+http://xtv.ooo:8080/series/0112228/0112229/39337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E03" tvg-logo="http://webo.asia/logos/quran/3.png" group-title="ISLAMIC",QURAN MAJEED S01 E03
+http://xtv.ooo:8080/series/0112228/0112229/39338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E04" tvg-logo="http://webo.asia/logos/quran/4.png" group-title="ISLAMIC",QURAN MAJEED S01 E04
+http://xtv.ooo:8080/series/0112228/0112229/39339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E05" tvg-logo="http://webo.asia/logos/quran/5.png" group-title="ISLAMIC",QURAN MAJEED S01 E05
+http://xtv.ooo:8080/series/0112228/0112229/39340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E06" tvg-logo="http://webo.asia/logos/quran/6.png" group-title="ISLAMIC",QURAN MAJEED S01 E06
+http://xtv.ooo:8080/series/0112228/0112229/39341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E07" tvg-logo="http://webo.asia/logos/quran/7.png" group-title="ISLAMIC",QURAN MAJEED S01 E07
+http://xtv.ooo:8080/series/0112228/0112229/39342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E08" tvg-logo="http://webo.asia/logos/quran/8.png" group-title="ISLAMIC",QURAN MAJEED S01 E08
+http://xtv.ooo:8080/series/0112228/0112229/39343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E09" tvg-logo="http://webo.asia/logos/quran/9.png" group-title="ISLAMIC",QURAN MAJEED S01 E09
+http://xtv.ooo:8080/series/0112228/0112229/39344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E10" tvg-logo="http://webo.asia/logos/quran/10.png" group-title="ISLAMIC",QURAN MAJEED S01 E10
+http://xtv.ooo:8080/series/0112228/0112229/39345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E11
+http://xtv.ooo:8080/series/0112228/0112229/39346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E12
+http://xtv.ooo:8080/series/0112228/0112229/39347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E13
+http://xtv.ooo:8080/series/0112228/0112229/39348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E14
+http://xtv.ooo:8080/series/0112228/0112229/39349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E15
+http://xtv.ooo:8080/series/0112228/0112229/39350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E16
+http://xtv.ooo:8080/series/0112228/0112229/39351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E17
+http://xtv.ooo:8080/series/0112228/0112229/39352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E18
+http://xtv.ooo:8080/series/0112228/0112229/39353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E19
+http://xtv.ooo:8080/series/0112228/0112229/39354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E20
+http://xtv.ooo:8080/series/0112228/0112229/39355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E21
+http://xtv.ooo:8080/series/0112228/0112229/39356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E22
+http://xtv.ooo:8080/series/0112228/0112229/39357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E23
+http://xtv.ooo:8080/series/0112228/0112229/39358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E24
+http://xtv.ooo:8080/series/0112228/0112229/39359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E25
+http://xtv.ooo:8080/series/0112228/0112229/39360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E26
+http://xtv.ooo:8080/series/0112228/0112229/39361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E27
+http://xtv.ooo:8080/series/0112228/0112229/39362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E28
+http://xtv.ooo:8080/series/0112228/0112229/39363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E29
+http://xtv.ooo:8080/series/0112228/0112229/39364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E30
+http://xtv.ooo:8080/series/0112228/0112229/39365.mkv
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max (4K)
 http://xtv.ooo:8080/0112228/0112229/109957
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (TATAPLAY)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max (Tata Play)
@@ -1291,4 +1435,4 @@ http://xtv.ooo:8080/series/0112228/0112229/265974.mp4
 #EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E30
 http://xtv.ooo:8080/series/0112228/0112229/265975.mp4
 #EXTINF:-1 tvg-id="Pyaar.Lafzon.Mein.Kaha" tvg-name="Pyaar Lafzon Mein Kaha" tvg-logo="https://images2.imgbox.com/a7/55/ZYm3Kww0_o.jpeg" group-title="Pyaar Lafzon Mein Kaha ( Turkish Drama In Hindi )",Pyaar Lafzon Mein Kaha S01E31
-http://xtv.ooo:8080/series/0112228/0112229/265976.mkv 
+http://xtv.ooo:8080/series/0112228/0112229/265976.mkv
