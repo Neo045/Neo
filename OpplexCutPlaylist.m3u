@@ -2,6 +2,20 @@
 #Exp_March_5_2025
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 1" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 1
+http://xtv.ooo:8080/haroonali345/2345678/220059
+#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 2" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 2
+http://xtv.ooo:8080/haroonali345/2345678/220060
+#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 3" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 3
+http://xtv.ooo:8080/haroonali345/2345678/220061
+#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 4" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 4
+http://xtv.ooo:8080/haroonali345/2345678/220062
+#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 5" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 5
+http://xtv.ooo:8080/haroonali345/2345678/220063
+#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 6" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 6
+http://xtv.ooo:8080/haroonali345/2345678/220064
+#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 7" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 7
+http://xtv.ooo:8080/haroonali345/2345678/220065
 #EXTINF:-1 tvg-id="" tvg-name="*** WellCome ***" tvg-logo="" group-title="CRICKET",*** WellCome ***
 http://xtv.ooo:8080/0112228/0112229/26014
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
