@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="Neo2" tvg-name="See How To Update Playlists" tvg-logo="https://i.ibb.co/PCkk3NN/images-1.jpg" group-title="Playlists Update Tutorial",See How To Update Playlists
+https://video.twimg.com/ext_tw_video/1804477985812303872/pr/vid/avc1/1624x720/52-wzm5dnwVPKXYN.mp4?tag=12
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v74Rw1/Daredevil-season-1-poster.jpg" group-title="Marvel's DareDevil Season 01",S01E01☞ Into The Ring
 http://103.145.232.246/Data/tvseries/English/Marvels%20Daredevil/s01/Daredevil.S01E01.Into.the.Ring.720p.WEB-DL.Hin-Eng.x265.HEVC-KatmovieHD.nl.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v74Rw1/Daredevil-season-1-poster.jpg" group-title="Marvel's DareDevil Season 01",S01E02☞ Cut Man
