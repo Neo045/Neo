@@ -148,19 +148,19 @@ http://xtv.ooo:8080/series/0112228/0112229/39363.mkv
 http://xtv.ooo:8080/series/0112228/0112229/39364.mkv
 #EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E30
 http://xtv.ooo:8080/series/0112228/0112229/39365.mkv
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (4K)" tvg-logo="https://i.postimg.cc/5yM4g2bP/channels4-profile.jpg" group-title="Sony Max",Sony Max (4K)
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/SonyMax.jpg" group-title="Sony Max",Sony Max (4K)
 http://xtv.ooo:8080/0112228/0112229/109957
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (TATAPLAY)" tvg-logo="https://i.postimg.cc/5yM4g2bP/channels4-profile.jpg" group-title="Sony Max",Sony Max (Tata Play)
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (TATAPLAY)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/SonyMax.jpg" group-title="Sony Max",Sony Max (Tata Play)
 http://xtv.ooo:8080/0112228/0112229/221259
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/5yM4g2bP/channels4-profile.jpg" group-title="Sony Max",Sony Max HD
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/SonyMax.jpg" group-title="Sony Max",Sony Max HD
 http://xtv.ooo:8080/0112228/0112229/66179
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max [FHD]" tvg-logo="https://i.postimg.cc/5yM4g2bP/channels4-profile.jpg" group-title="Sony Max",Sony Max [FHD]
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max [FHD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/SonyMax.jpg" group-title="Sony Max",Sony Max [FHD]
 http://xtv.ooo:8080/0112228/0112229/66180
 #EXTINF:-1 tvg-id="sonymax.uk" tvg-name="Sony Max 2" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/SonyMax2.jpg" group-title="Sony Max",Sony Max 2
 http://xtv.ooo:8080/0112228/0112229/66189
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix (4K)" tvg-logo="https://i.postimg.cc/D0FgT171/images.jpg" group-title="Sony Pix",Sony Pix (4K)
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/SonyPix.jpg" group-title="Sony Pix",Sony Pix (4K)
 http://xtv.ooo:8080/0112228/0112229/109966
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://i.postimg.cc/D0FgT171/images.jpg" group-title="Sony Pix",Sony Pix HD
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/SonyPix.jpg" group-title="Sony Pix",Sony Pix HD
 http://xtv.ooo:8080/0112228/0112229/66224
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Star Movies (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarMovies.jpg" group-title="Star Movies",Star Movies (4K)
 http://xtv.ooo:8080/0112228/0112229/109970
