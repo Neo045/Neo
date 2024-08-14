@@ -4,20 +4,6 @@
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
 #EXTINF:-1 tvg-id="Neo2" tvg-name="See How To Update Playlists" tvg-logo="https://i.ibb.co/PCkk3NN/images-1.jpg" group-title="Playlists Update Tutorial",See How To Update Playlists
 https://video.twimg.com/ext_tw_video/1804477985812303872/pr/vid/avc1/1624x720/52-wzm5dnwVPKXYN.mp4?tag=12
-#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 1" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 1
-http://xtv.ooo:8080/haroonali345/2345678/220059
-#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 2" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 2
-http://xtv.ooo:8080/haroonali345/2345678/220060
-#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 3" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 3
-http://xtv.ooo:8080/haroonali345/2345678/220061
-#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 4" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 4
-http://xtv.ooo:8080/haroonali345/2345678/220062
-#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 5" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 5
-http://xtv.ooo:8080/haroonali345/2345678/220063
-#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 6" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 6
-http://xtv.ooo:8080/haroonali345/2345678/220064
-#EXTINF:-1 tvg-id="T-20SERVER" tvg-name="SERVER 7" tvg-logo="https://images2.imgbox.com/77/34/dZvSobEu_o.jpeg" group-title="CRI | T-20 World Cup (2024)",SERVER 7
-http://xtv.ooo:8080/haroonali345/2345678/220065
 #EXTINF:-1 tvg-id="" tvg-name="*** WellCome ***" tvg-logo="" group-title="CRICKET",*** WellCome ***
 http://xtv.ooo:8080/0112228/0112229/26014
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
@@ -162,85 +148,83 @@ http://xtv.ooo:8080/series/0112228/0112229/39363.mkv
 http://xtv.ooo:8080/series/0112228/0112229/39364.mkv
 #EXTINF:-1 tvg-id="" tvg-name="QURAN MAJEED S01 E30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Quran2.png" group-title="ISLAMIC",QURAN MAJEED S01 E30
 http://xtv.ooo:8080/series/0112228/0112229/39365.mkv
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max (4K)
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (4K)" tvg-logo="https://i.postimg.cc/5yM4g2bP/channels4-profile.jpg" group-title="Sony Max",Sony Max (4K)
 http://xtv.ooo:8080/0112228/0112229/109957
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (TATAPLAY)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max (Tata Play)
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (TATAPLAY)" tvg-logo="https://i.postimg.cc/5yM4g2bP/channels4-profile.jpg" group-title="Sony Max",Sony Max (Tata Play)
 http://xtv.ooo:8080/0112228/0112229/221259
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max HD
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/5yM4g2bP/channels4-profile.jpg" group-title="Sony Max",Sony Max HD
 http://xtv.ooo:8080/0112228/0112229/66179
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max [FHD]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max [FHD]
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max [FHD]" tvg-logo="https://i.postimg.cc/5yM4g2bP/channels4-profile.jpg" group-title="Sony Max",Sony Max [FHD]
 http://xtv.ooo:8080/0112228/0112229/66180
-#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="Sony Max 2" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqm6N.jpg" group-title="Sony Max",Sony Max 2
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="Sony Max 2" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/SonyMax2.jpg" group-title="Sony Max",Sony Max 2
 http://xtv.ooo:8080/0112228/0112229/66189
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCNMo.png" group-title="Sony Pix",Sony Pix (4K)
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix (4K)" tvg-logo="https://i.postimg.cc/D0FgT171/images.jpg" group-title="Sony Pix",Sony Pix (4K)
 http://xtv.ooo:8080/0112228/0112229/109966
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCNMo.png" group-title="Sony Pix",Sony Pix HD
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://i.postimg.cc/D0FgT171/images.jpg" group-title="Sony Pix",Sony Pix HD
 http://xtv.ooo:8080/0112228/0112229/66224
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Star Movies (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCiZb.jpg" group-title="Star Movies",Star Movies (4K)
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Star Movies (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarMovies.jpg" group-title="Star Movies",Star Movies (4K)
 http://xtv.ooo:8080/0112228/0112229/109970
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies FHD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCiZb.jpg" group-title="Star Movies",Star Movies FHD
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarMovies.jpg" group-title="Star Movies",Star Movies FHD
 http://xtv.ooo:8080/0112228/0112229/66213
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="Star Movies Select HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqnWg.jpg" group-title="Star Movies",Star Movies Select HD
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="Star Movies Select HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarMoviesSelect.jpg" group-title="Star Movies",Star Movies Select HD
 http://xtv.ooo:8080/0112228/0112229/66315
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqMTS.jpg" group-title="Star Gold",Star Gold (4K)
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGold.jpg" group-title="Star Gold",Star Gold (4K)
 http://xtv.ooo:8080/0112228/0112229/109959
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqLyZ.jpg" group-title="Star Gold",Star Gold Select (4K)
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGoldSelect.jpg" group-title="Star Gold",Star Gold Select (4K)
 http://xtv.ooo:8080/0112228/0112229/109960
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold Thrills" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqzEl.jpg" group-title="Star Gold",Star Gold Thrills
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold Thrills" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGoldThrills.jpg" group-title="Star Gold",Star Gold Thrills
 http://xtv.ooo:8080/0112228/0112229/221258
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqMTS.jpg" group-title="Star Gold",Star Gold HD
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGold.jpg" group-title="Star Gold",Star Gold HD
 http://xtv.ooo:8080/0112228/0112229/66177
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold [FHD]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqMTS.jpg" group-title="Star Gold",Star Gold [FHD]
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold [FHD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGold.jpg" group-title="Star Gold",Star Gold [FHD]
 http://xtv.ooo:8080/0112228/0112229/66178
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqLyZ.jpg" group-title="Star Gold",Star Gold Select
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGoldSelect.jpg" group-title="Star Gold",Star Gold Select
 http://xtv.ooo:8080/0112228/0112229/221257
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqLyZ.jpg" group-title="Star Gold",Star Gold Select HD
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGoldSelect.jpg" group-title="Star Gold",Star Gold Select HD
 http://xtv.ooo:8080/0112228/0112229/66176
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold 2" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqSfM.jpg" group-title="Star Gold",Star Gold 2
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold 2" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGold2.jpg" group-title="Star Gold",Star Gold 2
 http://xtv.ooo:8080/0112228/0112229/106133
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD (Tata sky)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqMTS.jpg" group-title="Star Gold",Star Gold HD (Tata sky)
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD (Tata sky)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGold.jpg" group-title="Star Gold",Star Gold HD (Tata sky)
 http://xtv.ooo:8080/0112228/0112229/112982
-#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="Star Gold Romance" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urq9ox.png" group-title="Star Gold",Star Gold Romance
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="Star Gold Romance" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarGoldRomance.jpg" group-title="Star Gold",Star Gold Romance
 http://xtv.ooo:8080/0112228/0112229/66186
-#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCyhH.png" group-title="Movies Now",Movies Now (4K)
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/MoviesNow.jpg" group-title="Movies Now",Movies Now (4K)
 http://xtv.ooo:8080/0112228/0112229/109968
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="&flix (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqNWm.jpg" group-title="Zee5 Channels",&flix (4K)
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="&flix (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Flix.jpg" group-title="Zee5 Channels",&flix (4K)
 http://xtv.ooo:8080/0112228/0112229/109962
-#EXTINF:-1 tvg-id="hbohd.in" tvg-name="&Prive (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/17/urqyRP.jpg" group-title="Zee5 Channels",& Prive (4K)
+#EXTINF:-1 tvg-id="hbohd.in" tvg-name="&Prive (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Prive.jpg" group-title="Zee5 Channels",& Prive (4K)
 http://xtv.ooo:8080/0112228/0112229/109963
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",&pictures (4K)
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Picture.jpg" group-title="Zee5 Channels",&pictures (4K)
 http://xtv.ooo:8080/0112228/0112229/109955
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Picture.jpg" group-title="Zee5 Channels",& Pictures
 http://xtv.ooo:8080/0112228/0112229/355774
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures Link 2" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures Link 2
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures Link 2" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Picture.jpg" group-title="Zee5 Channels",& Pictures Link 2
 http://xtv.ooo:8080/0112228/0112229/221260
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures HD
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Picture.jpg" group-title="Zee5 Channels",& Pictures HD
 http://xtv.ooo:8080/0112228/0112229/66181
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures [FHD]
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Picture.jpg" group-title="Zee5 Channels",& Pictures [FHD]
 http://xtv.ooo:8080/0112228/0112229/355586
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD] Link 2" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIq4Z.jpg" group-title="Zee5 Channels",& Pictures [FHD] Link 2
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD] Link 2" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Picture.jpg" group-title="Zee5 Channels",& Pictures [FHD] Link 2
 http://xtv.ooo:8080/0112228/0112229/66183
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIBaN.jpg" group-title="Zee5 Channels",ZEE CINEMA (4K)
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/ZeeCinema.png" group-title="Zee5 Channels",ZEE CINEMA (4K)
 http://xtv.ooo:8080/0112228/0112229/109958
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIBaN.jpg" group-title="Zee5 Channels",ZEE CINEMA FHD (TATASKY)
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/ZeeCinema.png" group-title="Zee5 Channels",ZEE CINEMA FHD (TATASKY)
 http://xtv.ooo:8080/0112228/0112229/221261
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIBaN.jpg" group-title="Zee5 Channels",ZEE CINEMA HD
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/ZeeCinema.png" group-title="Zee5 Channels",ZEE CINEMA HD
 http://xtv.ooo:8080/0112228/0112229/206307
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urIBaN.jpg" group-title="Zee5 Channels",ZEE CINEMA [FHD]
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/ZeeCinema.png" group-title="Zee5 Channels",ZEE CINEMA [FHD]
 http://xtv.ooo:8080/0112228/0112229/206308
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/26/urDiDl.jpg" group-title="MNX",MN+ (4K)
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/MN.jpg" group-title="MNX",MN+ (4K)
 http://xtv.ooo:8080/0112228/0112229/109965
-#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/26/urDiDl.jpg" group-title="MNX",MN+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/MN.jpg" group-title="MNX",MN+ FHD
 http://xtv.ooo:8080/0112228/0112229/355547
-#EXTINF:-1 tvg-id="mnx.in" tvg-name="MNX HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/26/urDyQA.jpg" group-title="MNX",MNX HD
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="MNX HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/MNX.jpg" group-title="MNX",MNX HD
 http://xtv.ooo:8080/0112228/0112229/66266
-#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCuwQ.jpg" group-title="VH1 India",VH1 HD
-http://xtv.ooo:8080/0112228/0112229/356076
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/20/uv5XoK.jpg" group-title="Kolkata Channels",Zee Bangla HD
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/ZeeBangla.jpg" group-title="Kolkata Channels",Zee Bangla HD
 http://xtv.ooo:8080/0112228/0112229/245893
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/20/uv5OJJ.jpg" group-title="Kolkata Channels",Star Jalsa HD
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/StarJalsha.jpg" group-title="Kolkata Channels",Star Jalsa HD
 http://xtv.ooo:8080/0112228/0112229/245898
-#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Colors Bangla" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/27/uvXo8x.png" group-title="Kolkata Channels",Colors Bangla
+#EXTINF:-1 tvg-id="" tvg-name="BD-loc: Colors Bangla" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/ColorsBangla.png" group-title="Kolkata Channels",Colors Bangla
 http://xtv.ooo:8080/0112228/0112229/245895
 #EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://openboxv8s.com/india/colors-in.png" group-title="Others",Colors (4K)
 http://xtv.ooo:8080/0112228/0112229/109947.ts
