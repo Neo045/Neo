@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
-#EXTINF:-1 tvg-id="Neo2" tvg-name="See How To Update Playlists" tvg-logo="https://i.ibb.co/PCkk3NN/images-1.jpg" group-title="Playlists Update Tutorial",See How To Update Playlists
-https://video.twimg.com/ext_tw_video/1804477985812303872/pr/vid/avc1/1624x720/52-wzm5dnwVPKXYN.mp4?tag=12
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v74Rw1/Daredevil-season-1-poster.jpg" group-title="Marvel's DareDevil Season 01",S01E01☞ Into The Ring
 http://103.145.232.246/Data/tvseries/English/Marvels%20Daredevil/s01/Daredevil.S01E01.Into.the.Ring.720p.WEB-DL.Hin-Eng.x265.HEVC-KatmovieHD.nl.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v74Rw1/Daredevil-season-1-poster.jpg" group-title="Marvel's DareDevil Season 01",S01E02☞ Cut Man
@@ -81,625 +79,535 @@ http://103.145.232.246/Data/tvseries/English/Marvels%20Daredevil/s03/marvels.dar
 http://103.145.232.246/Data/tvseries/English/Marvels%20Daredevil/s03/marvels.daredevil.s03e12.web.x264-strife.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v74Rw1/Daredevil-season-1-poster.jpg" group-title="Marvel's DareDevil Season 03",S03E13☞ A New Napkin
 http://103.145.232.246/Data/tvseries/English/Marvels%20Daredevil/s03/marvels.daredevil.s03e13.web.x264-strife.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E1 ∙ Winter Is Coming
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E01.720p.BluRay.500MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E2 ∙ The Kingsroad
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E02.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E3 ∙ Lord Snow
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E03.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E4 ∙ Cripples, Bastards, and Broken Things
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E04.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E5 ∙ The Wolf and the Lion
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E05.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E6 ∙ A Golden Crown
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E06.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E7 ∙ You Win or You Die
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E07.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E8 ∙ The Pointy End
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E08.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E9 ∙ Baelor
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E09.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 01",S1.E10 ∙ Fire and Blood
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s01/Game.of.Thrones.S01E10.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E1 ∙ The North Remembers
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E01.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E2 ∙ The Night Lands
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E02.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E3 ∙ What Is Dead May Never Die
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E03.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E4 ∙ Garden of Bones
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E04.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E5 ∙ The Ghost of Harrenhal
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E05.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E6 ∙ The Old Gods and the New
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E06.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E7 ∙ A Man Without Honor
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E07.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E8 ∙ The Prince of Winterfell
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E08.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E9 ∙ Blackwater
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E09.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 02",S2.E10 ∙ Valar Morghulis
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s02/Game.of.Thrones.S02E10.720p.BluRay.500MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E1 ∙ Valar Dohaeris
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E01.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E2 ∙ Dark Wings, Dark Words
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E02.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E3 ∙ Walk of Punishment
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E03.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E4 ∙ And Now His Watch Is Ended
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E04.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E5 ∙ Kissed by Fire
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E05.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E6 ∙ The Climb
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E06.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E7 ∙ The Bear and the Maiden Fair
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E07.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E8 ∙ Second Sons
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E08.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S1.E9 ∙ Baelor
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E09.720p.BluRay.450MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 03",S3.E10 ∙ Mhysa
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s03/Game.of.Thrones.S03E10.720p.BluRay.500MB.ShAaNiG.com.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E1 ∙ Two Swords
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E01.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E2 ∙ The Lion and the Rose
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E02.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E3 ∙ Breaker of Chains
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E03.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E4 ∙ Oathkeeper
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E04.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E5 ∙ First of His Name
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E05.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E6 ∙ The Laws of Gods and Men
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E06.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E7 ∙ Mockingbird
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E07.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E8 ∙ The Mountain and the Viper
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E08.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E9 ∙ The Watchers on the Wall
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E09.720p.BluRay.450MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 04",S4.E10 ∙ The Children
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s04/Game.of.Thrones.S04E10.720p.BluRay.500MB.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E1 ∙ The Wars to Come
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E01.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E2 ∙ The House of Black and White
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E02.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E3 ∙ High Sparrow
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E03.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E4 ∙ Sons of the Harpy
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E04.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E5 ∙ Kill the Boy
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E05.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E6 ∙ Unbowed, Unbent, Unbroken
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E06.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E7 ∙ The Gift
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E07.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E8 ∙ Hardhome
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E08.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E9 ∙ The Dance of Dragons
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E09.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 05",S5.E10 ∙ Mother's Mercy
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s05/Game.of.Thrones.S05E10.720p.BluRay.x264.ShAaNiG.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E1 ∙ The Red Woman
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E01.The.Red.Woman.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E2 ∙ Home
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E02.Home.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E3 ∙ Oathbreaker
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E03.Oathbreaker.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E4 ∙ Book of the Stranger
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E04.Book.of.the.Stranger.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E5 ∙ The Door
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E05.The.Door.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E6 ∙ Blood of My Blood
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E06.Blood.of.My.Blood.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E7 ∙ The Broken Man
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E07.The.Broken.Man.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E8 ∙ No One
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E08.No.One.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E9 ∙ Battle of the Bastards
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E09.Battle.of.the.Bastards.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 06",S6.E10 ∙ The Winds of Winter
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s06/Game.of.Thrones.S06E10.The.Winds.of.Winter.720p.WEB-DL.Re-Encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 07",S7.E1 ∙ Dragonstone
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s07/Game.Of.Thrones.S07E01.Dragonstone.720p.WEB-DL.Re-encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 07",S7.E2 ∙ Stormborn
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s07/Game.Of.Thrones.S07E02.Stormborn.720p.WEB-DL.Re-encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 07",S7.E3 ∙ The Queen's Justice
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s07/Game.Of.Thrones.S07E03.The.Queens.Justice.720p.WEB-DL.Re-encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 07",S7.E4 ∙ The Spoils of War
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s07/Game.Of.Thrones.S07E04.The.Spoils.Of.War.720p.WEB-DL.Re-encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 07",S7.E5 ∙ Eastwatch
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s07/Game.Of.Thrones.S07E05.Eastwatch.720p.WEB-DL.Re-encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 07",S7.E6 ∙ Beyond the Wall
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s07/Game.Of.Thrones.S07E06.Beyond.The.Wall.720p.WEB-DL.Re-encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 07",S7.E7 ∙ The Dragon and the Wolf
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s07/Game.Of.Thrones.S07E07.The.Dragon.And.The.Wolf.720p.WEB-DL.Re-encode.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 08",S8.E1 ∙ Winterfell
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s08/%5BTorrentCouch.net%5D.Game.of.Thrones.S08E01.720p.AMZN.WEB-DL.x264.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 08",S8.E2 ∙ A Knight of the Seven Kingdoms
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s08/%5BTorrentCouch.net%5D.Game.of.Thrones.S08E02.720p.AMZN.WEB-DL.x264.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 08",S8.E3 ∙ The Long Night
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s08/%5BTorrentCouch.net%5D.Game.of.Thrones.S08E03.720p.AMZN.WEB-DL.x264.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 08",S8.E4 ∙ The Last of the Starks
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s08/%5BTorrentCouch.net%5D.Game.of.Thrones.S08E04.720p.AMZN.WEB-DL.x264.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 08",S8.E5 ∙ The Bells
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s08/%5BTorrentCouch.net%5D.Game.of.Thrones.S08E05.720p.AMZN.WEB-DL.x264.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0En3.jpg" group-title="Game of Thrones Season 08",S8.E6 ∙ The Iron Throne
-http://103.145.76.250/Data/tvseries/new/game%20of%20thrones/s08/%5BTorrentCouch.net%5D.Game.of.Thrones.S08E06.720p.AMZN.WEB-DL.x264.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 01",S01E01
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E01%20Episode%201.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 01",S01E02
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E02%20Episode%202.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 01",S01E03
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E03%20Episode%203.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 01",S01E04
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E04%20Episode%204.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 01",S01E05
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E05%20Episode%205.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 01",S01E06
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E06%20Episode%206.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 02",S02E01
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E01%20Episode%201.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 02",S02E02
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E02%20Episode%202.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 02",S02E03
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E03%20Episode%203.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 02",S02E04
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E04%20Episode%204.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 02",S02E05
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E05%20Episode%205.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 02",S02E06
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E06%20Episode%206.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 03",S03E01
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E01%20Episode%201.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 03",S03E02
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E02%20Episode%202.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 03",S03E03
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E03%20Episode%203.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 03",S03E04
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E04%20Episode%204.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 03",S03E05
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E05%20Episode%205.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 03",S03E06
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E06%20Episode%206.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 04",S04E01 [ The Nose ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E01%20The%20Noose.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 04",S04E02 [ Heathens ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E02%20Heathens.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 04",S04E03 [ Black Bird ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E03%20Blackbird.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 04",S04E04 [ Dangerous ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E04%20Dangerous.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 04",S04E05 [ The Duel ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E05%20The%20Duel.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 04",S04E06 [ The Company ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E06%20The%20Company.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 05",S01E01 [ Black Thursday ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E01%20Black%20Tuesday.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 05",S01E02 [ Black Cats ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E02%20Black%20Cats.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 05",S01E03 [ Strategy ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E03%20Strategy.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 05",S01E04 [ The Loop ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E04%20The%20Loop.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 05",S01E05 [ The Shock ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E05%20The%20Shock.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0x1N.jpg" group-title="Peaky Blinders Season 05",S01E06 [ Mr. Jones ]
-http://103.145.76.250/Data/tvseries/new/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E06%20Mr%20Jones.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E1 ∙ Red Light, Green Light
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/Squid.Game.S01E01.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E2 ∙ Hell
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E02.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E3 ∙ The Man With The Umbrella
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E03.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E4 ∙ Stick To The Team
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E04.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E5 ∙ A Fair World
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E05.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E6 ∙ Gganbu
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E06.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E7 ∙ VIPs
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E07.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E8 ∙ Front Man
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E08.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf26Vr.jpg" group-title="Squid Game Season 01",S1.E9 ∙ One Lucky Day
-http://103.145.232.246/Data/tvseries/English/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E09.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 01",S1.E1 ∙ Episode 1
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s01/Alice.in.Borderland.S01E01.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 01",S1.E2 ∙ Episode 2
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s01/Alice.in.Borderland.S01E02.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 01",S1.E3 ∙ Episode 3
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s01/Alice.in.Borderland.S01E03.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 01",S1.E4 ∙ Episode 4
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s01/Alice.in.Borderland.S01E04.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 01",S1.E5 ∙ Episode 5
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s01/Alice.in.Borderland.S01E05.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 01",S1.E6 ∙ Episode 6
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s01/Alice.in.Borderland.S01E06.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 01",S1.E7 ∙ Episode 7
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s01/Alice.in.Borderland.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 01",S1.E8 ∙ Episode 8
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s01/Alice.in.Borderland.S01E08.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 02",S2.E1 ∙ Episode 1
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s02/Alice.in.Borderland.S02E01.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 02",S2.E2 ∙ Episode 2
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s02/Alice.in.Borderland.S02E02.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 02",S2.E3 ∙ Episode 3
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s02/Alice.in.Borderland.S02E03.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 02",S2.E4 ∙ Episode 4
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s02/Alice.in.Borderland.S02E04.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 02",S2.E5 ∙ Episode 5
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s02/Alice.in.Borderland.S02E05.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 02",S2.E6 ∙ Episode 6
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s02/Alice.in.Borderland.S02E06.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 02",S2.E7 ∙ Episode 7
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s02/Alice.in.Borderland.S02E07.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf2CEH.jpg" group-title="Alice in Borderland Season 02",S2.E8 ∙ Episode 8
-http://103.145.76.250/Data/tvseries/new/Alice%20in%20Borderland/s02/Alice.in.Borderland.S02E08.DUBBED.720p.NF.WEBRip.x264-GalaxyTV.mp4
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0lJy.jpg" group-title="Secret Invasion Season 01",S01E01 [ Resurrection ]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E1 ∙ Winter Is Coming
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E01.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E2 ∙ The Kingsroad
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E02.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E3 ∙ Lord Snow
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E03.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E4 ∙ Cripples, Bastards, and Broken Things
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E04.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E5 ∙ The Wolf and the Lion
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E05.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E6 ∙ A Golden Crown
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E06.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E7 ∙ You Win or You Die
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E07.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E8 ∙ The Pointy End
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E08.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E9 ∙ Baelor
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E09.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 01",S1.E10 ∙ Fire and Blood
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2001/Game.Of.Thrones.S01E10.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E1 ∙ The North Remembers
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E01.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E2 ∙ The Night Lands
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E02.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E3 ∙ What Is Dead May Never Die
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E03.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E4 ∙ Garden of Bones
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E04.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E5 ∙ The Ghost of Harrenhal
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E05.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E6 ∙ The Old Gods and the New
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E06.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E7 ∙ A Man Without Honor
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E07.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E8 ∙ The Prince of Winterfell
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E08.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E9 ∙ Blackwater
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E09.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 02",S2.E10 ∙ Valar Morghulis
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2002/Game.Of.Thrones.S02E10.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E1 ∙ Valar Dohaeris
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E01.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E2 ∙ Dark Wings, Dark Words
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E02.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E3 ∙ Walk of Punishment
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E03.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E4 ∙ And Now His Watch Is Ended
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E04.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E5 ∙ Kissed by Fire
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E05.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E6 ∙ The Climb
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E06.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E7 ∙ The Bear and the Maiden Fair
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E07.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E8 ∙ Second Sons
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E08.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S1.E9 ∙ Baelor
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E09.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 03",S3.E10 ∙ Mhysa
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2003/Game.Of.Thrones.S03E10.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E1 ∙ Two Swords
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E01.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E2 ∙ The Lion and the Rose
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E02.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E3 ∙ Breaker of Chains
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E03.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E4 ∙ Oathkeeper
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E04.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E5 ∙ First of His Name
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E05.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E6 ∙ The Laws of Gods and Men
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E06.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E7 ∙ Mockingbird
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E07.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E8 ∙ The Mountain and the Viper
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E08.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E9 ∙ The Watchers on the Wall
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E09.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 04",S4.E10 ∙ The Children
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2004/Game.Of.Thrones.S04E10.1080p.5.1Ch.BluRay.ReEnc-DeeJayAhmed.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E1 ∙ The Wars to Come
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E01.The.Wars.to.Come.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E2 ∙ The House of Black and White
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E02.The.House.of.Black.and.White.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E3 ∙ High Sparrow
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E03.High.Sparrow.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E4 ∙ Sons of the Harpy
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E04.Sons.of.the.Harpy.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E5 ∙ Kill the Boy
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E05.Kill.the.Boy.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E6 ∙ Unbowed, Unbent, Unbroken
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E06.Unbowed.Unbent.Unbroken.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E7 ∙ The Gift
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E07.The.Gift.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E8 ∙ Hardhome
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E08.Hardhome.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E9 ∙ The Dance of Dragons
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E09.The.Dance.of.Dragons.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 05",S5.E10 ∙ Mother's Mercy
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2005/Game.of.Thrones.S05E10.Mothers.Mercy.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E1 ∙ The Red Woman
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E01.The.Red.Woman.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E2 ∙ Home
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E02.Home.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E3 ∙ Oathbreaker
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E03.Oathbreaker.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E4 ∙ Book of the Stranger
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E04.Book.of.the.Stranger.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E5 ∙ The Door
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E05.The.Door.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E6 ∙ Blood of My Blood
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E06.Blood.of.My.Blood.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E7 ∙ The Broken Man
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E06.Blood.of.My.Blood.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E8 ∙ No One
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E08.No.One.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E9 ∙ Battle of the Bastards
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E09.Battle.of.the.Bastards.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 06",S6.E10 ∙ The Winds of Winter
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2006/Game.of.Thrones.S06E10.The.Winds.of.Winter.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 07",S7.E1 ∙ Dragonstone
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2007/Game.of.Thrones.S07E01.Dragonstone.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 07",S7.E2 ∙ Stormborn
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2007/Game.of.Thrones.S07E02.Stormborn.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 07",S7.E3 ∙ The Queen's Justice
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2007/Game.of.Thrones.S07E03.The.Queen%27s.Justice.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 07",S7.E4 ∙ The Spoils of War
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2007/Game.of.Thrones.S07E04.The.Spoils.of.War.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 07",S7.E5 ∙ Eastwatch
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2007/Game.of.Thrones.S07E05.Eastwatch.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 07",S7.E6 ∙ Beyond the Wall
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2007/Game.of.Thrones.S07E06.Beyond.the.Wall.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 07",S7.E7 ∙ The Dragon and the Wolf
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2007/Game.of.Thrones.S07E07.The.Dragon.and.the.Wolf.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 08",S8.E1 ∙ Winterfell
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2008/Game.of.Thrones.S08E01.Kings.Landing.720p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 08",S8.E2 ∙ A Knight of the Seven Kingdoms
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2008/Game.of.Thrones.S08E02.720p.AMZN.WEB-DL.x264-MkvCage.ws.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 08",S8.E3 ∙ The Long Night
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2008/Game.of.Thrones.S08E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 08",S8.E4 ∙ The Last of the Starks
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2008/Game.of.Thrones.S08E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-GoT.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 08",S8.E5 ∙ The Bells
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2008/Game.of.Thrones.S08E05.The.Bells.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZrFX9jx/GOT.jpg" group-title="Game of Thrones Season 08",S8.E6 ∙ The Iron Throne
+http://103.82.8.194/Data/Tv%20Serise/English%20Tv%20Serise/Game%20of%20Thrones/Season%2008/Game.of.Thrones.S08E06.720p.AMZN.WEB-DL.x264-MkvCage.ws.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 01",S01E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E01%20Episode%201.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 01",S01E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E02%20Episode%202.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 01",S01E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E03%20Episode%203.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 01",S01E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E04%20Episode%204.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 01",S01E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E05%20Episode%205.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 01",S01E06
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s01/Peaky%20Blinders%20S01E06%20Episode%206.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 02",S02E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E01%20Episode%201.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 02",S02E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E02%20Episode%202.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 02",S02E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E03%20Episode%203.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 02",S02E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E04%20Episode%204.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 02",S02E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E05%20Episode%205.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 02",S02E06
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s02/Peaky%20Blinders%20S02E06%20Episode%206.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 03",S03E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E01%20Episode%201.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 03",S03E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E02%20Episode%202.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 03",S03E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E03%20Episode%203.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 03",S03E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E04%20Episode%204.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 03",S03E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E05%20Episode%205.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 03",S03E06
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s03/Peaky%20Blinders%20S03E06%20Episode%206.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 04",S04E01 [ The Nose ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E01%20The%20Noose.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 04",S04E02 [ Heathens ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E02%20Heathens.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 04",S04E03 [ Black Bird ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E03%20Blackbird.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 04",S04E04 [ Dangerous ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E04%20Dangerous.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 04",S04E05 [ The Duel ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E05%20The%20Duel.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 04",S04E06 [ The Company ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s04/Peaky%20Blinders%20S04E06%20The%20Company.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 05",S01E01 [ Black Thursday ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E01%20Black%20Tuesday.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 05",S01E02 [ Black Cats ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E02%20Black%20Cats.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 05",S01E03 [ Strategy ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E03%20Strategy.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 05",S01E04 [ The Loop ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E04%20The%20Loop.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 05",S01E05 [ The Shock ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E05%20The%20Shock.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2QBp01r/PB.jpg" group-title="Peaky Blinders Season 05",S01E06 [ Mr. Jones ]
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Peaky%20Blinders/s05/Peaky%20Blinders%20S05E06%20Mr%20Jones.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E1 ∙ Red Light, Green Light
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/Squid.Game.S01E01.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E2 ∙ Hell
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E02.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E3 ∙ The Man With The Umbrella
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E03.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E4 ∙ Stick To The Team
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E04.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E5 ∙ A Fair World
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E05.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E6 ∙ Gganbu
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E06.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E7 ∙ VIPs
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E07.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E8 ∙ Front Man
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E08.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rd3LN2M/SG.jpg" group-title="Squid Game Season 01",S1.E9 ∙ One Lucky Day
+http://103.82.8.194/Data/Tvseries/new/Squid%20Game/s01/%E2%80%8CSquid.Game.S01E09.720p.NF.WEBRip.Dual.Audio.Hindi.English.MSub.x264.shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwxCb51/SI.jpg" group-title="Secret Invasion Season 01",S01E01 [ Resurrection ]
 http://103.145.232.246/Data/tvseries/new/Secret%20Invasion/s01/Secret.Invasion.S01E01.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0lJy.jpg" group-title="Secret Invasion Season 01",S01E02 [ Promises ]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwxCb51/SI.jpg" group-title="Secret Invasion Season 01",S01E02 [ Promises ]
 http://103.145.232.246/Data/tvseries/new/Secret%20Invasion/s01/Secret.Invasion.S01E02.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0lJy.jpg" group-title="Secret Invasion Season 01",S01E03 [ Betrayed ]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwxCb51/SI.jpg" group-title="Secret Invasion Season 01",S01E03 [ Betrayed ]
 http://103.145.232.246/Data/tvseries/new/Secret%20Invasion/s01/Secret.Invasion.S01E03.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0lJy.jpg" group-title="Secret Invasion Season 01",S01E04 [ Beloved ]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwxCb51/SI.jpg" group-title="Secret Invasion Season 01",S01E04 [ Beloved ]
 http://103.145.232.246/Data/tvseries/new/Secret%20Invasion/s01/Secret.Invasion.S01E04.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0lJy.jpg" group-title="Secret Invasion Season 01",S01E05 [ Harvest ]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwxCb51/SI.jpg" group-title="Secret Invasion Season 01",S01E05 [ Harvest ]
 http://103.145.232.246/Data/tvseries/new/Secret%20Invasion/s01/Secret.Invasion.S01E05.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/08/uf0lJy.jpg" group-title="Secret Invasion Season 01",S01E06 [ Home ] 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzwxCb51/SI.jpg" group-title="Secret Invasion Season 01",S01E06 [ Home ] 
 http://103.145.232.246/Data/tvseries/new/Secret%20Invasion/s01/Secret.Invasion.S01E06.720p.DSNP.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E01
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E01" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E01
 http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E01.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E02
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E02" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E02
 http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E02.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E03
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E03" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E03
 http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E03.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E04
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E04" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E04
 http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E04.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E05
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E05" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E05
 http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E05.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E06
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E06.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E07
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E07.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E08
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E08.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E09" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E09
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E09.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E10" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E10
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E10.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E11" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E11
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E11.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E12" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E12
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E12.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E13" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E13
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E13.720p.WEB-DL.x265-HETeam.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E01
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e01.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E02
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e02.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E03
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e03.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E04
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e04.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E05
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e05.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E06
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e06.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E07
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e07.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E08
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e08.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E09" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E09
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e09.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E10" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E10
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e10.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E11" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E11
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e11.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E12" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E12
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e12.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E13" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPngK.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E13
-http://103.134.58.242/Data/tvseries/english/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e13.web.x264-strife.mp4
-#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S01",Stranger Things S01E01
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E01%20-%20Chapter%20One%20-%20The%20Vanishing%20of%20Will%20Byers%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S01",Stranger Things S01E02
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E02%20-%20Chapter%20Two%20-%20The%20Weirdo%20on%20Maple%20Street%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S01",Stranger Things S01E03
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E03%20-%20Chapter%20Three%20-%20Holly%2C%20Jolly%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S01",Stranger Things S01E04
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E04%20-%20Chapter%20Four%20-%20The%20Body%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S01",Stranger Things S01E05
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E05%20-%20Chapter%20Five%20-%20The%20Flea%20and%20the%20Acrobat%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S01",Stranger Things S01E06
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E06%20-%20Chapter%20Six%20-%20The%20Monster%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S01",Stranger Things S01E07
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E07%20-%20Chapter%20Seven%20-%20The%20Bathtub%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S01",Stranger Things S01E08
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E08%20-%20Chapter%20Eight%20-%20The%20Upside%20Down%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E01
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E01%20-%20Chapter%20One%20-%20MADMAX%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E02
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E02%20-%20Chapter%20Two%20-%20Trick%20or%20Treat%2C%20Freak%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E03
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E03%20-%20Chapter%20Three%20-%20The%20Pollywog%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E04
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E04%20-%20Chapter%20Four%20-%20Will%20the%20Wise%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E05
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E05%20-%20Chapter%20Five%20-%20Dig%20Dug%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E06
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E06%20-%20Chapter%20Six%20-%20The%20Spy%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E07
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E07%20-%20Chapter%20Seven%20-%20The%20Lost%20Sister%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E08
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E08%20-%20Chapter%20Eight%20-%20The%20Mind%20Flayer%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E09" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S02",Stranger Things S02E09
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E09%20-%20Chapter%20Nine%20-%20The%20Gate%20WEBRip-1080p%20%5BSaltBae%5D.mp4
-#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S03",Stranger Things S03E01
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s03/stranger.things.s03e01.1080p.webrip.hevc.x265.rmteam.mp4
-#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S03",Stranger Things S03E02
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s03/stranger.things.s03e02.1080p.webrip.hevc.x265.rmteam.mp4
-#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S03",Stranger Things S03E03
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s03/stranger.things.s03e03.1080p.webrip.hevc.x265.rmteam.mp4
-#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S03",Stranger Things S03E04
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s03/stranger.things.s03e04.1080p.webrip.hevc.x265.rmteam.mp4
-#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S03",Stranger Things S03E05
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s03/stranger.things.s03e05.1080p.webrip.hevc.x265.rmteam.mp4
-#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S03",Stranger Things S03E06
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s03/stranger.things.s03e06.1080p.webrip.hevc.x265.rmteam.mp4
-#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S03",Stranger Things S03E07
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s03/stranger.things.s03e07.1080p.webrip.hevc.x265.rmteam.mp4
-#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S03",Stranger Things S03E08
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s03/stranger.things.s03e08.1080p.webrip.hevc.x265.rmteam.mp4
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E01
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E01.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E02
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E02.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E03
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E03.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E04
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E04.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E05
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E05.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E06
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E06.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E07
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E07.720p.NF.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E08
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E08.720p.WEB.x265-MiNX.mp4
-#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E09" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPLyJ.jpg" group-title="Stranger Things S04",Stranger Things S04E09
-http://103.145.232.246/Data/tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E09.720p.WEB.x265-MiNX.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E01
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E01.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E02
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E02.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E03
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E03.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E04
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E04.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E05
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E05.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E06
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E06.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E07
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E07.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E08
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E08.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E09" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E09
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E09.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E10" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E10
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E10.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E11" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E11
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E11.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E12" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E12
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E12.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E13" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S01",Money Heist S01E13
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s01/La.casa.de.papel.A.K.A.Money.Heist.S01E13.DUAL-AUDIO.SPA-ENG.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E01
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E01%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E02
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E02%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E03
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E03%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E04
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E04%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E05
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E05%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E06
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E06%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E07
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E07%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E08
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E08%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E09" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S02",Money Heist S02E09
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s02/Money%20Heist%20S02E09%20720p%20NF%20WEBRip%20Hindi%20English%20AAC%205.1%20MSubs%20x264%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S03",Money Heist S03E01
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s03/S03E01.mp4
-#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S03",Money Heist S03E02
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s03/S03E02.mp4
-#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S03",Money Heist S03E03
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s03/S03E03.mp4
-#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S03",Money Heist S03E04
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s03/S03E04.mp4
-#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S03",Money Heist S03E05
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s03/S03E05.mp4
-#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S03",Money Heist S03E06
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s03/S03E06.mp4
-#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S03",Money Heist S03E07
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s03/S03E07.mp4
-#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S03",Money Heist S03E08
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s03/S03E08.mp4
-#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S04",Money Heist S04E01
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s04/s04e01.mp4
-#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S04",Money Heist S04E02
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s04/s04e02.mp4
-#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S04",Money Heist S04E03
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s04/s04e03.mp4
-#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S04",Money Heist S04E04
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s04/s04e04.mp4
-#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S04",Money Heist S04E05
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s04/s04e05.mp4
-#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S04",Money Heist S04E06
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s04/s04e06.mp4
-#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S04",Money Heist S04E07
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s04/s04e07.mp4
-#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S04",Money Heist S04E08
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s04/s04e08.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E01
-http://103.134.58.242/Data/tvseries/english/Money%20Heist/S05/Money.Heist.S05E01.the.End.of.the.Road.720p.NF.WEB-DL.DDP2.0.x264-Shadow-BonsaiHD~1.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E02
-http://103.134.58.242/Data/tvseries/english/Money%20Heist/S05/Money.Heist.S05E02.Do.You.Believe.in.Reincarnation.720p.NF.WEB-DL.DD2.0.x264.Shadow-BonsaiHD.mp4/
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E03
-http://103.134.58.242/Data/tvseries/english/Money%20Heist/S05/Money.Heist.S05E03.Welcome.to.the.Spectacle.of.Life.720p.NF.WEB-DL.DDP2.0.x264-Shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E04
-http://103.134.58.242/Data/tvseries/english/Money%20Heist/S05/Money.Heist.S05E04.Your.Place.in.Heaven.720p.NF.WEB-DL.DDP2.0.x264Shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E05
-http://103.134.58.242/Data/tvseries/english/Money%20Heist/S05/Money.Heist.S05E05.Live.Many.Lives.720p.NF.WEB-DL.DD2.0.x264-Shadow-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E06
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s05/Money.Heist.S05E06.Escape.Valve.1080p.ENGLISH-HINDI.NF.10bit.DDP.5.1.x265.%5BHashMiner%5D.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E07
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s05/Money.Heist.S05E07.Wishful.Thinking.1080p.ENGLISH-HINDI.NF.10bit.DDP.5.1.x265.%5BHashMiner%5D.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E08
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s05/Money.Heist.S05E08.The.Elegance.Theory.1080p.ENGLISH-HINDI.NF.10bit.DDP.5.1.x265.%5BHashMiner%5D.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E09" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E09
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s05/Money.Heist.S05E09.Pillow.Talk.1080p.ENGLISH-HINDI.NF.10bit.DDP.5.1.x265.%5BHashMiner%5D.mp4
-#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E10" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urP9oX.jpg" group-title="Money Heist S05",Money Heist S05E10
-http://103.145.232.246/Data/tvseries/English/Money%20Heist/s05/Money.Heist.S05E10.A.Family.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E01
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E01%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E02
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E02%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E03
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E03%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E04
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E04%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E05
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E05%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E06
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E06%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E07
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E07%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E08
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E08%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E09" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E09
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E09%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E10" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S01",Dark S01E10
-http://103.145.232.246/Data/tvseries/English/Dark/s01/Dark%20S01%20E10%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S02",Dark S02E01
-http://103.145.232.246/Data/tvseries/English/Dark/s02/Dark%20S02%20E01%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S02",Dark S02E02
-http://103.145.232.246/Data/tvseries/English/Dark/s02/Dark%20S02%20E02%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S02",Dark S02E03
-http://103.145.232.246/Data/tvseries/English/Dark/s02/Dark%20S02%20E03%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S02",Dark S02E04
-http://103.145.232.246/Data/tvseries/English/Dark/s02/Dark%20S02%20E04%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S02",Dark S02E05
-http://103.145.232.246/Data/tvseries/English/Dark/s02/Dark%20S02%20E05%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S02",Dark S02E06
-http://103.145.232.246/Data/tvseries/English/Dark/s02/Dark%20S02%20E06%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S02",Dark S02E07
-http://103.145.232.246/Data/tvseries/English/Dark/s02/Dark%20S02%20E07%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S02",Dark S02E08
-http://103.145.232.246/Data/tvseries/English/Dark/s02/Dark%20S02%20E08%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
-#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S03",Dark S03E01
-http://103.145.232.246/Data/tvseries/English/Dark/s03/Dark.S03E01.Deja-vu.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S03",Dark S03E02
-http://103.145.232.246/Data/tvseries/English/Dark/s03/Dark.S03E02.The.Survivors.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S03",Dark S03E03
-http://103.145.232.246/Data/tvseries/English/Dark/s03/Dark.S03E03.Adam.and.Eva.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S03",Dark S03E04
-http://103.145.232.246/Data/tvseries/English/Dark/s03/Dark.S03E04.The.Origin.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S03",Dark S03E05
-http://103.145.232.246/Data/tvseries/English/Dark/s03/Dark.S03E05.Life.and.Death.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S03",Dark S03E06
-http://103.145.232.246/Data/tvseries/English/Dark/s03/Dark.S03E06.Light.and.Shadow.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S03",Dark S03E07
-http://103.145.232.246/Data/tvseries/English/Dark/s03/Dark.S03E07.Between.the.Time.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPSf3.jpg" group-title="Dark S03",Dark S03E08
-http://103.145.232.246/Data/tvseries/English/Dark/s03/Dark.S03E08.The.Paradise.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S01E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S01",The Boys S01E01
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s01/The.Boys.S01E01.720p.x265-ZMNT.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S01E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S01",The Boys S01E02
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s01/The.Boys.S01E02.720p.x265-ZMNT.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S01E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S01",The Boys S01E03
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s01/The.Boys.S01E03.720p.x265-ZMNT.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S01E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S01",The Boys S01E04
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s01/The.Boys.S01E04.720p.x265-ZMNT.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S01E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S01",The Boys S01E05
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s01/The.Boys.S01E05.720p.x265-ZMNT.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S01E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S01",The Boys S01E06
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s01/The.Boys.S01E06.720p.x265-ZMNT.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S01E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S01",The Boys S01E07
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s01/The.Boys.S01E07.720p.x265-ZMNT.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S01E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S01",The Boys S01E08
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s01/The.Boys.S01E08.720p.x265-ZMNT.mp4
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S02E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S02",The Boys S02E01
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s02/The.Boys.2020.S02E01.720p.AMZN.WEBRip.AAC.MSub.x264.BonsaiHD.mkv
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S02E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S02",The Boys S02E02
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s02/The.Boys.2020.S02E02.720p.AMZN.WEBRip.AAC.MSub.x264.BonsaiHD.mkv
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S02E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S02",The Boys S02E03
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s02/The.Boys.2020.S02E03.720p.AMZN.WEBRip.AAC.MSub.x264.BonsaiHD.mkv
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S02E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S02",The Boys S02E04
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s02/The.Boys.2020.S02E04.720p.AMZN.WEBRip.AAC.MSub.x264.BonsaiHD.mkv
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S02E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S02",The Boys S02E05
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s02/The.Boys.2020.S02E05.720p.AMZN.WEBRip.AAC.MSub.x264.BonsaiHD.mkv
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S02E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S02",The Boys S02E06
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s02/The.Boys.2020.S02E06.720p.AMZN.WEBRip.AAC.MSub.x264.BonsaiHD.mkv
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S02E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S02",The Boys S02E07
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s02/The.Boys.2020.S02E07.720p.AMZN.WEBRip.AAC.MSub.x264.BonsaiHD.mkv
-#EXTINF:-1 tvg-id="The Boys S01" tvg-name="The Boys S02E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S02",The Boys S02E08
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s02/The.Boys.2020.S02E08.720p.AMZN.WEBRip.AAC.MSub.x264.BonsaiHD.mkv
-#EXTINF:-1 tvg-id="The Boys S03" tvg-name="The Boys S03E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S03",The Boys S03E01
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s03/The.Boys.S03E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="The Boys S03" tvg-name="The Boys S03E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S03",The Boys S03E02
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s03/The.Boys.S03E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="The Boys S03" tvg-name="The Boys S03E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S03",The Boys S03E03
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s03/The.Boys.S03E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="The Boys S03" tvg-name="The Boys S03E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S03",The Boys S03E04
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s03/The.Boys.S03E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="The Boys S03" tvg-name="The Boys S03E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S03",The Boys S03E05
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s03/The.Boys.S03E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="The Boys S03" tvg-name="The Boys S03E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S03",The Boys S03E06
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s03/The.Boys.S03E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="The Boys S03" tvg-name="The Boys S03E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S03",The Boys S03E07
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s03/The.Boys.S03E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="The Boys S03" tvg-name="The Boys S03E08" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPMTk.jpg" group-title="The Boys S03",The Boys S03E08
-http://103.145.232.246/Data/tvseries/English/The%20Boys/s03/The.Boys.S03E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
-#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPpu4.jpg" group-title="The Night Manager S01",The Night Manager S01E01
-http://103.145.76.250/Data/tvseries/new/The%20Night%20Manager/s01/The.Night.Manager.S01E01.Zakhm.1080p.HS.WEB-DL.Hindi.DDP5.1.Atmos.H.264-iNFiNiT3.mkv
-#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPpu4.jpg" group-title="The Night Manager S01",The Night Manager S01E02
-http://103.145.76.250/Data/tvseries/new/The%20Night%20Manager/s01/The.Night.Manager.S01E02.Mission.1080p.HS.WEB-DL.Hindi.DDP5.1.Atmos.H.264-iNFiNiT3.mkv
-#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPpu4.jpg" group-title="The Night Manager S01",The Night Manager S01E03
-http://103.145.76.250/Data/tvseries/new/The%20Night%20Manager/s01/The.Night.Manager.S01E03.Mehmaan.1080p.HS.WEB-DL.Hindi.DDP5.1.Atmos.H.264-iNFiNiT3.mkv
-#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPpu4.jpg" group-title="The Night Manager S01",The Night Manager S01E04
-http://103.145.76.250/Data/tvseries/new/The%20Night%20Manager/s01/The.Night.Manager.S01E04.Sweetly-waala.1080p.HS.WEB-DL.Hindi.DDP5.1.Atmos.H.264-iNFiNiT3.mkv
-#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPpu4.jpg" group-title="The Night Manager S01",The Night Manager S01E05
-http://103.145.76.250/Data/tvseries/new/The%20Night%20Manager/s01/The%20Night%20Manager%20S01E05.mkv
-#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPpu4.jpg" group-title="The Night Manager S01",The Night Manager S01E06
-http://103.145.76.250/Data/tvseries/new/The%20Night%20Manager/s01/The%20Night%20Manager%20S01E06.mkv
-#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E07" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/20/urPpu4.jpg" group-title="The Night Manager S01",The Night Manager S01E07
-http://103.145.76.250/Data/tvseries/new/The%20Night%20Manager/s01/The%20Night%20Manager%20S01E07.mkv
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S01E01
-http://103.145.232.246/Data/tvseries/new/loki/s01/Loki.S01E01.Glorious.Purpose.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S01E02
-http://103.145.232.246/Data/tvseries/new/loki/s01/Loki.S01E02.WEBRip.x264-ION10.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S01E03
-http://103.145.232.246/Data/tvseries/new/loki/s01/Loki.S01E03.Lamentis.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S01E04
-http://103.145.232.246/Data/tvseries/new/loki/s01/Loki.S01E04.WEBRip.x264-ION10.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S01E05
-http://103.145.232.246/Data/tvseries/new/loki/s01/Loki.S01E05.1080p.HEVC.x265-MeGusta.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S01E06
-http://103.145.232.246/Data/tvseries/new/loki/s01/Loki.S01E06.For.All.Time.Always.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E01" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S02E01
-http://103.145.232.246/Data/tvseries/new/loki/s02/Loki.2023.S02E01.Ouroboros.720p.DSNP.WEB-DL.MULTi.DD%2B5.1.Atmos.H.264-TheBiscuitMan.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E02" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S02E02
-http://103.145.232.246/Data/tvseries/new/loki/s02/Loki.S02E02.720p.x264-FENiX.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E03" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S02E03
-http://103.145.232.246/Data/tvseries/new/loki/s02/Loki.S02E03.720p.x264-FENiX.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E04" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S02E04
-http://103.145.232.246/Data/tvseries/new/loki/s02/Loki.S02E04.720p.x264-FENiX.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E05" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S02E05
-http://103.145.232.246/Data/tvseries/new/loki/s02/Loki.S02E05.720p.x264-FENiX.mp4
-#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E06" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/31/uvzza3.jpg" group-title="Loki Season 01&02",The Night Manager S02E06
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E06" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E06
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E06.720p.WEB-DL.x265-HETeam.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E07" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E07
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E07.720p.WEB-DL.x265-HETeam.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E08" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E08
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E08.720p.WEB-DL.x265-HETeam.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E09" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E09
+http://103.82.8.194/Data/Tvseries/English/Marvels%20Runaways/s01/S01E09%20Doomsday.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E10" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E10
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E10.720p.WEB-DL.x265-HETeam.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E11" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E11
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E11.720p.WEB-DL.x265-HETeam.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E12" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E12
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E12.720p.WEB-DL.x265-HETeam.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E13" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S01",Marvels The Punisher S01E13
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s01/Marvels.The.Punisher.S01E13.720p.WEB-DL.x265-HETeam.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E01" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E01
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e01.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E02" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E02
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e02.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E03" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E03
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e03.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E04" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E04
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e04.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E05" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E05
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e05.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E06" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E06
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e06.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E07" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E07
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e07.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E08" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E08
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e08.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E09" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E09
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e09.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E10" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E10
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e10.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E11" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E11
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e11.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S02E12" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E12
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e12.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Marvels The Punisher" tvg-name="Marvels The Punisher S01E13" tvg-logo="https://i.postimg.cc/2jLzhqzh/MTP.jpg" group-title="Marvels The Punisher S02",Marvels The Punisher S02E13
+http://103.145.232.246/Data/tvseries/English/Marvels%20The%20Punisher/s02/marvels.the.punisher.s02e13.web.x264-strife.mp4
+#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E01" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S01",Stranger Things S01E01
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E01%20-%20Chapter%20One%20-%20The%20Vanishing%20of%20Will%20Byers%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E02" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S01",Stranger Things S01E02
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E02%20-%20Chapter%20Two%20-%20The%20Weirdo%20on%20Maple%20Street%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E03" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S01",Stranger Things S01E03
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E03%20-%20Chapter%20Three%20-%20Holly%2C%20Jolly%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E04" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S01",Stranger Things S01E04
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E04%20-%20Chapter%20Four%20-%20The%20Body%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E05" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S01",Stranger Things S01E05
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E05%20-%20Chapter%20Five%20-%20The%20Flea%20and%20the%20Acrobat%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E06" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S01",Stranger Things S01E06
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E06%20-%20Chapter%20Six%20-%20The%20Monster%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E07" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S01",Stranger Things S01E07
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E07%20-%20Chapter%20Seven%20-%20The%20Bathtub%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S01" tvg-name="Stranger Things S01E08" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S01",Stranger Things S01E08
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s01/Stranger%20Things%20-%20S01E08%20-%20Chapter%20Eight%20-%20The%20Upside%20Down%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E01" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E01
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E01%20-%20Chapter%20One%20-%20MADMAX%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E02" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E02
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E02%20-%20Chapter%20Two%20-%20Trick%20or%20Treat%2C%20Freak%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E03" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E03
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E03%20-%20Chapter%20Three%20-%20The%20Pollywog%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E04" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E04
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E04%20-%20Chapter%20Four%20-%20Will%20the%20Wise%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E05" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E05
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E05%20-%20Chapter%20Five%20-%20Dig%20Dug%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E06" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E06
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E06%20-%20Chapter%20Six%20-%20The%20Spy%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E07" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E07
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E07%20-%20Chapter%20Seven%20-%20The%20Lost%20Sister%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E08" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E08
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E08%20-%20Chapter%20Eight%20-%20The%20Mind%20Flayer%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S02" tvg-name="Stranger Things S02E09" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S02",Stranger Things S02E09
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s02/Stranger%20Things%20-%20S02E09%20-%20Chapter%20Nine%20-%20The%20Gate%20WEBRip-1080p%20%5BSaltBae%5D.mp4
+#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E01" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S03",Stranger Things S03E01
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s03/stranger.things.s03e01.1080p.webrip.hevc.x265.rmteam.mp4
+#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E02" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S03",Stranger Things S03E02
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s03/stranger.things.s03e02.1080p.webrip.hevc.x265.rmteam.mp4
+#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E03" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S03",Stranger Things S03E03
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s03/stranger.things.s03e03.1080p.webrip.hevc.x265.rmteam.mp4
+#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E04" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S03",Stranger Things S03E04
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s03/stranger.things.s03e03.1080p.webrip.hevc.x265.rmteam.mp4
+#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E05" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S03",Stranger Things S03E05
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s03/stranger.things.s03e05.1080p.webrip.hevc.x265.rmteam.mp4
+#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E06" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S03",Stranger Things S03E06
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s03/stranger.things.s03e06.1080p.webrip.hevc.x265.rmteam.mp4
+#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E07" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S03",Stranger Things S03E07
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s03/stranger.things.s03e07.1080p.webrip.hevc.x265.rmteam.mp4
+#EXTINF:-1 tvg-id="Stranger Things S03" tvg-name="Stranger Things S03E08" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S03",Stranger Things S03E08
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s03/stranger.things.s03e08.1080p.webrip.hevc.x265.rmteam.mp4
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E01" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E01
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E01.720p.NF.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E02" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E02
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E02.720p.NF.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E03" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E03
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E03.720p.NF.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E04" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E04
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E04.720p.NF.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E05" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E05
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E05.720p.NF.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E06" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E06
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E06.720p.NF.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E07" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E07
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E07.720p.NF.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E08" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E08
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E08.720p.WEB.x265-MiNX.mp4
+#EXTINF:-1 tvg-id="Stranger Things S04" tvg-name="Stranger Things S04E09" tvg-logo="https://i.postimg.cc/pXNPZ2T7/ST.jpg" group-title="Stranger Things S04",Stranger Things S04E09
+http://103.82.8.194/Data/Tvseries/English/Stranger%20Things/s04/Stranger.Things.S04E09.720p.WEB.x265-MiNX.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E01" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E01%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E02" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E02%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E03" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E03%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E04" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E04%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E05" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E05%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E06" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E06
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E06%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E07" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E07
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E07%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E08" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E08
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E08%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E09" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E09
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E09%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E10" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E10
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E10%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E11" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E11
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E11%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E12" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E12
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E12%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S01" tvg-name="Money Heist S01E13" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S01",Money Heist S01E13
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S01/Money%20Heist%20S01%20E13%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E01" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E01%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E02" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E02%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E03" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E03%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E04" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E04%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E05" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E05%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E06" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E06
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E06%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E07" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E07
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E07%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E08" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E08
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E08%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S02" tvg-name="Money Heist S02E09" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S02",Money Heist S02E09
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S02/Money%20Heist%20S02%20E09%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESubs%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E01" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S03",Money Heist S03E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S03/Money%20Heist%20S03%20E01%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E02" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S03",Money Heist S03E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S03/Money%20Heist%20S03%20E02%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E03" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S03",Money Heist S03E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S03/Money%20Heist%20S03%20E03%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E04" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S03",Money Heist S03E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S03/Money%20Heist%20S03%20E04%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E05" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S03",Money Heist S03E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S03/Money%20Heist%20S03%20E05%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E06" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S03",Money Heist S03E06
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S03/Money%20Heist%20S03%20E06%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E07" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S03",Money Heist S03E07
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S03/Money%20Heist%20S03%20E07%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S03" tvg-name="Money Heist S03E08" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S03",Money Heist S03E08
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S03/Money%20Heist%20S03%20E08%20WebRip%20720p%20Hindi%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E01" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S04",Money Heist S04E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S04/Money%20Heist%20S04E01%20%20720p%20NF%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mp4
+#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E02" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S04",Money Heist S04E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S04/Money%20Heist%20S04E02%20%20720p%20NF%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mp4
+#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E03" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S04",Money Heist S04E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S04/Money%20Heist%20S04E03%20%20720p%20NF%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mp4
+#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E04" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S04",Money Heist S04E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S04/Money%20Heist%20S04E04%20%20720p%20NF%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mp4
+#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E05" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S04",Money Heist S04E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S04/Money%20Heist%20S04E05%20%20720p%20NF%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mp4
+#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E06" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S04",Money Heist S04E06
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S04/Money%20Heist%20S04E06%20%20720p%20NF%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mp4
+#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E07" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S04",Money Heist S04E07
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S04/Money%20Heist%20S04E07%20%20720p%20NF%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mp4
+#EXTINF:-1 tvg-id="Money Heist S04" tvg-name="Money Heist S04E08" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S04",Money Heist S04E08
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S04/Money%20Heist%20S04E08%20%20720p%20NF%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mp4
+#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E01" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S05",Money Heist S05E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S05/Money.Heist.S05E01.the.End.of.the.Road.720p.NF.WEB-DL.DDP2.0.x264-Shadow-BonsaiHD~1.mp4
+#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E02" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S05",Money Heist S05E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S05/Money.Heist.S05E02.Do.You.Believe.in.Reincarnation.720p.NF.WEB-DL.DD2.0.x264.Shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E03" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S05",Money Heist S05E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S05/Money.Heist.S05E03.Welcome.to.the.Spectacle.of.Life.720p.NF.WEB-DL.DDP2.0.x264-Shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E04" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S05",Money Heist S05E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S05/Money.Heist.S05E04.Your.Place.in.Heaven.720p.NF.WEB-DL.DDP2.0.x264Shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Money Heist S05" tvg-name="Money Heist S05E05" tvg-logo="https://i.postimg.cc/SNjcWfnV/MH.jpg" group-title="Money Heist S05",Money Heist S05E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Money%20Heist/S05/Money.Heist.S05E05.Live.Many.Lives.720p.NF.WEB-DL.DD2.0.x264-Shadow-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E01" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E01
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E01%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E02" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E02
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E02%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E03" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E03
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E03%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E04" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E04
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E04%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E05" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E05
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E05%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E06" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E06
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E06%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E07" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E07
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E07%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E08" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E08
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E08%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E09" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E09
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E09%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S01" tvg-name="Dark S01E10" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S01",Dark S01E10
+http://103.82.8.194/Data/Tvseries/English/Dark/s01/Dark%20S01%20E10%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E01" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S02",Dark S02E01
+http://103.82.8.194/Data/Tvseries/English/Dark/s02/Dark%20S02%20E01%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E02" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S02",Dark S02E02
+http://103.82.8.194/Data/Tvseries/English/Dark/s02/Dark%20S02%20E02%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E03" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S02",Dark S02E03
+http://103.82.8.194/Data/Tvseries/English/Dark/s02/Dark%20S02%20E03%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E04" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S02",Dark S02E04
+http://103.82.8.194/Data/Tvseries/English/Dark/s02/Dark%20S02%20E04%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E05" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S02",Dark S02E05
+http://103.82.8.194/Data/Tvseries/English/Dark/s02/Dark%20S02%20E05%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E06" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S02",Dark S02E06
+http://103.82.8.194/Data/Tvseries/English/Dark/s02/Dark%20S02%20E06%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E07" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S02",Dark S02E07
+http://103.82.8.194/Data/Tvseries/English/Dark/s02/Dark%20S02%20E07%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S02" tvg-name="Dark S02E08" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S02",Dark S02E08
+http://103.82.8.194/Data/Tvseries/English/Dark/s02/Dark%20S02%20E08%20WebRip%20720p%20English%20AAC%205.1%20x264%20ESub%20-%20mkvCinemas.mp4
+#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E01" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S03",Dark S03E01
+http://103.82.8.194/Data/Tvseries/English/Dark/s03/Dark.S03E01.Deja-vu.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E02" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S03",Dark S03E02
+http://103.82.8.194/Data/Tvseries/English/Dark/s03/Dark.S03E02.The.Survivors.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E03" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S03",Dark S03E03
+http://103.82.8.194/Data/Tvseries/English/Dark/s03/Dark.S03E04.The.Origin.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E04" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S03",Dark S03E04
+http://103.82.8.194/Data/Tvseries/English/Dark/s03/Dark.S03E04.The.Origin.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E05" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S03",Dark S03E05
+http://103.82.8.194/Data/Tvseries/English/Dark/s03/Dark.S03E05.Life.and.Death.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E06" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S03",Dark S03E06
+http://103.82.8.194/Data/Tvseries/English/Dark/s03/Dark.S03E06.Light.and.Shadow.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E07" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S03",Dark S03E07
+http://103.82.8.194/Data/Tvseries/English/Dark/s03/Dark.S03E07.Between.the.Time.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="Dark S03" tvg-name="Dark S03E08" tvg-logo="https://i.postimg.cc/kXZKwR8C/DARK.jpg" group-title="Dark S03",Dark S03E08
+http://103.82.8.194/Data/Tvseries/English/Dark/s03/Dark.S03E08.The.Paradise.720p%20NF%20WEB-DL.DD%2B5.1.x264-BonsaiHD.mp4
+#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E01" tvg-logo="https://i.postimg.cc/59swYR26/TNM.jpg" group-title="The Night Manager S01",The Night Manager S01E01
+http://103.82.8.194/Data/Tvseries/new/The%20Night%20Manager/s01/The.Night.Manager.S01E01.Zakhm.1080p.HS.WEB-DL.Hindi.DDP5.1.Atmos.H.264-iNFiNiT3.mkv
+#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E02" tvg-logo="https://i.postimg.cc/59swYR26/TNM.jpg" group-title="The Night Manager S01",The Night Manager S01E02
+http://103.82.8.194/Data/Tvseries/new/The%20Night%20Manager/s01/The.Night.Manager.S01E02.Mission.1080p.HS.WEB-DL.Hindi.DDP5.1.Atmos.H.264-iNFiNiT3.mkv
+#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E03" tvg-logo="https://i.postimg.cc/59swYR26/TNM.jpg" group-title="The Night Manager S01",The Night Manager S01E03
+http://103.82.8.194/Data/Tvseries/new/The%20Night%20Manager/s01/The.Night.Manager.S01E03.Mehmaan.1080p.HS.WEB-DL.Hindi.DDP5.1.Atmos.H.264-iNFiNiT3.mkv
+#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E04" tvg-logo="https://i.postimg.cc/59swYR26/TNM.jpg" group-title="The Night Manager S01",The Night Manager S01E04
+http://103.82.8.194/Data/Tvseries/new/The%20Night%20Manager/s01/The.Night.Manager.S01E04.Sweetly-waala.1080p.HS.WEB-DL.Hindi.DDP5.1.Atmos.H.264-iNFiNiT3.mkv
+#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E05" tvg-logo="https://i.postimg.cc/59swYR26/TNM.jpg" group-title="The Night Manager S01",The Night Manager S01E05
+http://103.82.8.194/Data/Tvseries/new/The%20Night%20Manager/s01/The%20Night%20Manager%20S01E05.mkv
+#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E06" tvg-logo="https://i.postimg.cc/59swYR26/TNM.jpg" group-title="The Night Manager S01",The Night Manager S01E06
+http://103.82.8.194/Data/Tvseries/new/The%20Night%20Manager/s01/The%20Night%20Manager%20S01E06.mkv
+#EXTINF:-1 tvg-id="The Night Manager" tvg-name="The Night Manager S01E07" tvg-logo="https://i.postimg.cc/59swYR26/TNM.jpg" group-title="The Night Manager S01",The Night Manager S01E07
+http://103.82.8.194/Data/Tvseries/new/The%20Night%20Manager/s01/The%20Night%20Manager%20S01E07.mkv
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E01" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S01E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s01/Loki.S01E01.Glorious.Purpose.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mp4
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E02" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S01E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s01/Loki.S01E02.WEBRip.x264-ION10.mp4
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E03" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S01E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s01/Loki.S01E03.Lamentis.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mp4
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E04" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S01E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s01/Loki.S01E04.WEBRip.x264-ION10.mp4
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E05" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S01E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s01/Loki.S01E05.1080p.HEVC.x265-MeGusta.mp4
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S01E06" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S01E06
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s01/Loki.S01E06.For.All.Time.Always.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mp4
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E01" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S02E01
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s02/Loki.S02E01.WEB.x264-TORRENTGALAXY.mkv
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E02" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S02E02
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s02/Loki.S02E02.WEB.x264-TORRENTGALAXY.mkv
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E03" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S02E03
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s02/Loki.S02E03.WEB.x264-TORRENTGALAXY.mkv
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E04" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S02E04
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s02/Loki.S02E04.720p.x264-FENiX.mp4
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E05" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S02E05
+http://ftp.tufanonline.com.bd/Data/disk5/tvseries/English/Loki/s02/Loki.S02E05.720p.x264-FENiX.mp4
+#EXTINF:-1 tvg-id="Loki" tvg-name="Loki S02E06" tvg-logo="https://i.postimg.cc/qv3nFBX3/MLoki.png" group-title="Loki Season 01&02",Loki S02E06
 http://103.145.232.246/Data/tvseries/new/loki/s02/Loki.S02E06.720p.x264-FENiX.mp4
