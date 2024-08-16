@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
-#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urYK98.jpg" group-title="Personal",Discovery Multi Quality
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/XJsDP5tj/DC.jpg" group-title="Personal",Discovery Multi Quality
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urYRZo.png" group-title="Personal",Animal Planet Multi Quality
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/1tmjMBC7/AP.jpg" group-title="Personal",Animal Planet Multi Quality
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urYugb.jpg" group-title="Personal",Love Nature 4k Multi Quality
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/RhqbxFzc/LN4k.jpg" group-title="Personal",Love Nature 4k Multi Quality
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urYYIH.png" group-title="Personal",TLC Multi Quality
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/zDPcSnnp/TLC.png" group-title="Personal",TLC Multi Quality
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Travel XP Multi Quality
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/WbFf9h8V/TRVL.png" group-title="Personal",TRVL Channel Multi Quality
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",HGTV Multi Quality
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/cJMzQ2m8/HGTV.jpg" group-title="Personal",HGTV Multi Quality
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",9XM Multi Quality
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/s2R8Gspr/9XM.png" group-title="Personal",9XM Multi Quality
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM/video.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/25/urYD7w.jpg" group-title="Personal",Peace Tv Bangla 1
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/fyFqzNw1/PT.jpg" group-title="Personal",Peace Tv Bangla 1
 http://tv.cloudcdn.me:80/live.ts?channelId=237&uid=9237&deviceMac=00:1A:79:AB:DF:28
