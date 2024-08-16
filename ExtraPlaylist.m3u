@@ -1,15 +1,152 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
-#EXTINF:-1 tvg-id="Neo2" tvg-name="See How To Update Playlists" tvg-logo="https://i.ibb.co/PCkk3NN/images-1.jpg" group-title="Playlists Update Tutorial",See How To Update Playlists
-https://video.twimg.com/ext_tw_video/1804477985812303872/pr/vid/avc1/1624x720/52-wzm5dnwVPKXYN.mp4?tag=12
-#EXTINF:-1 tvg-id="1" tvg-name="Travelxp Bangla HD" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Travelxp Bangla",Travelxp Bangla HD
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=19856
-#EXTINF:-1 tvg-id="1" tvg-name="SSP 1 HD" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Star Sports",SSP 1 HD
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=8063
-#EXTINF:-1 tvg-id="1" tvg-name="SSP1 Hindi  HD" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Star Sports",SSP1 Hindi  HD
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=19830
-#EXTINF:-1 tvg-id="1" tvg-name="SSP 1 Tamil HD" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Star Sports",SSP 1 Tamil HD
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=19779
-#EXTINF:-1 tvg-id="1" tvg-name="Disney India HD" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Disney India",Disney India HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/ditto.m3u8?id=2546
+#EXTM3U
+#EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/aljazeera.png",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/animalplanet.png",Animal Planet (IN)
+http://humsab.xyz/IN_ANIMALHD/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/discovery.png",Discovery Channel (IN)
+http://humsab.xyz/IN_DiscoveryFhd/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nationalgeographic.png",National Geographic HD (IN)
+http://humsab.xyz/IND_NationalGeoHD/index.m3u8
+
+##EXTINF:-1 group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/historytv18.png",History TV
+http://humsab.xyz/IND_HistoryFHD/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/cartoonnetwork.png",Cartoon Network
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/pogo.png",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/nick.png", Nickelodeon
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=13914&extension=ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonic.png",Nickelodeon Sonic
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:15:0C:4B&stream=631725&extension=ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/boomirang.png", Boomerang
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:15:0C:4B&stream=292432&extension=ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/gubbare.png",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeetv.png",Zee TV
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=22878&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeecinema.png",Zee Cinema
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=631830&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeeaction.png",Zee Action
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=58164&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeeanmol.png",Zee Anmol
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=631822&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zing.png",Zing
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=631852&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorstv.png",Colors
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=22891&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorscineplex.png",Colors Cineplex
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=31427&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorsrishtey.png",Colors Rishtey
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=294708&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/colorscineplexbollywood.png",Colors Cineplex Bollywood
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=631827&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/andtv.png",& TV HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=356856&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/andpictures.png",& Pictures HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=356853&extension=ts&play_token=ny0xIHpZNx
+
+#EXTINF:-1 group-title="English" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/andflix.png",& Flix HD
+http://humsab.xyz/IN_FLIX/index.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonytv.png",Sony TV HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=104809&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonymax.png",Sony Max HD (UK)
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=104808&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonysab.png",Sony Sab
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=70165&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starplus.png",Star Plus HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=79406&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/stargold.png",Star Gold HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=58174&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/stargoldthrills.png",Star Gold Thrills
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=631808&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/stargoldromance.png",Star Gold Romance
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=294975&extension=ts
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/b4umovies.png",B4U Movies
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=58156&extension=ts
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starsports1hd.png",Star Sports 1 HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=772359&extension=ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starsports2hd.png",Star Sports 2 HD
+http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:0F:4F:86&stream=772360&extension=ts
+
+
+
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/dbcnews.png",DBC News
+http://ekdilhai.pro/DB_DBCNEWS/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/deeptotv.png",Deepto TV
+http://ekdilhai.pro/BD_DEEPTOTV/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/ekattortv.png",Ekattor TV
+http://ekdilhai.pro/BD_Ekattortv/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/somoytv.png",Somoy TV
+http://ekdilhai.pro/BD_SOMOYNEWSTV/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/mytv.png",My TV
+http://ekdilhai.pro/BD_MYTV/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/mohonatv.png",Mohona TV
+http://ekdilhai.pro/BD:MOHONATV/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/ntv.png",NTV
+http://ekdilhai.pro/Bangla_NTV/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/sonyaath.png",Sony Aath
+http://ekdilhai.pro/BD_SONY8/index.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/starjalsha.png",Star Jalsha
+http://humsab.xyz/IN_JALSHAS/index.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/jalshamovies.png",Star Jalsha Movies
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeebangla.png",Zee Bangla
+http://humsab.xyz/IN_ZEBS/index.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://raw.githubusercontent.com/leeapk/Logo/main/zeebanglacinema.png",Zee Bangla Cinema
+http://humsab.xyz/IN_ZEBC/index.m3u8
