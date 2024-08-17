@@ -17,3 +17,112 @@ https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM/video.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/fyFqzNw1/PT.jpg" group-title="Personal",Peace Tv Bangla 1
 http://tv.cloudcdn.me:80/live.ts?channelId=237&uid=9237&deviceMac=00:1A:79:AB:DF:28
+#EXTM3U
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 1
+http://ekdilhai.pro/TSER247/index.m3u8?token=0cbea10cc47827e277030f670d7d2e38 
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 2
+http://ekdilhai.pro/zecVOD24/7/index.m3u8?token=7bfe7b53df94757233ab8927bc838086
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 3
+http://ekdilhai.pro/tipsVOD24/7/index.m3u8?token=925d21132cd84d96f64b14f205076d96 
+#EXTINF:-1 group-title="Freeiptv25 Special" tvg-logo="https://i.ibb.co/dtL9NB2/Freeiptv25-Music.png",24x7 Music 4
+http://ekdilhai.pro/zp1247/index.m3u8?token=ffcad025fb93241063a6b781e1fb663c 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg",ATN Bangla 
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=mRcf7Au7hfjoLq3pEdDlKQ&expires=1724073568&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_news.jpg",Atn News
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=lUcBU5u1enDLZ0yIX_d_bQ&expires=1724073605&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9C08uMt-xE5eID00oN85OhdeOiY1KJzEXgQ&usqp=CAU",BTV National
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=eKbNUf7QkxI6DNqZsTK2EA&expires=1724073636&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/anando_tv.jpg",Anando TV
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=kMa14l75g-RvPgCkWtc7GA&expires=1724073615&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/asian_tv.jpg",Asian Tv
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=rLVPipBheWcr-_YnvExJ7A&expires=1724073624&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/bangla_tv.jpg",Bangla TV
+https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=YcdPE7hr8L_oVh6xCRiwWA&expires=1721054496&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/bangla_vision.jpg",Bangla Vision 
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=XwByehic_xQxe5H7anlXjg&expires=1724073650&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/boishakhi.jpg",Boishakhi
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=SmcART4QHrQeOwoG23E8_Q&expires=1724073661&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_24.jpg",Channel 24
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=SvwxeSQMB183c_ENSLAlWw&expires=1724073672&user=d477246e9e724f81a011b847457e71c4  
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_9.jpg",Channel 9
+https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=B5sqH-SKA07HUnqXZ8xt_g&expires=1724073828&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/channel_i.jpg",Channel I
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=4nRyg7xfYN1ZqFtZkM0C2A&expires=1724073839&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/deepto-tv.jpg",Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=CJB9KE5gmwEQLlgwIf0drw&expires=1724073869&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQhi-gmuykc3OiTgs5czp3D9LyBc_JY6yIg&usqp=CAU",Duronto
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=A_X1muY2paio5XC8ef-LXA&expires=1724073883&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/ekkator.jpg",Ekattor
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=NWMYtY2wnbakWrOqE7IdOw&expires=1724073895&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/gazitv.jpg",Gazi TV HD
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Lx985h6ZaXKSGHR2cmr2MQ&expires=1724073908&user=d477246e9e724f81a011b847457e71c4   
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/gazitv.jpg",Gazi TV
+https://homeip.biz/GaziTV/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/independent_news.jpg",Independent Tv
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=F_5ZEyKwqpz4q5H8CqZDuw&expires=1724073918&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/maasranga.jpg",Maasranga
+https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=TARNwhTZS-2s92s5m2E9bQ&expires=1724073938&user=d477246e9e724f81a011b847457e71c4  
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/jamuna-news.jpg",Jamuna Tv 
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=jeHWWEX-hRHZPsz3FiGXXA&expires=1724073928&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNGA4zYRgm84xZPg85Sz1e232MZ0l5rHIkA&usqp=CAU",News 24
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=5l6MP2g_WIwYwcbWHho6gw&expires=1724073960&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/somoy-tv.jpg",Somoy Tv 
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=-eRUFCBPXCYfGdv1eIHoig&expires=1724073981&user=d477246e9e724f81a011b847457e71c4 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalsha-movies.jpg",Jalsha Movies HD
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png",Colors Bangla
+http://217.20.112.199/colorsbangla/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zae-bangla-cinema.jpg",Zee Bangla Cinema 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/Zeebanglacinema1.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee-bangla.jpg",Zee Bangla 
+http://humsab.xyz/IN_ZEBS/index.m3u8?token=ea4b2405ddb228058b47e6cc531a65e5
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg",Star Jalsha 
+http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e20de5d404038a50e6d02972de86a9bf
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg",Star Jalsha SD
+http://humsab.xyz/IN_STARJ/index.m3u8?token=2a6118c76d56d6c76fa0dd9138689ec0
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRF9XnbwRNNRljVuj91KyAGnslLQ7W3JJQA&usqp=CAU",Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max.jpg",Sony Max 
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8 
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max2.jpg",Sony Max 2 
+http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f 
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star-gold-select.jpg",Star Gold Select 
+http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8?token=82f2f9f379443a302900ad4c4b0bf2f9 
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_gold.jpg",Star Gold 
+http://humsab.xyz/IN_STGOLD/index.m3u8?token=d6775a1f115e5106be2e258d1a97ef71 
+#EXTINF:-1 group-title="INDIA" tvg-logo="https://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://th.bing.com/th/id/R.cf7ef83bba41b33f16c87e6423ab0eae?rik=Vwi8N0eRe5kYkw&pid=ImgRaw&r=0&sres=1&sresct=1",Nick Hindi
+http://ekdilhai.pro/IN_NICKHD/mpegts?token=170c54b47e21d406664eaab1e786d77f
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids
+https://cdn1-freeiptv25.vercel.app/m3u/Discovery_Kids.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/discovery_kids.jpg",Discovery Kids Hindi
+https://cdn1-freeiptv25.vercel.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_yay.jpg",Sony Yah
+http://ekdilhai.pro/IND_SonyYaYKids/index.m3u8?token=27659c5207e9f51e3ef289a1ee6b2715
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/10/Wowkidz.jpg",Wow Kids
+https://test-tan-iota-90.vercel.app/live/bdix/app/WowKids.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten1.jpg",Sony Sports 1
+http://ekdilhai.pro/SPTEN1HD/mpegts?token=d53bcd0976c324e9a8c5ea39f0b9bb68
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten2.jpg",Sony Sports 2
+http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten3.jpg",Sony Sports 3
+http://ekdilhai.pro/tenso3/index.m3u8?token=da41922098774b00e7fe125d560ef3e5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten5.jpg",Sony Sports 5
+http://humsab.xyz/S_Ten5/index.m3u8?token=8d7cda4860a1575eaf09574a9e162172
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpg",Star Sports 1 HD
+http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpg",Star Sports 1 Hindi
+https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports1Hindi.m3u8 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports2.jpg",Star Sports 2
+https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/sgHh2Fp/Astro-Cricket.jpg",Astro Cricket HD
+https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://e1.pxfuel.com/desktop-wallpaper/157/435/desktop-wallpaper-real-madrid-tv-online.jpg",RMA TV (freeiptv25)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://th.bing.com/th/id/OIP.rcg2Ridk8dSdD-LOemKKyAHaEK?rs=1&pid=ImgDetMain",MUTV (freeiptv25)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",Asports
+http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
+https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
