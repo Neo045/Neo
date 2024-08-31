@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="Neo2" tvg-name="Download New App" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Please Download New App For Updated Playlist",Download New App
+https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
 #EXTINF:-1 tvg-id="" tvg-name="*** WellCome ***" tvg-logo="" group-title="CRICKET",*** WellCome ***
 http://xtv.ooo:8080/0112228/0112229/26014
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET",PK: PTV SPORTS
