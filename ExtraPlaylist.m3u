@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Neo" tvg-name="Download Doctor Strange IPTV November 15.2024 Update" tvg-logo="https://i.postimg.cc/8Cz9b3pk/Picsart-24-09-16-13-18-44-287.png" group-title="Download Doctor Strange IPTV November 15.2024 Update",Download Doctor Strange IPTV November 15.2024 Update
-https://github.com/Neo045/Pictures/raw/main/Doctor%20Strange.mp4
-#EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
-https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
-#EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
 #EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/XJsDP5tj/DC.jpg" group-title="Personal",Discovery Multi Quality
@@ -45,15 +40,15 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10
 #EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Enterr10 Bangla Link 2" tvg-logo="https://i.postimg.cc/2jhdNP8X/images.jpg" group-title="Kolkata Bangla",Enterr10 Bangla Link 2
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata Bangla",Star Jalsha HD
-http://217.20.112.199/starjalshahd/index.m3u8
-#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="STAR JALSHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata Bangla",STAR JALSHA HD
-http://117.102.16.2:34567/play/STARJALSHAHD/index.m3u8
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/76204
 #EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Zee Bangla HD" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Kolkata Bangla",Zee Bangla HD
-https://nayeemparvez.my.id/zexppy/stream.m3u8?id=0-9-zeebangla|Referer=https://xnxx.com/
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/78981
 #EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Zee Bangla" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Kolkata Bangla",Zee Bangla
-http://217.20.112.199/zeebangla/index.m3u8
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/72258
 #EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Zee Bangla HD Link 2" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Kolkata Bangla",Zee Bangla HD Link 2
-https://otttv.co.in/dishtv/playlist.m3u8?id=zee-bangla-hd&vtoken=&e=.m3u8?|referer=https://otttv.co.in/&user-agent=Mozilla/5.0 (Crify
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/34731
+#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Colors Bangla HD" tvg-logo="http://go4.pw/ASIA/BANGLA/COLORS.png" group-title="Kolkata Bangla",Colors Bangla HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/76179
 #EXTINF:-1 tvg-id="Islamic" tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/vHBtM7Lj/Peace-TV.jpg" group-title="Islamic",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="Islamic" tvg-name="Peace TV Urdu" tvg-logo="https://i.postimg.cc/vHBtM7Lj/Peace-TV.jpg" group-title="Islamic",Peace TV Urdu
@@ -126,40 +121,12 @@ https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
 https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Documentary" tvg-name="People Are Awesome" tvg-logo="https://i.postimg.cc/fRqNBSxm/PAA.jpg" group-title="Documentary",People Are Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="HBO" tvg-logo="https://i.postimg.cc/fLGXXb2h/HBO.png" group-title="Movie Channels",HBO
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Rakuten" tvg-logo="https://i.postimg.cc/J4Zwjdnw/Rakuten.png" group-title="Movie Channels",Rakuten
-https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="&Picture Link 2" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/%26Picture.jpg" group-title="Movie Channels",&Picture
-https://nayeemparvez.my.id/zexppy/stream.m3u8?id=0-9-tvpictureshd|Referer=https://xnxx.com/
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="&Picture Link 2" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/%26Picture.jpg" group-title="Movie Channels",&Picture Link 2
-https://otttv.co.in/dishtv/playlist.m3u8?id=-pictures-hd&vtoken=&e=.m3u8?|referer=https://otttv.co.in/&user-agent=Mozilla/5.0 (Crify
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Comedy King" tvg-logo="https://i.postimg.cc/mgL97Jwh/CK.jpg" group-title="Movie Channels",Comedy King
-https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Zee Bollywood" tvg-logo="https://i.postimg.cc/CLVkxznG/Zee-Bollywood.jpg" group-title="Movie Channels",Zee Bollywood
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Bollywood" tvg-logo="https://i.postimg.cc/CLVkxznG/Zee-Bollywood.jpg" group-title="Movie Channels",Bollywood
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Bollywood Prime" tvg-logo="https://i.postimg.cc/CLVkxznG/Zee-Bollywood.jpg" group-title="Movie Channels",Bollywood Prime
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Zee Aflan" tvg-logo="https://i.postimg.cc/CLVkxznG/Zee-Bollywood.jpg" group-title="Movie Channels",Zee Aflan
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Bollywood Classic" tvg-logo="https://i.postimg.cc/CLVkxznG/Zee-Bollywood.jpg" group-title="Movie Channels",Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Zee Alwan" tvg-logo="https://i.postimg.cc/CLVkxznG/Zee-Bollywood.jpg" group-title="Movie Channels",Zee Alwan
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="Drama" tvg-logo="https://i.postimg.cc/CLVkxznG/Zee-Bollywood.jpg" group-title="Movie Channels",Drama
-https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/ZeeCinema.png" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/ZeeCinema.png" group-title="Movie Channels",Zee Cinema HD
-https://otttv.co.in/dishtv/playlist.m3u8?id=zee-cinema-hd&vtoken=&e=.m3u8?|referer=https://otttv.co.in/&user-agent=Mozilla/5.0 (Crify
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="MBC" tvg-logo="https://i.postimg.cc/fWdYsxyW/MBC.jpg" group-title="Movie Channels",MBC
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-id="Movie Channels" tvg-name="MBC Hindi" tvg-logo="https://i.postimg.cc/d3GC9KpZ/MBC-B.jpg" group-title="Movie Channels",MBC Hindi
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="&TV" tvg-name="&TV" tvg-logo="https://i.postimg.cc/J4Hf87BC/images-2.jpg" group-title="&TV",&TV
-https://nayeemparvez.my.id/zexppy/stream.m3u8?id=0-9-tvhd_0|Referer=https://xnxx.com/
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
 #EXTINF:-1 tvg-id="VH 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="VH 1",VH1
 https://fifabangladesh.live/VHOD/go.php?id=VH1_voot_MOB
+#EXTINF:-1 tvg-id="vh1hd.in" tvg-name="VH1 HD" tvg-logo="http://go4.pw/ASIA/INDIAN/VH1HD.png" group-title="VH 1",VH1 HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/34678
 #EXTINF:-1 tvg-id="0-9-aajtak" tvg-name="Aaj Tak" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-aajtak/list/270x152/1170x658withlogo9203637a576c44e5a9985a6e30ea5a3d.png" tvg-chno="0-9-aajtak" group-title="Zee5 Channels",Aaj Tak
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-aajtak|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
 #EXTINF:-1 tvg-id="0-9-zeenews" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/270x152/1170x658withlogo4f46c0d87b44459fb517a3f81f5cf754.png" tvg-chno="0-9-zeenews" group-title="Zee5 Channels",Zee News
@@ -298,61 +265,57 @@ https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398793|Referer=https://mhdmax
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5383489|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
 #EXTINF:-1 tvg-id="0-9-9z5398761" tvg-name="Aastha" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398761/list/270x152/1170x658withlogodbb904df46d441628b3ab324cbde6745.png" tvg-chno="0-9-9z5398761" group-title="Zee5 Channels",Aastha
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398761|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="SKY PREMIER LEAGUE" tvg-logo="https://i.postimg.cc/Y9zJFc9b/Sky-Sports.jpg" group-title="SKY Sports",SKY PREMIER LEAGUE
-https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="SKY FOOTBALL" tvg-logo="https://i.postimg.cc/Y9zJFc9b/Sky-Sports.jpg" group-title="SKY Sports",SKY FOOTBALL
-https://xyzdddd.mizhls.ru/lb/premium35/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="SKY MAIN EVENTS" tvg-logo="https://i.postimg.cc/Y9zJFc9b/Sky-Sports.jpg" group-title="SKY Sports",SKY MAIN EVENTS
-https://xyzdddd.mizhls.ru/lb/premium38/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="SKY MOTOGP" tvg-logo="https://i.postimg.cc/Y9zJFc9b/Sky-Sports.jpg" group-title="SKY Sports",SKY MOTOGP
-https://xyzdddd.mizhls.ru/lb/premium575/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="SKY F1" tvg-logo="https://i.postimg.cc/Y9zJFc9b/Sky-Sports.jpg" group-title="SKY Sports",SKY F1
-https://xyzdddd.mizhls.ru/lb/premium60/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="SKY REACHING" tvg-logo="https://i.postimg.cc/Y9zJFc9b/Sky-Sports.jpg" group-title="SKY Sports",SKY REACHING
-https://xyzdddd.mizhls.ru/lb/premium554/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 1" tvg-logo="https://i.postimg.cc/N0CWLSYh/images.jpg" group-title="SSC Sports",SSC 1
-https://xyzdddd.mizhls.ru/lb/premium614/index.m3u8|Referer=https://ilovetoplay.xyz/&origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 2" tvg-logo="https://i.postimg.cc/N0CWLSYh/images.jpg" group-title="SSC Sports",SSC 2
-https://xyzdddd.mizhls.ru/lb/premium615/index.m3u8|Referer=https://ilovetoplay.xyz/&origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 3" tvg-logo="https://i.postimg.cc/N0CWLSYh/images.jpg" group-title="SSC Sports",SSC 3
-https://xyzdddd.mizhls.ru/lb/premium616/index.m3u8|Referer=https://ilovetoplay.xyz/&origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 4" tvg-logo="https://i.postimg.cc/N0CWLSYh/images.jpg" group-title="SSC Sports",SSC 4
-https://xyzdddd.mizhls.ru/lb/premium617/index.m3u8|Referer=https://ilovetoplay.xyz/&origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 5" tvg-logo="https://i.postimg.cc/N0CWLSYh/images.jpg" group-title="SSC Sports",SSC 5
-https://xyzdddd.mizhls.ru/lb/premium618/index.m3u8|Referer=https://ilovetoplay.xyz/&origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC Extra 1" tvg-logo="https://i.postimg.cc/N0CWLSYh/images.jpg" group-title="SSC Sports",SSC Extra 1
-https://xyzdddd.mizhls.ru/lb/premium619/index.m3u8|Referer=https://ilovetoplay.xyz/&origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC Extra 2" tvg-logo="https://i.postimg.cc/N0CWLSYh/images.jpg" group-title="SSC Sports",SSC Extra 2
-https://xyzdddd.mizhls.ru/lb/premium620/index.m3u8|Referer=https://ilovetoplay.xyz/&origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC Extra 3" tvg-logo="https://i.postimg.cc/N0CWLSYh/images.jpg" group-title="SSC Sports",SSC Extra 3
-https://xyzdddd.mizhls.ru/lb/premium621/index.m3u8|Referer=https://ilovetoplay.xyz/&origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 1" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 1
-https://xyzdddd.mizhls.ru/lb/premium91/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 2" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 2
-https://xyzdddd.mizhls.ru/lb/premium92/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 3" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 3
-https://xyzdddd.mizhls.ru/lb/premium93/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 4" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 4
-https://xyzdddd.mizhls.ru/lb/premium94/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 5" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 5
-https://xyzdddd.mizhls.ru/lb/premium95/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 6" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 6
-https://xyzdddd.mizhls.ru/lb/premium96/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 7" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 7
-https://xyzdddd.mizhls.ru/lb/premium97/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 8" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 8
-https://xyzdddd.mizhls.ru/lb/premium98/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN SPORTS 1 - ENG" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN SPORTS 1 - ENG
-https://xyzdddd.mizhls.ru/lb/premium90/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 1 - 4K" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 1 - 4K
-http://51.178.65.238/BeinSport/mono.m3u8
-#EXTINF:-1 tvg-id="BEIN Sports" tvg-name="BEIN 1 - ENG" tvg-logo="https://i.postimg.cc/cJ1vdg19/bein-sports-tile-bg.png" group-title="BEIN Sports",BEIN 1 - ENG
-https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
-#EXTINF:-1 tvg-id="Others Sports" tvg-name="Astro Cricket" tvg-logo="https://i.postimg.cc/RFBkqCMW/Astro.jpg" group-title="Others Sports",Astro Cricket
-https://xyzdddd.mizhls.ru/lb/premium370/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="Others Sports" tvg-name="WILLOW HD" tvg-logo="https://i.postimg.cc/CMJ3LV9K/Willow.jpg" group-title="Others Sports",WILLOW HD
-https://xyzdddd.mizhls.ru/lb/premium346/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
-#EXTINF:-1 tvg-id="Others Sports" tvg-name="PTVSports" tvg-logo="https://i.postimg.cc/qqmSm82K/PTVSports.png" group-title="Others Sports",PTVSports
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Others Sports" tvg-name="WWE link 1" tvg-logo="https://i.postimg.cc/BbZRchPs/WWE.png" group-title="Others Sports",WWE link 1
-https://xyzdddd.mizhls.ru/lb/premium376/index.m3u8?|Referer=https://ilovetoplay.xyz/&Origin=https://ilovetoplay.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36/&key=cricfy
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 1" tvg-logo="https://img.logo-cdn.cc/ssc1.png" group-title="SSC Sports",SSC 1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660646
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 2" tvg-logo="https://img.logo-cdn.cc/ssc2.png" group-title="SSC Sports",SSC 2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660649
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 3" tvg-logo="https://img.logo-cdn.cc/ssc3.png" group-title="SSC Sports",SSC 3
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660652
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 4" tvg-logo="https://img.logo-cdn.cc/ssc4.png" group-title="SSC Sports",SSC 4
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660655
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 5" tvg-logo="https://img.logo-cdn.cc/ssc5.png" group-title="SSC Sports",SSC 5
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660658
+#EXTINF:-1 group-title="SSC Sports" tvg-logo="https://img.logo-cdn.cc/sscnews.png",SSC NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1445896
+#EXTINF:-1 group-title="SSC Sports" tvg-logo="https://img.logo-cdn.cc/sscextra1.png",SSC EXTRA 1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1445892
+#EXTINF:-1 group-title="SSC Sports" tvg-logo="https://img.logo-cdn.cc/sscextra2.png",SSC EXTRA 2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1445893
+#EXTINF:-1 group-title="SSC Sports" tvg-logo="https://img.logo-cdn.cc/sscextra3.png",SSC EXTRA 3
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1445894
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 1 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461007
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 2 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461008
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 3 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461009
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 4 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462095
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 5 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462096
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 6 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462097
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 7 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897667
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 8 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897668
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 9 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897669
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 1 XTRA HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897670
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 2 XTRA HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897671
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 1 ENGLISH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897673
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 2 ENGLISH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897674
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 1 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897675
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 2 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897676
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 3 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897677
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897749
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS GLOBAL
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897748
