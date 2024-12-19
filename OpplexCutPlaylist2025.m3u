@@ -613,39 +613,39 @@ http://xtv.ooo:8080/03178551955/03178551955/363005
 http://xtv.ooo:8080/03178551955/03178551955/363006
 #EXTINF:-1 tvg-id="" tvg-name="DOC | Wildlife HINDI" tvg-logo="" group-title="INDIAN | DOCUMENTARY",DOC | Wildlife HINDI
 http://xtv.ooo:8080/03178551955/03178551955/363002
-#EXTINF:-1 tvg-id="F2" tvg-name="IN | BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY Folder 2 Folder 2",IN | BBC EART ENG
+#EXTINF:-1 tvg-id="D22" tvg-name="BBC EART ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="Indian Documentary Folder 2",BBC EART ENG
 http://xtv.ooo:8080/03178551955/03178551955/383184
-#EXTINF:-1 tvg-id="F2" tvg-name="IND: Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Nat Geo HD ENG
+#EXTINF:-1 tvg-id="D22" tvg-name="Nat Geo HD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Indian Documentary Folder 2",Nat Geo HD ENG
 http://xtv.ooo:8080/03178551955/03178551955/383183
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="INDIAN | DOCUMENTARY Folder 2",IN | BBC EART HINDI
+#EXTINF:-1 tvg-id="D22" tvg-name="BBC EART HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/220px-BBC_Earth_logo.png" group-title="Indian Documentary Folder 2",BBC EART HINDI
 http://xtv.ooo:8080/03178551955/03178551955/206278
-#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel XP Eng" tvg-logo="" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Travel XP Eng
+#EXTINF:-1 tvg-id="D22" tvg-name="Travel XP Eng" tvg-logo="" group-title="Indian Documentary Folder 2",Travel XP Eng
 http://xtv.ooo:8080/03178551955/03178551955/206279
-#EXTINF:-1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Travel_XP Hindi
+#EXTINF:-1 tvg-id="D22" tvg-name="Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="Indian Documentary Folder 2",Travel_XP Hindi
 http://xtv.ooo:8080/03178551955/03178551955/206280
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Animal Planet Hindi
+#EXTINF:-1 tvg-id="D22" tvg-name="Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Indian Documentary Folder 2",Animal Planet Hindi
 http://xtv.ooo:8080/03178551955/03178551955/206282
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY Folder 2",IN: Animal Planet FHD ENG
+#EXTINF:-1 tvg-id="D22" tvg-name="Animal Planet FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="Indian Documentary Folder 2",Animal Planet FHD ENG
 http://xtv.ooo:8080/03178551955/03178551955/206283
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Nat Geo HD Hindi
+#EXTINF:-1 tvg-id="D22" tvg-name="Nat Geo HD Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="Indian Documentary Folder 2",Nat Geo HD Hindi
 http://xtv.ooo:8080/03178551955/03178551955/206285
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY Folder 2",IN | Nat Geo Wild HINDI
+#EXTINF:-1 tvg-id="D22" tvg-name="Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Indian Documentary Folder 2",Nat Geo Wild HINDI
 http://xtv.ooo:8080/03178551955/03178551955/206286
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Discovery Hindi
+#EXTINF:-1 tvg-id="D22" tvg-name="Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Indian Documentary Folder 2",Discovery Hindi
 http://xtv.ooo:8080/03178551955/03178551955/206287
-#EXTINF:-1 tvg-id="F2" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Discovery Science
+#EXTINF:-1 tvg-id="D22" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="Indian Documentary Folder 2",Discovery Science
 http://xtv.ooo:8080/03178551955/03178551955/206289
-#EXTINF:-1 tvg-id="F2" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Investigation Discovery Hindi
+#EXTINF:-1 tvg-id="D22" tvg-name="Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="Indian Documentary Folder 2",Investigation Discovery Hindi
 http://xtv.ooo:8080/03178551955/03178551955/206291
-#EXTINF:-1 tvg-id="F2" tvg-name="IND: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Discovery Turbo
+#EXTINF:-1 tvg-id="D22" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Indian Documentary Folder 2",Discovery Turbo
 http://xtv.ooo:8080/03178551955/03178551955/206292
-#EXTINF:-1 tvg-id="F2" tvg-name="IND: History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: History 18 Hindi
+#EXTINF:-1 tvg-id="D22" tvg-name="History 18 Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Indian Documentary Folder 2",History 18 Hindi
 http://xtv.ooo:8080/03178551955/03178551955/206294
-#EXTINF:-1 tvg-id="F2" tvg-name="IN: History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY Folder 2",IN: History TV 18 FHD
+#EXTINF:-1 tvg-id="D22" tvg-name="History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Indian Documentary Folder 2",History TV 18 FHD
 http://xtv.ooo:8080/03178551955/03178551955/206295
-#EXTINF:-1 tvg-id="F2" tvg-name="IND: Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="INDIAN | DOCUMENTARY Folder 2",IND: Epic
+#EXTINF:-1 tvg-id="D22" tvg-name="Epic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/EPIC.png" group-title="Indian Documentary Folder 2",Epic
 http://xtv.ooo:8080/03178551955/03178551955/206296
-#EXTINF:-1 tvg-id="F2" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY Folder 2",IN | Nat Geo Wild FHD ENG
+#EXTINF:-1 tvg-id="D22" tvg-name="Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Indian Documentary Folder 2",Nat Geo Wild FHD ENG
 http://xtv.ooo:8080/03178551955/03178551955/206587
 #EXTINF:-1 tvg-id="" tvg-name="KIDS: Sonic 24/7" tvg-logo="" group-title="INDIAN | KIDS Cartoon",KIDS: Sonic 24/7
 http://xtv.ooo:8080/03178551955/03178551955/301500
