@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
+https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/XJsDP5tj/DC.jpg" group-title="Personal",Discovery Multi Quality
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/1tmjMBC7/AP.jpg" group-title="Personal",Animal Planet Multi Quality
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/RhqbxFzc/LN4k.jpg" group-title="Personal",Love Nature 4k Multi Quality
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/zDPcSnnp/TLC.png" group-title="Personal",TLC Multi Quality
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/WbFf9h8V/TRVL.png" group-title="Personal",TRVL Channel Multi Quality
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/cJMzQ2m8/HGTV.jpg" group-title="Personal",HGTV Multi Quality
+https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/s2R8Gspr/9XM.png" group-title="Personal",9XM Multi Quality
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM/video.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Personal" tvg-logo="https://i.postimg.cc/fyFqzNw1/PT.jpg" group-title="Personal",Peace Tv Bangla 1
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/02cX02cg/Depto-TV.jpg" group-title="Bangladeshi Channels",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="RTV" tvg-logo="https://i.postimg.cc/cHyFLK43/RTV.jpg" group-title="Bangladeshi Channels",RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/0j9Z7LS2/Movie-Bangla.jpg" group-title="Bangladeshi Channels",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="Ruposhi Bangla" tvg-logo="https://i.postimg.cc/fb0Hs7ZZ/RB.jpg" group-title="Bangladeshi Channels",Ruposhi Bangla
+https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="Amar Bangla" tvg-logo="https://i.postimg.cc/W1zWWLHd/Amar-Bangla.jpg" group-title="Bangladeshi Channels",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="Ekushy TV" tvg-logo="https://i.postimg.cc/PxW2ptPR/Ekushy-TV.jpg" group-title="Bangladeshi Channels",Ekushy TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="Ekushy Tv" tvg-logo="https://i.postimg.cc/PxW2ptPR/Ekushy-TV.jpg" group-title="Bangladeshi Channels",Ekushy Tv
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="Boishakhi TV" tvg-logo="https://i.postimg.cc/ZKTDNyPF/Boisakhi-TV.jpg" group-title="Bangladeshi Channels",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-id="Bangladeshi Channels" tvg-name="PeaceTvBangla" tvg-logo="https://i.postimg.cc/vHBtM7Lj/Peace-TV.jpg" group-title="Bangladeshi Channels",PeaceTvBangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Enterr10 Bangla" tvg-logo="https://i.postimg.cc/2jhdNP8X/images.jpg" group-title="Kolkata Bangla",Enterr10 Bangla
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Enterr10 Bangla Link 2" tvg-logo="https://i.postimg.cc/2jhdNP8X/images.jpg" group-title="Kolkata Bangla",Enterr10 Bangla Link 2
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata Bangla",Star Jalsha HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/76204
+#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Zee Bangla HD" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Kolkata Bangla",Zee Bangla HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/78981
+#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Zee Bangla" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Kolkata Bangla",Zee Bangla
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/72258
+#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Zee Bangla HD Link 2" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Kolkata Bangla",Zee Bangla HD Link 2
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/34731
+#EXTINF:-1 tvg-id="Kolkata Bangla" tvg-name="Colors Bangla HD" tvg-logo="http://go4.pw/ASIA/BANGLA/COLORS.png" group-title="Kolkata Bangla",Colors Bangla HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/76179
+#EXTINF:-1 tvg-id="Islamic" tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/vHBtM7Lj/Peace-TV.jpg" group-title="Islamic",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="Islamic" tvg-name="Peace TV Urdu" tvg-logo="https://i.postimg.cc/vHBtM7Lj/Peace-TV.jpg" group-title="Islamic",Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-id="Islamic" tvg-name="Peace TV English" tvg-logo="https://i.postimg.cc/vHBtM7Lj/Peace-TV.jpg" group-title="Islamic",Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="Islamic" tvg-name="Al Quran" tvg-logo="https://i.postimg.cc/DzqQfnjp/Al-Quran.jpg" group-title="Islamic",Al Quran
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="Islamic" tvg-name="Sunnah" tvg-logo="https://i.postimg.cc/pdNYtpZn/Sunnah.jpg" group-title="Islamic",Sunnah
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="Islamic" tvg-name="Quran" tvg-logo="https://i.postimg.cc/qv6XY88T/Quran.jpg" group-title="Islamic",Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="Islamic" tvg-name="Islam" tvg-logo="https://i.postimg.cc/j29nQF3J/Islam.png" group-title="Islamic",Islam
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/8c4jPdYs/CN.png" group-title="KIDS",Cartoon Network
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Pogo" tvg-logo="https://i.postimg.cc/sDnvkcSN/Pogo.jpg" group-title="KIDS",Pogo
+http://217.20.112.199/pogo/index.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Discovery Kids Hindi" tvg-logo="https://i.postimg.cc/15R87TgF/DK.jpg" group-title="KIDS",Discovery Kids Hindi
+https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/15R87TgF/DK.jpg" group-title="KIDS",Discovery Kids
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Rongeen Tv" tvg-logo="https://i.postimg.cc/dVLLwyjt/Rongeen.jpg" group-title="KIDS",Rongeen Tv
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Rongeen Tv Link 2" tvg-logo="https://i.postimg.cc/dVLLwyjt/Rongeen.jpg" group-title="KIDS",Rongeen Tv Link 2
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Moonbug" tvg-logo="https://i.postimg.cc/HxpmsG14/Moonbug.jpg" group-title="KIDS",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Spacetoon" tvg-logo="https://i.postimg.cc/Sx3jsxgL/spacetoon.jpg" group-title="KIDS",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="KIDS" tvg-name="Gubbare" tvg-logo="https://i.postimg.cc/dQj7Bv0v/gubbare.jpg" group-title="KIDS",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Love Nature 4K" tvg-logo="https://i.postimg.cc/T2BTXDS9/Love-Nature.jpg" group-title="Documentary",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/tgpfjqpD/Animal-Planet.png" group-title="Documentary",Animal Planet
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Wild Life" tvg-logo="https://i.postimg.cc/3wLHf4m2/Wild-Life.jpg" group-title="Documentary",Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Wild Earth" tvg-logo="https://i.postimg.cc/rpyk9C08/Wild-Earth.jpg" group-title="Documentary",Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Travel XP" tvg-logo="https://i.postimg.cc/dtdwQ0cK/Travel-XP.png" group-title="Documentary",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="TRVL Channel" tvg-logo="https://i.postimg.cc/x13QHFdx/TRVL.jpg" group-title="Documentary",TRVL Channel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="TRVL Channel HD" tvg-logo="https://i.postimg.cc/x13QHFdx/TRVL.jpg" group-title="Documentary",TRVL Channel HD
+https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Discovery English" tvg-logo="https://i.postimg.cc/wjhPZy87/Discovery.jpg" group-title="Documentary",Discovery English
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Discovery Hindi" tvg-logo="https://i.postimg.cc/wjhPZy87/Discovery.jpg" group-title="Documentary",Discovery Hindi
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Discovery Bangla" tvg-logo="https://i.postimg.cc/wjhPZy87/Discovery.jpg" group-title="Documentary",Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Discovery Science English" tvg-logo="https://i.postimg.cc/PJJJFnC5/Discovery-Science.jpg" group-title="Documentary",Discovery Science English
+https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Discovery Science Hindi" tvg-logo="https://i.postimg.cc/PJJJFnC5/Discovery-Science.jpg" group-title="Documentary",Discovery Science Hindi
+https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Discovery Turbo" tvg-logo="https://i.postimg.cc/D0JpgmPf/Discovery-Turbo.jpg" group-title="Documentary",Discovery Turbo
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Food Network" tvg-logo="https://i.postimg.cc/sfM38cnx/FN.jpg" group-title="Documentary",Food Network Hindi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Food Network English" tvg-logo="https://i.postimg.cc/sfM38cnx/FN.jpg" group-title="Documentary",Food Network English
+https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Investigation Discovery" tvg-logo="https://i.postimg.cc/6qkj1wMr/Investigation-discovery.png" group-title="Documentary",Investigation Discovery
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Investigation Discovery" tvg-logo="https://i.postimg.cc/6qkj1wMr/Investigation-discovery.png" group-title="Documentary",Investigation Discovery Link 2
+https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Investigation Discovery Hindi" tvg-logo="https://i.postimg.cc/6qkj1wMr/Investigation-discovery.png" group-title="Documentary",Investigation Discovery Hindi
+https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="Circle-Country" tvg-logo="https://i.postimg.cc/43KTM45M/Circle-Country.png" group-title="Documentary",Circle-Country
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Documentary" tvg-name="People Are Awesome" tvg-logo="https://i.postimg.cc/fRqNBSxm/PAA.jpg" group-title="Documentary",People Are Awesome
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="&TV" tvg-name="&TV" tvg-logo="https://i.postimg.cc/J4Hf87BC/images-2.jpg" group-title="&TV",&TV
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="VH 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="VH 1",VH1
+https://fifabangladesh.live/VHOD/go.php?id=VH1_voot_MOB
+#EXTINF:-1 tvg-id="vh1hd.in" tvg-name="VH1 HD" tvg-logo="http://go4.pw/ASIA/INDIAN/VH1HD.png" group-title="VH 1",VH1 HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/34678
+#EXTINF:-1 tvg-id="0-9-aajtak" tvg-name="Aaj Tak" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-aajtak/list/270x152/1170x658withlogo9203637a576c44e5a9985a6e30ea5a3d.png" tvg-chno="0-9-aajtak" group-title="Zee5 Channels",Aaj Tak
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-aajtak|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/270x152/1170x658withlogo4f46c0d87b44459fb517a3f81f5cf754.png" tvg-chno="0-9-zeenews" group-title="Zee5 Channels",Zee News
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeenews|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-indiatoday" tvg-name="India Today" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-indiatoday/list/270x152/indiatoday1170x658withlogo410d6610b5e84f34beb1298b4e227b12.png" tvg-chno="0-9-indiatoday" group-title="Zee5 Channels",India Today
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-indiatoday|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-255" tvg-name="Good News Today" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-255/list/270x152/goodnews1170x658withlogof6c4a3ed182348079c1710c2311eccf1.png" tvg-chno="0-9-255" group-title="Zee5 Channels",Good News Today
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-255|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="Zee5 Channels",&Prive HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5543514|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-name="Zee Punjab Haryana Himachal Pradesh" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/270x152/zeepunjabharyana1170x658withlogo44ed4e5137c346289eea189dbe9e50ab.png" tvg-chno="0-9-zeepunjabharyanahima" group-title="Zee5 Channels",Zee Punjab Haryana Himachal Pradesh
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeepunjabharyanahima|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-name="Zee Business" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebusiness/list/270x152/1170x658withlogo9611c04d000440bf82c8886fe88a6b00.png" tvg-chno="0-9-zeebusiness" group-title="Zee5 Channels",Zee Business
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebusiness|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-name="Zee 24 Kalak" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24kalak/list/270x152/zeekalak1170x658withlogo014b571be14149889c3c88c4c67a1118.png" tvg-chno="0-9-zee24kalak" group-title="Zee5 Channels",Zee 24 Kalak
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zee24kalak|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-name="Zee 24 Taas" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24taas/list/270x152/1170x658withlogoe1338db349df4c06b683e499a9be7b99.png" tvg-chno="0-9-zee24taas" group-title="Zee5 Channels",Zee 24 Taas
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zee24taas|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-wion" tvg-name="WION" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/270x152/1170x658withlogoa1b4437d42054b89a58719dda68e71ad.png" tvg-chno="0-9-wion" group-title="Zee5 Channels",WION
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-wion|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-name="Zee Bharat" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeehindustan/list/270x152/1170x658withlogof2d15c95666448a08e91c96a894e6b90.png" tvg-chno="0-9-zeehindustan" group-title="Zee5 Channels",Zee Bharat
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeehindustan|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-name="Zee Bihar Jharkhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebiharjharkhand/list/270x152/zeebiharjharkand1170x658withlogo0fd8020b929e4301ae60d9d2e2cd100a.png" tvg-chno="0-9-zeebiharjharkhand" group-title="Zee5 Channels",Zee Bihar Jharkhand
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebiharjharkhand|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-name="Zee 24 Ghanta" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-24ghantatv/list/270x152/zee24ghanta1170x658withlogoca0f73a663df46adb7735484471050f2.png" tvg-chno="0-9-24ghantatv" group-title="Zee5 Channels",Zee 24 Ghanta
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-24ghantatv|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" tvg-name="Zee Delhi NCR Haryana" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeekalinganews/list/270x152/1170x658withlogo526477b4afd44089a9df2e08968c0e11.png" tvg-chno="0-9-zeekalinganews" group-title="Zee5 Channels",Zee Delhi NCR Haryana
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeekalinganews|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeerajasthannews" tvg-name="Zee Rajasthan News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeerajasthannews/list/270x152/1170x658withlogoa29f030fd47e48a78a72595b5c8bb5fd.png" tvg-chno="0-9-zeerajasthannews" group-title="Zee5 Channels",Zee Rajasthan News
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeerajasthannews|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" tvg-name="Zee Madhya Pradesh Chhattisgarh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/270x152/zeemadhyapradeshchatisgarh1170x658withlogo504835d8eb9c425994490ce7f73c215e.png" tvg-chno="0-9-zeemadhyapradeshchat" group-title="Zee5 Channels",Zee Madhya Pradesh Chhattisgarh
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeemadhyapradeshchat|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/270x152/1170x658withlog2022520414.png" tvg-chno="0-9-bigmagic_1786965389" group-title="Zee5 Channels",Big Magic
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-bigmagic_1786965389|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/270x152/1170x658withlogo596214b303fa477e9eb584d1814d1c4c.png" tvg-chno="0-9-zing" group-title="Zee5 Channels",Zing
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zing|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/270x152/1170x658withlogo37d9d9e488c140b191075cc5f07c1223.png" tvg-chno="0-9-zeetvhd" group-title="Zee5 Channels",Zee TV HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeetvhd|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/270x152/1170x658withlogo7211ab37352b480183359b0628c61994.png" tvg-chno="0-9-tvhd_0" group-title="Zee5 Channels",&TV HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-tvhd_0|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/270x152/1170x658withlogo83012bc9c1344c7aa000e70a5ec92587.png" tvg-chno="0-9-zeemarathi" group-title="Zee5 Channels",Zee Marathi HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeemarathi|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeyuva/list/270x152/1170x658withlogo3ab45ffee3a94b99b4f2f41859514f0f.png" tvg-chno="0-9-zeeyuva" group-title="Zee5 Channels",Zee Yuva
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeeyuva|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee Café HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/270x152/1170x658withlogo325698699.png" tvg-chno="0-9-zeecafehd" group-title="Zee5 Channels",Zee Café HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecafehd|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Anmol Cinema 2" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/270x152/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" tvg-chno="0-9-bigganga" group-title="Zee5 Channels",Zee Anmol Cinema 2
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-bigganga|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/270x152/1170x658withlogo50ed391190a84c3b88b49c6efa7624db.png" tvg-chno="0-9-zeetamil" group-title="Zee5 Channels",Zee Tamil HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeetamil|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/270x152/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" tvg-chno="0-9-zeetelugu" group-title="Zee5 Channels",Zee Telugu HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeetelugu|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeekannada" tvg-name="Zee Kannada HD" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeekannada/list/270x152/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.png" tvg-chno="0-9-zeekannada" group-title="Zee5 Channels",Zee Kannada HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeekannada|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-129" tvg-name="Zee Keralam HD" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-129/list/270x152/1170x658withlogoea00fd123614470c9f82e2fde66280e4.png" tvg-chno="0-9-129" group-title="Zee5 Channels",Zee Keralam HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-129|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla HD" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebangla/list/270x152/1170x658withlogoe3a7cf54204d452190f046f4841f5672.png" tvg-chno="0-9-zeebangla" group-title="Zee5 Channels",Zee Bangla HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebangla|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/270x152/1170x658withlogof149fd8008b94c998965e1c2c880042a.png" tvg-chno="0-9-zeeanmol" group-title="Zee5 Channels",Zee Anmol
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeeanmol|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/270x152/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png" tvg-chno="0-9-zeecinemahd" group-title="Zee5 Channels",Zee Cinema HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemahd|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-name="Zee Cinemalu HD" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemalu/list/270x152/1170x658withlogoe8f8c52041fb4e1bbe03ea82cf72e557.png" tvg-chno="0-9-zeecinemalu" group-title="Zee5 Channels",Zee Cinemalu HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinemalu|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/270x152/1170x658withlogob44b36f78e1647db9fa013accc0fc0c6.png" tvg-chno="0-9-tvpictureshd" group-title="Zee5 Channels",&Pictures HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-tvpictureshd|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-name="Zee Talkies HD" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetalkies/list/270x152/1170x658483062857.png" tvg-chno="0-9-zeetalkies" group-title="Zee5 Channels",Zee Talkies HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeetalkies|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" tvg-chno="0-9-zeebanglacinema" group-title="Zee5 Channels",Zee Bangla Cinema
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeebanglacinema|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-215" tvg-name="Zee Punjabi" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-215/list/270x152/1170x658withlogoce2ca382ce0d467190d9a3e9cb6af78d.png" tvg-chno="0-9-215" group-title="Zee5 Channels",Zee Punjabi
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-215|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/270x152/1170x658withlogo1a82943769da4b59aa160d90c9e3ebb9.png" tvg-chno="0-9-zeeanmolcinema" group-title="Zee5 Channels",Zee Anmol Cinema
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeeanmolcinema|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/270x152/1170x658withlogoae1cbdeedbac43e49796f0e4ff603acc.png" tvg-chno="0-9-zeeclassic" group-title="Zee5 Channels",Zee Bollywood
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeeclassic|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-name="&Pictures" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/270x152/1170x658withlog1269578414.png" tvg-chno="0-9-pictures" group-title="Zee5 Channels",&Pictures
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-pictures|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/270x152/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png" tvg-chno="0-9-zeecinema" group-title="Zee5 Channels",Zee Cinema
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeecinema|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/270x152/1170x658withlogo2d9df480fb454003af3b291d3180f237.png" tvg-chno="0-9-zeeaction" group-title="Zee5 Channels",Zee Action
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeeaction|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/1170x658379547401.png" tvg-chno="0-9-channel_2105335046" group-title="Zee5 Channels",&flix HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-channel_2105335046|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-name="Sanskar TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1144658965/list/270x152/1170x658withlogo9a371cbdfe144fbcb45d80f397ba6f96.png" tvg-chno="0-9-channel_1144658965" group-title="Zee5 Channels",Sanskar TV
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-channel_1144658965|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/270x152/1170x658withlogob3ded26b5724474a92c53277b074fe5f.png" tvg-chno="0-9-zeetv" group-title="Zee5 Channels",Zee TV
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeetv|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-zeesalaam" tvg-name="Zee Salaam" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/270x152/zeesalam1170x658withlogoa14b7257bbf049f1aae21e7671567ae2.png" tvg-chno="0-9-zeesalaam" group-title="Zee5 Channels",Zee Salaam
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-zeesalaam|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-name="Zee Sarthak" tvg-language="Oriya" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-sarthaktv/list/270x152/1170x658withlogo75246529e43d4eed88302dc6fef5a2f3.png" tvg-chno="0-9-sarthaktv" group-title="Zee5 Channels",Zee Sarthak
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-sarthaktv|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-183" tvg-name="Hare Krsna" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-183/list/270x152/1170x658withlogoda21268593564cb4a2cb5520135c6956.png" tvg-chno="0-9-183" group-title="Zee5 Channels",Hare Krsna
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-183|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_265145625/list/270x152/zeenewsuttarpradeshuttrakand1170x658withlogo0bc27885bd084dc88d28607e673c3fb9.png" tvg-chno="0-9-channel_265145625" group-title="Zee5 Channels",Zee News Uttar Pradesh Uttrakhand
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-channel_265145625|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Classic" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/270x152/1170x658withlogo1948f549188543369c29907c29262f11.png" tvg-chno="0-9-176" group-title="Zee5 Channels",Zee Classic
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-176|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="Zee5 Channels",&xplorHD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-209|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope" tvg-language="Unknown" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-216/list/270x152/1170x658withlogo20909261.png" tvg-chno="0-9-216" group-title="Zee5 Channels",Zee Biskope
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-216|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-224" tvg-name="Zee Thirai" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/270x152/1170x658withlogo411383076d7e42eeb3ea401e38cde895.png" tvg-chno="0-9-224" group-title="Zee5 Channels",Zee Thirai
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-224|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/270x152/1170x658withlog2096037619.png" tvg-chno="0-9-348" group-title="Zee5 Channels",Zee Zest HD
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-348|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-241" tvg-name="Zee Picchar" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-241/list/270x152/1170x658withlogo17e0258ea085445e9ad750f9b5e2a310.png" tvg-chno="0-9-241" group-title="Zee5 Channels",Zee Picchar
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-241|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-394" tvg-name="Zee Chitramandir" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-394/list/270x152/1170x658717187404.png" tvg-chno="0-9-394" group-title="Zee5 Channels",Zee Chitramandir
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-394|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5383466" tvg-name="Zee Kannada" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383466/list/270x152/1170x658withlogo1c88bf22122047f3b5f03ff928aeaf2c.png" tvg-chno="0-9-9z5383466" group-title="Zee5 Channels",Zee Kannada
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5383466|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-name="Zee Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383484/list/270x152/1170x658withlogo81f64841a969490c848a55eb035208cd.png" tvg-chno="0-9-9z5383484" group-title="Zee5 Channels",Zee Bangla
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5383484|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5383485" tvg-name="Zee Telugu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383485/list/270x152/1170x658withlogo2582f16188fb441b83c1e432451eee0f.png" tvg-chno="0-9-9z5383485" group-title="Zee5 Channels",Zee Telugu
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5383485|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-name="Zee Marathi" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383486/list/270x152/1170x658withlogo45995d246ac74654b7b80c48e1493ddc.png" tvg-chno="0-9-9z5383486" group-title="Zee5 Channels",Zee Marathi
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5383486|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-name="Zee Tamil" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383487/list/270x152/1170x658withlogoa74d99e3438b48f1ae926604ada7c85a.png" tvg-chno="0-9-9z5383487" group-title="Zee5 Channels",Zee Tamil
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5383487|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-name="Zee Cinemalu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383488/list/270x152/1170x658withlogo4753e8766d8c4855a3cbeedbf4dea6d0.png" tvg-chno="0-9-9z5383488" group-title="Zee5 Channels",Zee Cinemalu
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5383488|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5398768" tvg-name="Aastha Telugu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398768/list/270x152/1170x658042cf19153ff4a83938e5682c2b92b59.png" tvg-chno="0-9-9z5398768" group-title="Zee5 Channels",Aastha Telugu
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398768|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5398770" tvg-name="Aastha Tamil" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398770/list/270x152/1170x6580c0b1f0b80c14441b5d15b2154806784.png" tvg-chno="0-9-9z5398770" group-title="Zee5 Channels",Aastha Tamil
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398770|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5398771" tvg-name="Aastha Kannada" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398771/list/270x152/1170x658761699067ac746c09ae79c3de315e2df.png" tvg-chno="0-9-9z5398771" group-title="Zee5 Channels",Aastha Kannada
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398771|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5398791" tvg-name="Aastha Gujarati" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398791/list/270x152/1170x65872d70eaa6f5646318005384e42d14078.png" tvg-chno="0-9-9z5398791" group-title="Zee5 Channels",Aastha Gujarati
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398791|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5398792" tvg-name="Dharm Sandesh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png" tvg-chno="0-9-9z5398792" group-title="Zee5 Channels",Dharm Sandesh
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398792|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5398793" tvg-name="Aastha Bhajan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398793/list/270x152/1170x658ffffcd473c784a51b16ca2818c6d046f.png" tvg-chno="0-9-9z5398793" group-title="Zee5 Channels",Aastha Bhajan
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398793|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-name="Zee Talkies" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383489/list/270x152/1170x658withlogoe11e2cce715b456990218cd26e7da994.png" tvg-chno="0-9-9z5383489" group-title="Zee5 Channels",Zee Talkies
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5383489|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="0-9-9z5398761" tvg-name="Aastha" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398761/list/270x152/1170x658withlogodbb904df46d441628b3ab324cbde6745.png" tvg-chno="0-9-9z5398761" group-title="Zee5 Channels",Aastha
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-9z5398761|Referer=https://mhdmaxtv.me/?key=thenayeemparvez
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 1" tvg-logo="https://img.logo-cdn.cc/ssc1.png" group-title="SSC Sports",SSC 1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660646
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 2" tvg-logo="https://img.logo-cdn.cc/ssc2.png" group-title="SSC Sports",SSC 2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660649
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 3" tvg-logo="https://img.logo-cdn.cc/ssc3.png" group-title="SSC Sports",SSC 3
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660652
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 4" tvg-logo="https://img.logo-cdn.cc/ssc4.png" group-title="SSC Sports",SSC 4
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660655
+#EXTINF:-1 tvg-id="SSC Sports" tvg-name="SSC 5" tvg-logo="https://img.logo-cdn.cc/ssc5.png" group-title="SSC Sports",SSC 5
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/660658
+#EXTINF:-1 group-title="SSC Sports" tvg-logo="https://img.logo-cdn.cc/sscnews.png",SSC NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1445896
+#EXTINF:-1 group-title="SSC Sports" tvg-logo="https://img.logo-cdn.cc/sscextra1.png",SSC EXTRA 1
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1445892
+#EXTINF:-1 group-title="SSC Sports" tvg-logo="https://img.logo-cdn.cc/sscextra2.png",SSC EXTRA 2
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1445893
+#EXTINF:-1 group-title="SSC Sports" tvg-logo="https://img.logo-cdn.cc/sscextra3.png",SSC EXTRA 3
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1445894
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 1 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461007
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 2 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461008
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 3 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1461009
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 4 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462095
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 5 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462096
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/championsleague.png",BEINSPORTS 6 HD [AR]
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1462097
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 7 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897667
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 8 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897668
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 9 HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897669
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 1 XTRA HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897670
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 2 XTRA HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897671
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 1 ENGLISH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897673
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 2 ENGLISH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897674
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 1 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897675
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 2 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897676
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS 3 FRENCH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897677
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS NEWS
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897749
+#EXTINF:-1 group-title="BEINSPORTS" tvg-logo="https://img.logo-cdn.cc/beinsports.png",BEINSPORTS GLOBAL
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897748
