@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Neo" tvg-name="Last updated on February 16, 2025" tvg-logo="https://i.postimg.cc/8Cz9b3pk/Picsart-24-09-16-13-18-44-287.png" group-title="Last updated on February 16, 2025",Last updated on February 16, 2025
+https://github.com/Neo045/Pictures/raw/main/Doctor%20Strange.mp4
 #EXTINF:-1 tvg-id="0-9-aajtak" tvg-name="Aaj Tak" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-aajtak/list/270x152/1170x658withlogo9203637a576c44e5a9985a6e30ea5a3d.png" tvg-chno="0-9-aajtak" group-title="Zee5",Aaj Tak
 https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-aajtak|Referer=https://zeppy.nayeem-parvez.workers.dev/
 #EXTINF:-1 tvg-id="0-9-zeenews" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/270x152/1170x658withlogo4f46c0d87b44459fb517a3f81f5cf754.png" tvg-chno="0-9-zeenews" group-title="Zee5",Zee News
