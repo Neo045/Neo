@@ -1,139 +1,283 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0-9-aajtak" tvg-name="Aaj Tak" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-aajtak/list/270x152/1170x658withlogo9203637a576c44e5a9985a6e30ea5a3d.png" tvg-chno="0-9-aajtak" group-title="Zee5 by CRICFy",Aaj Tak
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-aajtak|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeenews" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/270x152/1170x658withlogo4f46c0d87b44459fb517a3f81f5cf754.png" tvg-chno="0-9-zeenews" group-title="Zee5 by CRICFy",Zee News
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeenews|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-indiatoday" tvg-name="India Today" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-indiatoday/list/270x152/indiatoday1170x658withlogo410d6610b5e84f34beb1298b4e227b12.png" tvg-chno="0-9-indiatoday" group-title="Zee5 by CRICFy",India Today
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-indiatoday|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-255" tvg-name="Good News Today" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-255/list/270x152/goodnews1170x658withlogof6c4a3ed182348079c1710c2311eccf1.png" tvg-chno="0-9-255" group-title="Zee5 by CRICFy",Good News Today
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-255|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="Zee5 by CRICFy",&Prive HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5543514|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-name="Zee Punjab Haryana Himachal Pradesh" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/270x152/zeepunjabharyana1170x658withlogo44ed4e5137c346289eea189dbe9e50ab.png" tvg-chno="0-9-zeepunjabharyanahima" group-title="Zee5 by CRICFy",Zee Punjab Haryana Himachal Pradesh
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeepunjabharyanahima|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-name="Zee Business" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebusiness/list/270x152/1170x658withlogo9611c04d000440bf82c8886fe88a6b00.png" tvg-chno="0-9-zeebusiness" group-title="Zee5 by CRICFy",Zee Business
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeebusiness|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-name="Zee 24 Kalak" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24kalak/list/270x152/zeekalak1170x658withlogo014b571be14149889c3c88c4c67a1118.png" tvg-chno="0-9-zee24kalak" group-title="Zee5 by CRICFy",Zee 24 Kalak
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zee24kalak|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-name="Zee 24 Taas" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24taas/list/270x152/1170x658withlogoe1338db349df4c06b683e499a9be7b99.png" tvg-chno="0-9-zee24taas" group-title="Zee5 by CRICFy",Zee 24 Taas
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zee24taas|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-wion" tvg-name="WION" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/270x152/1170x658withlogoa1b4437d42054b89a58719dda68e71ad.png" tvg-chno="0-9-wion" group-title="Zee5 by CRICFy",WION
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-wion|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-name="Zee Bharat" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeehindustan/list/270x152/1170x658withlogof2d15c95666448a08e91c96a894e6b90.png" tvg-chno="0-9-zeehindustan" group-title="Zee5 by CRICFy",Zee Bharat
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeehindustan|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-name="Zee Bihar Jharkhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebiharjharkhand/list/270x152/zeebiharjharkand1170x658withlogo0fd8020b929e4301ae60d9d2e2cd100a.png" tvg-chno="0-9-zeebiharjharkhand" group-title="Zee5 by CRICFy",Zee Bihar Jharkhand
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeebiharjharkhand|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-name="Zee 24 Ghanta" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-24ghantatv/list/270x152/zee24ghanta1170x658withlogoca0f73a663df46adb7735484471050f2.png" tvg-chno="0-9-24ghantatv" group-title="Zee5 by CRICFy",Zee 24 Ghanta
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-24ghantatv|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeekalinganews" tvg-name="Zee Delhi NCR Haryana" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeekalinganews/list/270x152/1170x658withlogo526477b4afd44089a9df2e08968c0e11.png" tvg-chno="0-9-zeekalinganews" group-title="Zee5 by CRICFy",Zee Delhi NCR Haryana
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeekalinganews|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeerajasthannews" tvg-name="Zee Rajasthan News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeerajasthannews/list/270x152/1170x658withlogoa29f030fd47e48a78a72595b5c8bb5fd.png" tvg-chno="0-9-zeerajasthannews" group-title="Zee5 by CRICFy",Zee Rajasthan News
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeerajasthannews|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" tvg-name="Zee Madhya Pradesh Chhattisgarh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/270x152/zeemadhyapradeshchatisgarh1170x658withlogo504835d8eb9c425994490ce7f73c215e.png" tvg-chno="0-9-zeemadhyapradeshchat" group-title="Zee5 by CRICFy",Zee Madhya Pradesh Chhattisgarh
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeemadhyapradeshchat|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/270x152/1170x658withlog2022520414.png" tvg-chno="0-9-bigmagic_1786965389" group-title="Zee5 by CRICFy",Big Magic
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/270x152/1170x658withlogo596214b303fa477e9eb584d1814d1c4c.png" tvg-chno="0-9-zing" group-title="Zee5 by CRICFy",Zing
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zing|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/270x152/1170x658withlogo37d9d9e488c140b191075cc5f07c1223.png" tvg-chno="0-9-zeetvhd" group-title="Zee5 by CRICFy",Zee TV HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeetvhd|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/270x152/1170x658withlogo7211ab37352b480183359b0628c61994.png" tvg-chno="0-9-tvhd_0" group-title="Zee5 by CRICFy",&TV HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-tvhd_0|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/270x152/1170x658withlogo83012bc9c1344c7aa000e70a5ec92587.png" tvg-chno="0-9-zeemarathi" group-title="Zee5 by CRICFy",Zee Marathi HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeemarathi|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeyuva/list/270x152/1170x658withlogo3ab45ffee3a94b99b4f2f41859514f0f.png" tvg-chno="0-9-zeeyuva" group-title="Zee5 by CRICFy",Zee Yuva
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeeyuva|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee CafÃ© HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/270x152/1170x658withlogo325698699.png" tvg-chno="0-9-zeecafehd" group-title="Zee5 by CRICFy",Zee CafÃ© HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeecafehd|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Anmol Cinema 2" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/270x152/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" tvg-chno="0-9-bigganga" group-title="Zee5 by CRICFy",Zee Anmol Cinema 2
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-bigganga|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/270x152/1170x658withlogo50ed391190a84c3b88b49c6efa7624db.png" tvg-chno="0-9-zeetamil" group-title="Zee5 by CRICFy",Zee Tamil HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeetamil|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/270x152/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" tvg-chno="0-9-zeetelugu" group-title="Zee5 by CRICFy",Zee Telugu HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeetelugu|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeekannada" tvg-name="Zee Kannada HD" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeekannada/list/270x152/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.png" tvg-chno="0-9-zeekannada" group-title="Zee5 by CRICFy",Zee Kannada HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeekannada|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-129" tvg-name="Zee Keralam HD" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-129/list/270x152/1170x658withlogoea00fd123614470c9f82e2fde66280e4.png" tvg-chno="0-9-129" group-title="Zee5 by CRICFy",Zee Keralam HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-129|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla HD" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebangla/list/270x152/1170x658withlogoe3a7cf54204d452190f046f4841f5672.png" tvg-chno="0-9-zeebangla" group-title="Zee5 by CRICFy",Zee Bangla HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeebangla|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/270x152/1170x658withlogof149fd8008b94c998965e1c2c880042a.png" tvg-chno="0-9-zeeanmol" group-title="Zee5 by CRICFy",Zee Anmol
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeeanmol|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/270x152/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png" tvg-chno="0-9-zeecinemahd" group-title="Zee5 by CRICFy",Zee Cinema HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeecinemahd|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-name="Zee Cinemalu HD" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemalu/list/270x152/1170x658withlogoe8f8c52041fb4e1bbe03ea82cf72e557.png" tvg-chno="0-9-zeecinemalu" group-title="Zee5 by CRICFy",Zee Cinemalu HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeecinemalu|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/270x152/1170x658withlogob44b36f78e1647db9fa013accc0fc0c6.png" tvg-chno="0-9-tvpictureshd" group-title="Zee5 by CRICFy",&Pictures HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-tvpictureshd|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-name="Zee Talkies HD" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetalkies/list/270x152/1170x658483062857.png" tvg-chno="0-9-zeetalkies" group-title="Zee5 by CRICFy",Zee Talkies HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeetalkies|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" tvg-chno="0-9-zeebanglacinema" group-title="Zee5 by CRICFy",Zee Bangla Cinema
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeebanglacinema|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-215" tvg-name="Zee Punjabi" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-215/list/270x152/1170x658withlogoce2ca382ce0d467190d9a3e9cb6af78d.png" tvg-chno="0-9-215" group-title="Zee5 by CRICFy",Zee Punjabi
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-215|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/270x152/1170x658withlogo1a82943769da4b59aa160d90c9e3ebb9.png" tvg-chno="0-9-zeeanmolcinema" group-title="Zee5 by CRICFy",Zee Anmol Cinema
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeeanmolcinema|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/270x152/1170x658withlogoae1cbdeedbac43e49796f0e4ff603acc.png" tvg-chno="0-9-zeeclassic" group-title="Zee5 by CRICFy",Zee Bollywood
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeeclassic|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-pictures" tvg-name="&Pictures" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/270x152/1170x658withlog1269578414.png" tvg-chno="0-9-pictures" group-title="Zee5 by CRICFy",&Pictures
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-pictures|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/270x152/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png" tvg-chno="0-9-zeecinema" group-title="Zee5 by CRICFy",Zee Cinema
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeecinema|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/270x152/1170x658withlogo2d9df480fb454003af3b291d3180f237.png" tvg-chno="0-9-zeeaction" group-title="Zee5 by CRICFy",Zee Action
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeeaction|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/1170x658379547401.png" tvg-chno="0-9-channel_2105335046" group-title="Zee5 by CRICFy",&flix HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-channel_2105335046|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-name="Sanskar TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1144658965/list/270x152/1170x658withlogo9a371cbdfe144fbcb45d80f397ba6f96.png" tvg-chno="0-9-channel_1144658965" group-title="Zee5 by CRICFy",Sanskar TV
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-channel_1144658965|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/270x152/1170x658withlogob3ded26b5724474a92c53277b074fe5f.png" tvg-chno="0-9-zeetv" group-title="Zee5 by CRICFy",Zee TV
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeetv|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-zeesalaam" tvg-name="Zee Salaam" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/270x152/zeesalam1170x658withlogoa14b7257bbf049f1aae21e7671567ae2.png" tvg-chno="0-9-zeesalaam" group-title="Zee5 by CRICFy",Zee Salaam
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-zeesalaam|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-name="Zee Sarthak" tvg-language="Oriya" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-sarthaktv/list/270x152/1170x658withlogo75246529e43d4eed88302dc6fef5a2f3.png" tvg-chno="0-9-sarthaktv" group-title="Zee5 by CRICFy",Zee Sarthak
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-sarthaktv|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-183" tvg-name="Hare Krsna" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-183/list/270x152/1170x658withlogoda21268593564cb4a2cb5520135c6956.png" tvg-chno="0-9-183" group-title="Zee5 by CRICFy",Hare Krsna
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-183|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_265145625/list/270x152/zeenewsuttarpradeshuttrakand1170x658withlogo0bc27885bd084dc88d28607e673c3fb9.png" tvg-chno="0-9-channel_265145625" group-title="Zee5 by CRICFy",Zee News Uttar Pradesh Uttrakhand
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-channel_265145625|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Classic" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/270x152/1170x658withlogo1948f549188543369c29907c29262f11.png" tvg-chno="0-9-176" group-title="Zee5 by CRICFy",Zee Classic
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-176|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="Zee5 by CRICFy",&xplorHD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-209|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope" tvg-language="Unknown" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-216/list/270x152/1170x658withlogo20909261.png" tvg-chno="0-9-216" group-title="Zee5 by CRICFy",Zee Biskope
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-216|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-224" tvg-name="Zee Thirai" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/270x152/1170x658withlogo411383076d7e42eeb3ea401e38cde895.png" tvg-chno="0-9-224" group-title="Zee5 by CRICFy",Zee Thirai
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-224|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/270x152/1170x658withlog2096037619.png" tvg-chno="0-9-348" group-title="Zee5 by CRICFy",Zee Zest HD
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-348|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-241" tvg-name="Zee Picchar" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-241/list/270x152/1170x658withlogo17e0258ea085445e9ad750f9b5e2a310.png" tvg-chno="0-9-241" group-title="Zee5 by CRICFy",Zee Picchar
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-241|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-394" tvg-name="Zee Chitramandir" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-394/list/270x152/1170x658717187404.png" tvg-chno="0-9-394" group-title="Zee5 by CRICFy",Zee Chitramandir
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-394|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5383466" tvg-name="Zee Kannada" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383466/list/270x152/1170x658withlogo1c88bf22122047f3b5f03ff928aeaf2c.png" tvg-chno="0-9-9z5383466" group-title="Zee5 by CRICFy",Zee Kannada
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5383466|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-name="Zee Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383484/list/270x152/1170x658withlogo81f64841a969490c848a55eb035208cd.png" tvg-chno="0-9-9z5383484" group-title="Zee5 by CRICFy",Zee Bangla
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5383484|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5383485" tvg-name="Zee Telugu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383485/list/270x152/1170x658withlogo2582f16188fb441b83c1e432451eee0f.png" tvg-chno="0-9-9z5383485" group-title="Zee5 by CRICFy",Zee Telugu
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5383485|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-name="Zee Marathi" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383486/list/270x152/1170x658withlogo45995d246ac74654b7b80c48e1493ddc.png" tvg-chno="0-9-9z5383486" group-title="Zee5 by CRICFy",Zee Marathi
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5383486|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-name="Zee Tamil" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383487/list/270x152/1170x658withlogoa74d99e3438b48f1ae926604ada7c85a.png" tvg-chno="0-9-9z5383487" group-title="Zee5 by CRICFy",Zee Tamil
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5383487|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-name="Zee Cinemalu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383488/list/270x152/1170x658withlogo4753e8766d8c4855a3cbeedbf4dea6d0.png" tvg-chno="0-9-9z5383488" group-title="Zee5 by CRICFy",Zee Cinemalu
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5383488|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5398768" tvg-name="Aastha Telugu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398768/list/270x152/1170x658042cf19153ff4a83938e5682c2b92b59.png" tvg-chno="0-9-9z5398768" group-title="Zee5 by CRICFy",Aastha Telugu
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5398768|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5398770" tvg-name="Aastha Tamil" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398770/list/270x152/1170x6580c0b1f0b80c14441b5d15b2154806784.png" tvg-chno="0-9-9z5398770" group-title="Zee5 by CRICFy",Aastha Tamil
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5398770|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5398771" tvg-name="Aastha Kannada" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398771/list/270x152/1170x658761699067ac746c09ae79c3de315e2df.png" tvg-chno="0-9-9z5398771" group-title="Zee5 by CRICFy",Aastha Kannada
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5398771|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5398791" tvg-name="Aastha Gujarati" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398791/list/270x152/1170x65872d70eaa6f5646318005384e42d14078.png" tvg-chno="0-9-9z5398791" group-title="Zee5 by CRICFy",Aastha Gujarati
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5398791|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5398792" tvg-name="Dharm Sandesh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png" tvg-chno="0-9-9z5398792" group-title="Zee5 by CRICFy",Dharm Sandesh
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5398792|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5398793" tvg-name="Aastha Bhajan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398793/list/270x152/1170x658ffffcd473c784a51b16ca2818c6d046f.png" tvg-chno="0-9-9z5398793" group-title="Zee5 by CRICFy",Aastha Bhajan
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5398793|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-name="Zee Talkies" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5383489/list/270x152/1170x658withlogoe11e2cce715b456990218cd26e7da994.png" tvg-chno="0-9-9z5383489" group-title="Zee5 by CRICFy",Zee Talkies
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5383489|Referer=https://zeppy.nayeem-parvez.workers.dev/
-#EXTINF:-1 tvg-id="0-9-9z5398761" tvg-name="Aastha" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5398761/list/270x152/1170x658withlogodbb904df46d441628b3ab324cbde6745.png" tvg-chno="0-9-9z5398761" group-title="Zee5 by CRICFy",Aastha
-https://zeex.nayeem-parvez.workers.dev/stream.m3u8?id=0-9-9z5398761|Referer=https://zeppy.nayeem-parvez.workers.dev/
+#EXTINF:-1 tvg-id="Neo" tvg-name="Last updated on February 16, 2025" tvg-logo="https://i.postimg.cc/8Cz9b3pk/Picsart-24-09-16-13-18-44-287.png" group-title="Last updated on February 16, 2025",Last updated on February 16, 2025
+https://github.com/Neo045/Pictures/raw/main/Doctor%20Strange.mp4
+#EXTINF:-1 group-title="DISH TV",&Prive HD - Rs 6.00
+http://103.115.126.26:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="DISH TV",&flix HD - Rs 19.00
+http://103.115.126.26:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="DISH TV",&pictures HD - Rs 19.00
+http://103.115.126.26:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="DISH TV",&tv HD - Rs 19.00
+http://103.115.126.26:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Aaj Tak HD - Rs 2.00
+http://103.115.126.26:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Adhithya Tv
+http://103.115.126.26:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Animal Planet HD  - Rs 5.00
+http://103.115.126.26:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Asianet HD - Rs 22.00
+http://103.115.126.26:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Asianet Movies HD - Rs 19.00
+http://103.115.126.26:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Asianet Plus
+http://103.115.126.26:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="DISH TV",BBC News - Rs 1.50
+http://103.115.126.26:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="DISH TV",CNBC Awaaz - Rs 0.10
+http://103.115.126.26:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="DISH TV",CNBC TV 18
+http://103.115.126.26:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="DISH TV",CNN
+http://103.115.126.26:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Cartoon Network - Rs 4.75
+http://103.115.126.26:8000/play/a089/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Colors Cineplex HD - Rs 19.00
+http://103.115.126.26:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Colors HD - Rs 19.00
+http://103.115.126.26:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Colors Kannada Cinema - Rs 5.00
+http://103.115.126.26:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Colors Kannada HD - Rs 19.00
+http://103.115.126.26:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Colors Marathi HD - Rs 19.00
+http://103.115.126.26:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Colors Super
+http://103.115.126.26:8000/play/a06f/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Colors Tamil HD - Rs 7.00
+http://103.115.126.26:8000/play/a07x/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Discovery HD - Rs 8.00
+http://103.115.126.26:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="DISH TV",EPIC - Rs 5.00
+http://103.115.126.26:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="DISH TV",ETV Abhiruchi - Rs 3.00
+http://103.115.126.26:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="DISH TV",ETV Cinema - Rs 15.00
+http://103.115.126.26:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="DISH TV",ETV HD
+http://103.115.126.26:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="DISH TV",ETV Plus - Rs 12.00
+http://103.115.126.26:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="DISH TV",ETV Telangana
+http://103.115.126.26:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Flowers Tv
+http://103.115.126.26:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Gemini Comedy - Rs 5.00
+http://103.115.126.26:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Gemini Movies HD - Rs 19.00
+http://103.115.126.26:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Gemini Music
+http://103.115.126.26:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Gemini TV HD - Rs 19.00
+http://103.115.126.26:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="DISH TV",History TV18 HD - Rs 7.00 
+http://103.115.126.26:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="DISH TV",INDIA TODAY - Rs 1.50
+http://103.115.126.26:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Isai Aruvi - Rs 4.00
+http://103.115.126.26:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="DISH TV",J Movies
+http://103.115.126.26:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Jaya Max - Rs 2.25
+http://103.115.126.26:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Jaya TV HD - Rs 6.00
+http://103.115.126.26:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Jothi Tv
+http://103.115.126.26:8000/play/a06i/index.m3u8
+#EXTINF:-1 group-title="DISH TV",KTV HD - Rs 19.00
+http://103.115.126.26:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="DISH TV" tvg-id="kalaignartv.in",Kalingnar
+http://103.115.126.26:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Kochu TV - Rs 5.00
+http://103.115.126.26:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="DISH TV",MN+ HD - Rs 10.00
+http://103.115.126.26:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="DISH TV",MNX HD - Rs 10.00
+http://103.115.126.26:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="DISH TV",MTV Beats HD - Rs 1.00
+http://103.115.126.26:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="DISH TV",MTV HD - Rs 2.00
+http://103.115.126.26:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Mazhavil Manorama HD - Free
+http://103.115.126.26:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Mega 24
+http://103.115.126.26:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Mega TV - Rs 3.00
+http://103.115.126.26:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Movies Now HD - Rs 14.00
+http://103.115.126.26:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Murasu TV - Rs 12.00
+http://103.115.126.26:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="DISH TV",NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://103.115.126.26:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="DISH TV",NDTV India - Rs 1.00
+http://103.115.126.26:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Nat Geo Wild HD - Rs 8.00
+http://103.115.126.26:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="DISH TV",News 18 Lokmat
+http://103.115.126.26:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="DISH TV",News18 Kerala - Rs 0.10
+http://103.115.126.26:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer
+http://103.115.126.26:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C1
+http://103.115.126.26:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C2
+http://103.115.126.26:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C3
+http://103.115.126.26:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C4
+http://103.115.126.26:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C5
+http://103.115.126.26:8000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C6
+http://103.115.126.26:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C7
+http://103.115.126.26:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C8
+http://103.115.126.26:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - C9
+http://103.115.126.26:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Polimer News - Free
+http://103.115.126.26:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Raj Musix Telugu - Free
+http://103.115.126.26:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Raj News Telugu
+http://103.115.126.26:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Raj TV - Rs 4.00
+http://103.115.126.26:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="DISH TV",SET HD - Rs 19.00
+http://103.115.126.26:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="DISH TV",SONY BBC EARTH HD - Rs 19.00_OLD
+http://103.115.126.26:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="DISH TV",SONY MAX HD - Rs 19.00
+http://103.115.126.26:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="DISH TV",SONY PIX HD - Rs 19.00
+http://103.115.126.26:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="DISH TV",SONY SPORTS TEN 1 HD - Rs 19.00
+http://103.115.126.26:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="DISH TV",SONY SPORTS TEN 2 HD - Rs 19.00
+http://103.115.126.26:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="DISH TV",SONY SPORTS TEN 3 HD - Rs 19.00
+http://103.115.126.26:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="DISH TV",SONY SPORTS TEN 5 HD - Rs 19.00
+http://103.115.126.26:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="DISH TV",STAR GOLD HD - Rs 19.00
+http://103.115.126.26:8000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="DISH TV",STAR Maa HD - Rs 22.00
+http://103.115.126.26:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="DISH TV",STAR Movies HD - Rs 19.00
+http://103.115.126.26:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="DISH TV",STAR Movies Select HD - Rs 19.00
+http://103.115.126.26:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="DISH TV",STAR Plus HD - Rs 22.00
+http://103.115.126.26:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sethigal
+http://103.115.126.26:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sirippoli TV - Rs 8.00
+http://103.115.126.26:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sony Marathi
+http://103.115.126.26:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sony Sab HD
+http://103.115.126.26:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sports 18 - 1 HD - Rs 19.00
+http://103.115.126.26:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sports 18 2 - Rs 1.00
+http://103.115.126.26:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Bharat HD - Rs 19.00
+http://103.115.126.26:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Gold 2 HD
+http://103.115.126.26:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Gold Select HD - Rs 8.00
+http://103.115.126.26:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Maa Gold - Rs 9.00
+http://103.115.126.26:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Maa Movies HD - Rs 19.00
+http://103.115.126.26:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Maa Music
+http://103.115.126.26:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Pravah HD - Rs 19.00
+http://103.115.126.26:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports 1 HD - Rs 19.00
+http://103.115.126.26:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports 1 Hindi HD - Rs 19.00
+http://103.115.126.26:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports 1 Tamil HD - Rs 19.00
+http://103.115.126.26:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports 1 Telugu HD - Rs 19.00
+http://103.115.126.26:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports 2 HD - Rs 19.00
+http://103.115.126.26:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports 3 - Rs 2.00
+http://103.115.126.26:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports First - Rs 0.50
+http://103.115.126.26:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports Select 1 HD - Rs 19.00
+http://103.115.126.26:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Sports Select 2 HD - Rs 15.00
+http://103.115.126.26:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Star Suvarna HD - Rs 22.00
+http://103.115.126.26:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sun Music HD - Rs 19.00
+http://103.115.126.26:8000/play/a07v/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sun News
+http://103.115.126.26:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Sun TV HD - Rs 19.00
+http://103.115.126.26:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Surya Comedy
+http://103.115.126.26:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Surya HD - Rs 19.00
+http://103.115.126.26:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Surya Movies - Rs 11.00
+http://103.115.126.26:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Surya Music
+http://103.115.126.26:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="DISH TV",TLC HD - Rs 3.00
+http://103.115.126.26:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Thanthi TV - Free
+http://103.115.126.26:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Udaya Comedy
+http://103.115.126.26:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Udaya HD - Rs 19.00
+http://103.115.126.26:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Udaya Movies
+http://103.115.126.26:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Udaya Music - Rs 5.00
+http://103.115.126.26:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Vijay HD - Rs 22.00
+http://103.115.126.26:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Vijay Super HD - Rs 19.00
+http://103.115.126.26:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Vijay Takkar - Rs 2.00
+http://103.115.126.26:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="DISH TV",WION
+http://103.115.126.26:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Business
+http://103.115.126.26:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Cinema HD - Rs 19.00
+http://103.115.126.26:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Cinemalu HD
+http://103.115.126.26:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Kannada HD - Rs 19.00
+http://103.115.126.26:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Keralam HD - Rs 10.00
+http://103.115.126.26:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Marathi HD - Rs 19.00
+http://103.115.126.26:8000/play/a08q/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee News - Rs 0.10
+http://103.115.126.26:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Picchar HD - Rs 16.00
+http://103.115.126.26:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee TV HD - Rs 19.00
+http://103.115.126.26:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Talkies HD - Rs 19.00
+http://103.115.126.26:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Tamil - Rs 19.00
+http://103.115.126.26:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Tamil HD - Rs 19.00
+http://103.115.126.26:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Telugu HD - Rs 19.00
+http://103.115.126.26:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Thirai HD - Rs 16.00
+http://103.115.126.26:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="DISH TV",Zee Yuva
+http://103.115.126.26:8000/play/a060/index.m3u8
