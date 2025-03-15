@@ -1,6 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="Neo_KIDS" tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/fLGMcTdK/Picsart-25-03-15-16-27-07-935.jpg" group-title="KIDS Live",Nick Bangla
+http://newhub247.store/discot/live.m3u8?id=1341
+#EXTINF:-1 tvg-id="Neo_KIDS" tvg-name="Sony Yay Bangla" tvg-logo="https://i.postimg.cc/fLGMcTdK/Picsart-25-03-15-16-27-07-935.jpg" group-title="KIDS Live",Sony Yay Bangla
+https://dns.bajimath.com/candy/vstream.php?id=edf7ba617dc5&e=.m3u8
+#EXTINF:-1 tvg-id="Neo_KIDS" tvg-name="Duronto TV" tvg-logo="https://i.postimg.cc/fLGMcTdK/Picsart-25-03-15-16-27-07-935.jpg" group-title="KIDS Live",Duronto TV
+http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="Neo_KIDS" tvg-name="Roongeen TV" tvg-logo="https://i.postimg.cc/fLGMcTdK/Picsart-25-03-15-16-27-07-935.jpg" group-title="KIDS Live",Roongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Neo_KIDS" tvg-name="Cartoon Network Hindi" tvg-logo="https://i.postimg.cc/fLGMcTdK/Picsart-25-03-15-16-27-07-935.jpg" group-title="KIDS Live",Cartoon Network Hindi
+https://dns.bajimath.com/candy/vstream.php?id=8be5ec5d5d7c&e=.m3u8
+#EXTINF:-1 tvg-id="Neo_KIDS" tvg-name="Pogo Hindi" tvg-logo="https://i.postimg.cc/fLGMcTdK/Picsart-25-03-15-16-27-07-935.jpg" group-title="KIDS Live",Pogo Hindi
+https://dns.bajimath.com/candy/vstream.php?id=38060f0d4077&e=.m3u8
+#EXTINF:-1 tvg-id="Neo_KIDS" tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/fLGMcTdK/Picsart-25-03-15-16-27-07-935.jpg" group-title="KIDS Live",Discovery Kids
+https://dns.bajimath.com/candy/vstream.php?id=1fe9cf550c24&e=.m3u8
 #EXTINF:-1 tvg-id="AbdulBari" tvg-name="Abdul Bari Cartoon Title Song" tvg-logo="https://i.postimg.cc/g0Tvv23n/Abdul-Bari.jpg" group-title="Abdul Bari Islamic Cartoon",Abdul Bari Cartoon Title Song
 https://drive.google.com/uc?export=download&id=1RJlrLTtYGySusIrwWNJvsjro11y-O2PV
 #EXTINF:-1 tvg-id="AbdulBari" tvg-name="Abdul Bari & Ansharah Discussing" tvg-logo="https://i.postimg.cc/g0Tvv23n/Abdul-Bari.jpg" group-title="Abdul Bari Islamic Cartoon",Abdul Bari & Ansharah Discussing On Talking Bad
