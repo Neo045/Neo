@@ -159,22 +159,22 @@ http://103.145.232.246/Data/movies/Bollywood/2023/Almost%20Pyaar%20with%20DJ%20M
 http://103.145.232.246/Data/movies/Bollywood/2023/An%20Action%20Hero%20%282022%29/An%20Action%20Hero%20%282022%29.mp4
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/73/ec/ME5GDcsW_o.jpeg" group-title="Bollywood Newly Released Movies",Lust Stories 2
 http://103.112.150.230/Data/disk1/movies/bollywood/2023/Lust%20Stories%202%20%282023%29/Lust.Stories.2.2023.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Philosopher's Stone" tvg-logo="https://i.postimg.cc/2yX03Dtj/Harry-Potter.jpg.cc/2yX03Dtj/Harry-Potter.jpg" group-title="Harry Potter ( Film series )",Harry Potter and the Philosopher's Stone
-http://103.145.232.246/Data/movies/Hollywood/best/Harry%20Potter%20and%20the%20Sorcerers%20Stone%20%282001%29/Harry.Potter.and.the.Sorcerers.Stone.2001.1080p.BrRip.x264.YIFY%20%28%20FIRST%20TRY%29.mp4
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Chamber of Secrets" tvg-logo="https://i.postimg.cc/2yX03Dtj/Harry-Potter.jpg" group-title="Harry Potter ( Film series )",Harry Potter and the Chamber of Secrets
-http://103.145.232.246/Data/movies/Hollywood/best/Harry%20Potter%20and%20the%20Chamber%20of%20Secrets%20%282002%29/Harry.Potter.and.the.Chamber.of.Secrets.2002.1080p.BrRip.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Prisoner of Azkaban" tvg-logo="https://i.postimg.cc/2yX03Dtj/Harry-Potter.jpg" group-title="Harry Potter ( Film series )",Harry Potter and the Prisoner of Azkaban
-http://103.145.232.246/Data/movies/Hollywood/best/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%20%282004%29/Harry.Potter.and.the.Prisoner.of.Azkaban.2004.1080p.BrRip.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Goblet of Fire" tvg-logo="https://i.postimg.cc/2yX03Dtj/Harry-Potter.jpg" group-title="Harry Potter ( Film series )",Harry Potter and the Goblet of Fire
-http://103.145.232.246/Data/movies/Hollywood/best/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20%282005%29/Harry.Potter.and.the.Goblet.of.Fire.2005.1080p.BrRip.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Order of the Phoenix" tvg-logo="https://i.postimg.cc/2yX03Dtj/Harry-Potter.jpg" group-title="Harry Potter ( Film series )",Harry Potter and the Order of the Phoenix
-http://103.145.232.246/Data/movies/Hollywood/best/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20%282007%29/Harry.Potter.and.the.Order.of.the.Phoenix.2007.1080p.BrRip.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Half-Blood Prince" tvg-logo="https://i.postimg.cc/2yX03Dtj/Harry-Potter.jpg" group-title="Harry Potter ( Film series )",Harry Potter and the Half-Blood Prince
-http://103.145.232.246/Data/movies/Hollywood/best/Harry%20Potter%20and%20the%20Half%20Blood%20Prince%20%282009%29/Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Deathly Hallows: Part 1" tvg-logo="https://i.postimg.cc/2yX03Dtj/Harry-Potter.jpg" group-title="Harry Potter ( Film series )",Harry Potter and the Deathly Hallows: Part 1
-http://103.145.232.246/Data/movies/Hollywood/best/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%20%282010%29/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.1080p.BrRip.x264.YIFY.mp4
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Deathly Hallows – Part 2" tvg-logo="https://i.postimg.cc/2yX03Dtj/Harry-Potter.jpg" group-title="Harry Potter ( Film series )",Harry Potter and the Deathly Hallows – Part 2
-http://103.145.232.246/Data/movies/Hollywood/best/Harry%20Potter%20And%20The%20Deathly%20Hallows%20Part%202%20%282011%29/Harry.Potter.And.The.Deathly.Hallows.Part.2.2011.1080p.BrRip.264.YIFY.mp4
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Philosopher's Stone" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Philosopher's Stone
+https://dooflix.live/cdn/hls/fdef6eebb726887a7404e6e5092ad051/master.m3u8?s=3
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Chamber of Secrets" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Chamber of Secrets
+https://dooflix.live/cdn/hls/6393016a0b44f5497a57a72f7cadae65/master.m3u8?s=3
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Prisoner of Azkaban" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Prisoner of Azkaban
+https://dooflix.live/cdn/hls/6c48a0b17658a837c135f99592ca967c/master.m3u8?s=2
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Goblet of Fire" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Goblet of Fire
+https://dooflix.live/cdn/hls/6c48a0b17658a837c135f99592ca967c/master.m3u8?s=2
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Order of the Phoenix" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Order of the Phoenix
+https://dooflix.live/cdn/hls/e7f7716580e487037948f2259ea1ba74/master.m3u8?s=3
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Half-Blood Prince" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Half-Blood Prince
+https://dooflix.live/cdn/hls/c7bac5d6e4fdf9875aaaf4a438e38188/master.m3u8?s=2
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Deathly Hallows: Part 1" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Deathly Hallows: Part 1
+https://dooflix.live/cdn/hls/529e2d848d3b854049fe0ab512eb40f2/master.m3u8?s=2
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Deathly Hallows: Part 2" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Deathly Hallows: Part 2
+https://dooflix.live/cdn/hls/480b59fe07be955954114fc4042761ae/master.m3u8?s=2
 #EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: The Curse of the Black Pearl" tvg-logo="https://i.postimg.cc/brzvdXt5/Pirates.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: The Curse of the Black Pearl
 http://103.145.232.246/Data/movies/Hollywood/best/Pirates%20of%20the%20Caribbean%20-%20Curse%20of%20the%20Black%20Pearl%20%282003%29/Pirates.of.the.Caribbean.Curse.of.the.Black.Pearl.2003.1080p.BrRip.x264.Deceit.YIFY.mp4
 #EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: Dead Man's Chest" tvg-logo="https://i.postimg.cc/brzvdXt5/Pirates.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: Dead Man's Chest
@@ -201,13 +201,57 @@ http://45.250.20.254/collection/English%20Movies/%282020%29/365%20Days%20%282020
 http://45.250.20.254/collection/English%20Movies/%282022%29/365%20Days-This%20Day%20%282022%29%20720p%20NF%20%5BDual%20Audio%5D/365%20Days%20This%20Day%20%282022%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1 tvg-id="365 Days" tvg-name="365 Days" tvg-logo="https://i.postimg.cc/PqhmZdPw/images.jpg" group-title="365 Days (Film series)",365 Days Part 3
 http://45.250.20.254/collection/English%20Movies/%282022%29/The%20Next%20365%20Days%20%282022%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Next%20365%20Days%20%282022%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1 tvg-id="Fifty Shades" tvg-name="Fifty Shades" tvg-logo="https://i.postimg.cc/Prtt9xPx/images-1.jpg" group-title="Fifty Shades (Film trilogy)",Fifty Shades of Grey
-http://45.250.20.254/collection/English%20Movies/%282015%29/Fifty%20Shades%20of%20Grey%20%282015%29%20720p%20%5BDual%20Audio%5D/Fifty%20Shades%20of%20Grey%20%282015%29%20UNRATED%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1 tvg-id="Fifty Shades" tvg-name="Fifty Shades" tvg-logo="https://i.postimg.cc/Prtt9xPx/images-1.jpg" group-title="Fifty Shades (Film trilogy)",Fifty Shades Darker
-http://45.250.20.254/collection/English%20Movies/%282017%29/Fifty%20Shades%20Darker%20%282017%29%20720p%20%5BDual%20Audio%5D/Fifty%20Shades%20Darker%20%282017%29%20UNRATED%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1 tvg-id="Fifty Shades" tvg-name="Fifty Shades" tvg-logo="https://i.postimg.cc/Prtt9xPx/images-1.jpg" group-title="Fifty Shades (Film trilogy)",Fifty Shades Freed
-http://45.250.20.254/collection/English%20Movies/%282018%29/Fifty%20Shades%20Freed%20%282018%29%20720p%20%5BDual%20Audio%5D/Fifty%20Shades%20Freed%20%282018%29%20Unrated%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-%20mkvC.mkv
+#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades of Grey" tvg-logo="https://i.postimg.cc/wMxkX38M/images.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades of Grey
+https://dooflix.live/cdn/hls/53eafbfae9f872478b423eccfc3d3de7/master.m3u8?s=2
+#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades Darker" tvg-logo="https://i.postimg.cc/wMxkX38M/images.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades Darker
+https://dooflix.live/cdn/hls/5a3e93f11751e6a2fbc99c0d06cdafd3/master.m3u8?s=2
+#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades Freed" tvg-logo="https://i.postimg.cc/wMxkX38M/images.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades Freed
+https://dooflix.live/cdn/hls/5a3e93f11751e6a2fbc99c0d06cdafd3/master.m3u8?s=3
 #EXTINF:-1 tvg-id="MFYF" tvg-name="Your Fault" tvg-logo="https://i.postimg.cc/brVT36cj/Culpa-Mia.jpg" group-title="My Fault & Your Fault 18+",My Fault
 https://sahedasaha5.nazmulkhaey.workers.dev/0:/My.Fault.2023.720p.AMZN.WEB-DL.DDP5.1.-.Vegamovies.to.mkv
 #EXTINF:-1 tvg-id="MFYF" tvg-name="Your Fault" tvg-logo="https://i.postimg.cc/MHp57CLD/Culpa-Tuya.jpg" group-title="My Fault & Your Fault 18+",Your Fault
 https://sahedasaha5.nazmulkhaey.workers.dev/0:/Your.Fault.2024.AMZN.WEB-DL.720p.Hindi.English.DD.5.1.x264.ESub.Vegamovies.is.mkv
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="365 Days" tvg-logo="https://i.postimg.cc/PqhmZdPw/images.jpg" group-title="Adult Movies",365 Days
+https://dooflix.live/cdn/hls/62edba51fd1fe9bc0c08c43e0ddc4fcb/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Blacked : Tori Black The Big Fight" tvg-logo="https://i.postimg.cc/9Qxt2c9H/images-3.jpg" group-title="Adult Movies",Blacked : Tori Black The Big Fight
+https://dooflix.live/cdn/hls/664dba6acb8ac2a34731601aeafa2ade/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Angie Lynx Big Dumb Cum Cap" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5358.jpg" group-title="Adult Movies",Angie Lynx Big Dumb Cum Cap
+https://dooflix.live/cdn/hls/8c97a3bb170f49cfe8967fa704eb1816/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Impulses Vol 4" tvg-logo="https://i.postimg.cc/V6QkJH0L/Impulse.jpg" group-title="Adult Movies",Impulses Vol 4
+https://dooflix.live/cdn/hls/26ac40beb177c6daaa6756ff780bce01/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Girls At Work : Clea The New Boss" tvg-logo="https://i.postimg.cc/PJKXFX3P/new-boss.jpg" group-title="Adult Movies",Girls At Work : Clea The New Boss
+https://dooflix.live/cdn/hls/b5a6344e14f4924f8e040a4e1aa19603/master.m3u8
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Duality" tvg-logo="https://i.postimg.cc/K8Wz2YZT/Duality.jpg" group-title="Adult Movies",Duality
+https://dooflix.live/cdn/hls/eaa84e05467140e9ea9453fd98cf7ead/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Clara Desires Of Submission" tvg-logo="https://i.postimg.cc/hPPPQmvx/Submission.jpg" group-title="Adult Movies",Clara Desires Of Submission
+https://dooflix.live/cdn/hls/31796ad2b5d4c03182c43ff4e0ff2ff4/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Girls AT Work - Team Building" tvg-logo="https://i.postimg.cc/L8J9NMz8/Team-Building.jpg" group-title="Adult Movies",Girls AT Work - Team Building
+https://dooflix.live/cdn/hls/9b92f4cbd42c6783b8637abaeb83214e/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Girls AT Work - Stories 1" tvg-logo="https://i.postimg.cc/Wp7148NT/Stories.jpg" group-title="Adult Movies",Girls AT Work - Stories 1
+https://dooflix.live/cdn/hls/bd715ae031933e29eabe825fa232242c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Thr3E 3" tvg-logo="https://i.postimg.cc/9QsWkNpt/Thr3E.jpg" group-title="Adult Movies",Thr3E 3
+https://dooflix.live/cdn/hls/bd715ae031933e29eabe825fa232242c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Idol" tvg-logo="https://i.postimg.cc/wvXTLcD5/Idol.jpg" group-title="Adult Movies",Idol
+https://dooflix.live/cdn/hls/bd715ae031933e29eabe825fa232242c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="5 Years Later" tvg-logo="https://i.postimg.cc/sgxXqWRy/5-Years.jpg" group-title="Adult Movies",5 Years Later
+https://dooflix.live/cdn/hls/cc9c0672dddd019a22ed6902499dcb79/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Luxure Wife's Climax" tvg-logo="https://i.postimg.cc/gjGcDXKC/Luxure.jpg" group-title="Adult Movies",Luxure Wife's Climax
+https://dooflix.live/cdn/hls/78f09ab7892fad76128e9be9a4544a8c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Contact Vol 3 Part 1" tvg-logo="https://i.postimg.cc/7LTLYy6W/Contact.jpg" group-title="Adult Movies",Contact Vol 3 Part 1
+https://dooflix.live/cdn/hls/e1e053ffff0fc1e209f3938c6d4f635c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Contact Vol 3 Part 2" tvg-logo="https://i.postimg.cc/7LTLYy6W/Contact.jpg" group-title="Adult Movies",Contact Vol 3 Part 2
+https://dooflix.live/cdn/hls/6522aadb2d05575ecd22bb86689a56b5/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Contact Vol 3 Part 3" tvg-logo="https://i.postimg.cc/7LTLYy6W/Contact.jpg" group-title="Adult Movies",Contact Vol 3 Part 3
+https://dooflix.live/cdn/hls/e92e470bb64794d39fbb4b915f35ae28/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Contact Vol 3 Part 4" tvg-logo="https://i.postimg.cc/7LTLYy6W/Contact.jpg" group-title="Adult Movies",Contact Vol 3 Part 4
+https://dooflix.live/cdn/hls/56f6cb50455227a0e7a7ca595daacec3/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Thr3E 4 Part 1" tvg-logo="https://i.postimg.cc/tCSR3gnc/Thr3E-4.jpg" group-title="Adult Movies",Thr3E 4 Part 1
+https://dooflix.live/cdn/hls/ec9f8d773a5a914c08da5d6fb11b33c2/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Thr3E 4 Part 2" tvg-logo="https://i.postimg.cc/tCSR3gnc/Thr3E-4.jpg" group-title="Adult Movies",Thr3E 4 Part 2
+https://dooflix.live/cdn/hls/eb8123542247c8ec2b15985868edbe61/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies_CK" tvg-name="Rape The Young Wife" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/Picsart_25-02-16_12-51-19-933_transcpr.jpg" group-title="Adult Movies Korean & China",Rape The Young Wife
+https://dooflix.live/cdn/hls/972d3ee95d58b6dfec16f4ba0b56f4ba/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies_CK" tvg-name="The Housemaid" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5148.jpg" group-title="Adult Movies Korean & China",The Housemaid
+https://dooflix.live/cdn/hls/bed1f4386810997342d05d7c05d4c639/master.m3u8?s=1
+#EXTINF:-1 tvg-id="AdultMovies_CK" tvg-name="Hot Night Girlfriend Sister" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5147.jpg" group-title="Adult Movies Korean & China",Hot Night Girlfriend Sister
+https://dooflix.live/cdn/hls/bed1f4386810997342d05d7c05d4c639/master.m3u8?s=1
