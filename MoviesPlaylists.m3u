@@ -145,8 +145,10 @@ https://dooflix.live/cdn/hls/7bb52fed0bb26a985e88bb3744c2ae79/master.m3u8?s=2
 https://free.otapp.store/cdn/stream.m3u8?id=udbpbjrhai2k
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/73/ec/ME5GDcsW_o.jpeg" group-title="Bollywood Movies",Lust Stories 2
 https://free.otapp.store/cdn/stream.m3u8?id=uc9dmna9exl9
-#EXTINF:-1 tvg-id="Bangla" tvg-name="Borbaad" tvg-logo="https://i.postimg.cc/YC7xbngh/Borbad.jpg" group-title="Bangla Movies",Borbaad
-https://pub-09a44fb3d47c4fd4b548a2e5ee793301.r2.dev/Hdcam/Borbaad.2025.720p.CAMRip%20ottbangla.store.mp4
+#EXTINF:-1 tvg-id="Bangla" tvg-name="Borbaad 1080p HDRip Source 1" tvg-logo="https://i.postimg.cc/9FK4cmds/images.jpg" group-title="Bangla Movies",Borbaad 1080p HDRip Source 1
+https://pub-09a44fb3d47c4fd4b548a2e5ee793301.r2.dev/Hdcam/DongoBD.com%20-%20Borbaad%20%282025%29%20HDRip%20%5BBengali%5D%201080p.mkv
+#EXTINF:-1 tvg-id="Bangla" tvg-name="Borbaad 1080p HDRip Source 2" tvg-logo="https://i.postimg.cc/9FK4cmds/images.jpg" group-title="Bangla Movies",Borbaad 1080p HDRip Source 2
+https://pixeldrain.com/api/file/1LhqCAQy?download
 #EXTINF:-1 tvg-id="Bangla" tvg-name="Maya: The Love" tvg-logo="https://i.postimg.cc/pLkKk2R6/images.jpg" group-title="Bangla Movies",Maya: The Love
 https://pub-09a44fb3d47c4fd4b548a2e5ee793301.r2.dev/bdmov/Maya%20The%20Love%202024%20ottbangla.store-Bengali%20WEBRip%20720p.mkv
 #EXTINF:-1 tvg-id="Bangla" tvg-name="Fatima" tvg-logo="https://i.postimg.cc/BQHg59jr/images-1.jpg" group-title="Bangla Movies",Fatima
