@@ -3,8 +3,20 @@
 https://github.com/Neo045/Pictures/raw/refs/heads/main/Free%20Palestine%20(1080%20X%201440).mp4
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
-#EXTINF:-1 tvg-id="Neo" tvg-name="Last updated on April 08.2025" tvg-logo="https://i.postimg.cc/8Cz9b3pk/Picsart-24-09-16-13-18-44-287.png" group-title="Last updated on April 08.2025",Last updated on April 08.2025
-https://github.com/Neo045/Pictures/raw/main/Doctor%20Strange.mp4
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S01E01" tvg-logo="https://i.postimg.cc/FRJ4J83p/Peaky-1.jpg" group-title="Peaky Blinders Season 01",S01E01
+https://dooflix.live/cdn/hls/3e6791486720df0ff80526addbc2a006/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S01E02" tvg-logo="https://i.postimg.cc/FRJ4J83p/Peaky-1.jpg" group-title="Peaky Blinders Season 01",S01E02
+https://dooflix.live/cdn/hls/b98193044d04325d060d859e3f7cadea/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S01E03" tvg-logo="https://i.postimg.cc/FRJ4J83p/Peaky-1.jpg" group-title="Peaky Blinders Season 01",S01E03
+https://dooflix.live/cdn/hls/6ad7477300fa699fb059badfaf23d28f/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S01E04" tvg-logo="https://i.postimg.cc/FRJ4J83p/Peaky-1.jpg" group-title="Peaky Blinders Season 01",S01E04
+https://dooflix.live/cdn/hls/801a152859808064576e6d293dc25e2c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S01E05" tvg-logo="https://i.postimg.cc/FRJ4J83p/Peaky-1.jpg" group-title="Peaky Blinders Season 01",S01E05
+https://dooflix.live/cdn/hls/e4777d0e6ec7ed8af0737a818845e8dd/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S01E06" tvg-logo="https://i.postimg.cc/FRJ4J83p/Peaky-1.jpg" group-title="Peaky Blinders Season 01",S01E06
+https://dooflix.live/cdn/hls/676c4593ee814bc01a4b746a904725dd/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S02E01" tvg-logo="https://i.postimg.cc/bYWgzJz4/Peaky-2.jpg" group-title="Peaky Blinders Season 02",S02E01
+https://dooflix.live/cdn/hls/59edb658a2e54c6f79a51addcb20760e/master.m3u8?s=1
 #EXTINF:-1 tvg-id="DDBA" tvg-name="Daredevil: Born Again S01E01" tvg-logo="https://i.postimg.cc/HLzTRWCH/DD-BA.jpg group-title="Daredevil: Born Again [Dual Audio]",Daredevil: Born Again S01E01
 https://pub-ae4961d7376541d7ac8c9c9f32eed981.r2.dev/Daredevil.Born.Again.S01E01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4US.com.mkv
 #EXTINF:-1 tvg-id="DDBA" tvg-name="Daredevil: Born Again S01E02" tvg-logo="https://i.postimg.cc/HLzTRWCH/DD-BA.jpg group-title="Daredevil: Born Again [Dual Audio]",Daredevil: Born Again S01E02
@@ -455,6 +467,84 @@ https://dooflix.live/cdn/hls/be1d909b4a84161cc5c1a2dd3cf53e19/master.m3u8?s=2
 https://dooflix.live/cdn/hls/4df0ce36f68af0ba7c159a67ddd80842/master.m3u8?s=2
 #EXTINF:-1 tvg-id="Alice_In_Borderland" tvg-name="S02E08" tvg-logo="https://i.postimg.cc/25B9yqrf/images-2.jpg" group-title="Alice In Borderland Season 02",S02E08
 https://dooflix.live/cdn/hls/234cab14c876e4b14f5650bd49b4ad3e/master.m3u8?s=2
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S01E01" tvg-logo="https://i.postimg.cc/nz8VFBPC/Reacher-1.jpg" group-title="Reacher Season 01",S01E01
+https://dooflix.live/cdn/hls/e01b7ad9d464f72cecc8465557a0711b/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S01E02" tvg-logo="https://i.postimg.cc/nz8VFBPC/Reacher-1.jpg" group-title="Reacher Season 01",S01E02
+https://dooflix.live/cdn/hls/8c90f63b5a1541667acada7e187c3acd/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S01E03" tvg-logo="https://i.postimg.cc/nz8VFBPC/Reacher-1.jpg" group-title="Reacher Season 01",S01E03
+https://dooflix.live/cdn/hls/f410d493d6038f9caf801d8301b47a61/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S01E04" tvg-logo="https://i.postimg.cc/nz8VFBPC/Reacher-1.jpg" group-title="Reacher Season 01",S01E04
+https://dooflix.live/cdn/hls/f554d636c9daede4a571caf73fcc14c4/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S01E05" tvg-logo="https://i.postimg.cc/nz8VFBPC/Reacher-1.jpg" group-title="Reacher Season 01",S01E05
+https://dooflix.live/cdn/hls/5672cc8b900c3c20b3d2b384124daefe/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S01E06" tvg-logo="https://i.postimg.cc/nz8VFBPC/Reacher-1.jpg" group-title="Reacher Season 01",S01E06
+https://dooflix.live/cdn/hls/ef8d8fa706a14b582bb1898f9609a98e/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S01E07" tvg-logo="https://i.postimg.cc/nz8VFBPC/Reacher-1.jpg" group-title="Reacher Season 01",S01E07
+https://dooflix.live/cdn/hls/54c51ddad5cf808ed509cfdec0ff6ce5/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S01E08" tvg-logo="https://i.postimg.cc/nz8VFBPC/Reacher-1.jpg" group-title="Reacher Season 01",S01E08
+https://dooflix.live/cdn/hls/07c346dc08baa35dfa5d7d53a2e73737/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S02E01" tvg-logo="https://i.postimg.cc/ZKYb5TVF/Reacher-2.jpg" group-title="Reacher Season 02",S02E01
+https://dooflix.live/cdn/hls/be20e747c64595340a105c43205432d9/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S02E02" tvg-logo="https://i.postimg.cc/ZKYb5TVF/Reacher-2.jpg" group-title="Reacher Season 02",S02E02
+https://dooflix.live/cdn/hls/69c3f4d455633107400a4237a5377cad/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S02E03" tvg-logo="https://i.postimg.cc/ZKYb5TVF/Reacher-2.jpg" group-title="Reacher Season 02",S02E03
+https://dooflix.live/cdn/hls/da0b41c8161db1d772aecdd91a9a6b73/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S02E04" tvg-logo="https://i.postimg.cc/ZKYb5TVF/Reacher-2.jpg" group-title="Reacher Season 02",S02E04
+https://dooflix.live/cdn/hls/20c17bdaed8b6a91f218a09c80a5e4ed/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S02E05" tvg-logo="https://i.postimg.cc/ZKYb5TVF/Reacher-2.jpg" group-title="Reacher Season 02",S02E05
+https://dooflix.live/cdn/hls/813ea6410edfc2e97a37e96da049ee7e/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S02E06" tvg-logo="https://i.postimg.cc/ZKYb5TVF/Reacher-2.jpg" group-title="Reacher Season 02",S02E06
+https://dooflix.live/cdn/hls/f0fa3f35939d961da616db8dc609740d/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S02E07" tvg-logo="https://i.postimg.cc/ZKYb5TVF/Reacher-2.jpg" group-title="Reacher Season 02",S02E07
+https://dooflix.live/cdn/hls/8309ee1607243d2d527334dabf8250fc/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S02E08" tvg-logo="https://i.postimg.cc/ZKYb5TVF/Reacher-2.jpg" group-title="Reacher Season 02",S02E08
+https://dooflix.live/cdn/hls/755154fa5c7d3df671f6ff465787050c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S03E01" tvg-logo="https://i.postimg.cc/85VDQD7v/Reacher-3.jpg" group-title="Reacher Season 03",S03E01
+https://dooflix.live/cdn/hls/f8fa93280f2ecff27c21ff1dff583a6e/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S03E02" tvg-logo="https://i.postimg.cc/85VDQD7v/Reacher-3.jpg" group-title="Reacher Season 03",S03E02
+https://dooflix.live/cdn/hls/7ec8bae6ec61ef22f73e5a6eb218a63a/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S03E03" tvg-logo="https://i.postimg.cc/85VDQD7v/Reacher-3.jpg" group-title="Reacher Season 03",S03E03
+https://dooflix.live/cdn/hls/a563457d9a28393f152333403033dcb6/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S03E04" tvg-logo="https://i.postimg.cc/85VDQD7v/Reacher-3.jpg" group-title="Reacher Season 03",S03E04
+https://dooflix.live/cdn/hls/686f5c0885da800e3faec6e12bfa0806/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S03E05" tvg-logo="https://i.postimg.cc/85VDQD7v/Reacher-3.jpg" group-title="Reacher Season 03",S03E05
+https://dooflix.live/cdn/hls/ba0ac39f24cc0795d99e5c7797f038dd/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S03E06" tvg-logo="https://i.postimg.cc/85VDQD7v/Reacher-3.jpg" group-title="Reacher Season 03",S03E06
+https://dooflix.live/cdn/hls/9f636dc89bd2dd0a1622da87837fc718/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Reacher" tvg-name="S03E07" tvg-logo="https://i.postimg.cc/85VDQD7v/Reacher-3.jpg" group-title="Reacher Season 03",S03E07
+https://dooflix.live/cdn/hls/b7aabdd83f1bd0192c790d2acee90250/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WeekHero" tvg-name="S01E01" tvg-logo="https://i.postimg.cc/4yfgy5bN/Weak-Hero.jpg" group-title="Week Hero Season 01",S01E01
+https://dooflix.live/cdn/hls/6c886d27c7bf7a47501c72a750bb8cc3/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WeekHero" tvg-name="S01E02" tvg-logo="https://i.postimg.cc/4yfgy5bN/Weak-Hero.jpg" group-title="Week Hero Season 01",S01E02
+https://dooflix.live/cdn/hls/316b40c7caafe563d9fa3f8474487bbd/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WeekHero" tvg-name="S01E03" tvg-logo="https://i.postimg.cc/4yfgy5bN/Weak-Hero.jpg" group-title="Week Hero Season 01",S01E03
+https://dooflix.live/cdn/hls/20b17078d31613678edac4be60653c2c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WeekHero" tvg-name="S01E04" tvg-logo="https://i.postimg.cc/4yfgy5bN/Weak-Hero.jpg" group-title="Week Hero Season 01",S01E04
+https://dooflix.live/cdn/hls/2c52be8eda82cf7e7935d0ba457a2490/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WeekHero" tvg-name="S01E05" tvg-logo="https://i.postimg.cc/4yfgy5bN/Weak-Hero.jpg" group-title="Week Hero Season 01",S01E05
+https://dooflix.live/cdn/hls/5c2fec7bf5e470692c920dbccead062d/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WeekHero" tvg-name="S01E06" tvg-logo="https://i.postimg.cc/4yfgy5bN/Weak-Hero.jpg" group-title="Week Hero Season 01",S01E06
+https://dooflix.live/cdn/hls/b376b596b397e1f31a90bb1c77932f32/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WeekHero" tvg-name="S01E07" tvg-logo="https://i.postimg.cc/4yfgy5bN/Weak-Hero.jpg" group-title="Week Hero Season 01",S01E07
+https://dooflix.live/cdn/hls/4a21d01b956a52e48f985cab07112883/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WeekHero" tvg-name="S01E08" tvg-logo="https://i.postimg.cc/4yfgy5bN/Weak-Hero.jpg" group-title="Week Hero Season 01",S01E08
+https://dooflix.live/cdn/hls/b6468fb76f648c904488e9c5c6e81112/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WolfKing" tvg-name="S01E01" tvg-logo="https://i.postimg.cc/P5m2Vjn9/Wolf-King.jpg" group-title="Wolf King Season 01",S01E01
+https://dooflix.live/cdn/hls/fdb18f34cb8f369f0457354701a9a176/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WolfKing" tvg-name="S01E02" tvg-logo="https://i.postimg.cc/P5m2Vjn9/Wolf-King.jpg" group-title="Wolf King Season 01",S01E02
+https://dooflix.live/cdn/hls/c5f05c5a7265c7663261d873befa5740/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WolfKing" tvg-name="S01E03" tvg-logo="https://i.postimg.cc/P5m2Vjn9/Wolf-King.jpg" group-title="Wolf King Season 01",S01E03
+https://dooflix.live/cdn/hls/519f634e28df7f11c6ea06f3cc0ff907/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WolfKing" tvg-name="S01E04" tvg-logo="https://i.postimg.cc/P5m2Vjn9/Wolf-King.jpg" group-title="Wolf King Season 01",S01E04
+https://dooflix.live/cdn/hls/64aebae48778f83df3ec94dff22fc886/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WolfKing" tvg-name="S01E05" tvg-logo="https://i.postimg.cc/P5m2Vjn9/Wolf-King.jpg" group-title="Wolf King Season 01",S01E05
+https://dooflix.live/cdn/hls/a2b784424fc5ef641f4d19d78c7ecdd2/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WolfKing" tvg-name="S01E06" tvg-logo="https://i.postimg.cc/P5m2Vjn9/Wolf-King.jpg" group-title="Wolf King Season 01",S01E06
+https://dooflix.live/cdn/hls/3f5b6d1b38132769eb3a3a6c8aa37fb3/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WolfKing" tvg-name="S01E07" tvg-logo="https://i.postimg.cc/P5m2Vjn9/Wolf-King.jpg" group-title="Wolf King Season 01",S01E07
+https://dooflix.live/cdn/hls/d59455317bd0ad92522db15a5dc1a172/master.m3u8?s=1
+#EXTINF:-1 tvg-id="WolfKing" tvg-name="S01E08" tvg-logo="https://i.postimg.cc/P5m2Vjn9/Wolf-King.jpg" group-title="Wolf King Season 01",S01E08
+https://dooflix.live/cdn/hls/ba3d18e444d2bd7c4821563722934ff5/master.m3u8?s=1
 #EXTINF:-1 tvg-id="My_Girlfriend_is_an_Alien" tvg-name="S01E01" tvg-logo="https://i.postimg.cc/PxW6bBC3/maxresdefault.jpg" group-title="My Girlfriend is an Alien Season 01",S01E01
 https://dooflix.live/cdn/hls/4fcd82c8a8b3600d30e0dc9de7846ba2/master.m3u8
 #EXTINF:-1 tvg-id="My_Girlfriend_is_an_Alien" tvg-name="S01E02" tvg-logo="https://i.postimg.cc/PxW6bBC3/maxresdefault.jpg" group-title="My Girlfriend is an Alien Season 01",S01E02
