@@ -101,6 +101,8 @@ https://dooflix.live/cdn/hls/e4445b53d928c61be74f91db5f5dab3d/master.m3u8
 https://dooflix.live/cdn/hls/38ea461c306da9905fdf24f17104fb3f/master.m3u8
 #EXTINF:-1 tvg-id="CID" tvg-name="CID S02E39" tvg-logo="https://i.postimg.cc/vmbQ0gk3/CID.jpg" group-title="CID Season 02",CID S02E39
 https://dooflix.live/cdn/hls/2161cfd99cd3308cd3cb01952f9ac9a6/master.m3u8?s=1
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E40" tvg-logo="https://i.postimg.cc/vmbQ0gk3/CID.jpg" group-title="CID Season 02",CID S02E40
+https://dooflix.live/cdn/hls/b2dc2be51e974670393d17b4f0384179/master.m3u8?s=1
 #EXTINF:-1 tvg-id="" tvg-name="01 EXPLAIN MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/explainMoviesLogo.jpg" group-title="24/7 EXPLAIN MOVIES HINDI",01 EXPLAIN MOVIES 24/7
 http://xtv.ooo:8080/3773747/7172737/390046
 #EXTINF:-1 tvg-id="" tvg-name="02 EXPLAIN MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/explainMoviesLogo.jpg" group-title="24/7 EXPLAIN MOVIES HINDI",02 EXPLAIN MOVIES 24/7
