@@ -19,6 +19,16 @@ https://dooflix.live/cdn/hls/676c4593ee814bc01a4b746a904725dd/master.m3u8?s=1
 https://dooflix.live/cdn/hls/59edb658a2e54c6f79a51addcb20760e/master.m3u8?s=1
 #EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S02E02" tvg-logo="https://i.postimg.cc/bYWgzJz4/Peaky-2.jpg" group-title="Peaky Blinders Season 02",S02E02
 https://dooflix.live/cdn/hls/dfab01df24d023291c2c0a6346c3ef41/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S02E03" tvg-logo="https://i.postimg.cc/bYWgzJz4/Peaky-2.jpg" group-title="Peaky Blinders Season 02",S02E03
+https://dooflix.live/cdn/hls/3da05e16e01ba2042251e14d0b03a68e/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S02E04" tvg-logo="https://i.postimg.cc/bYWgzJz4/Peaky-2.jpg" group-title="Peaky Blinders Season 02",S02E04
+https://dooflix.live/cdn/hls/5b35efc2a06f73f45ddb4138f252baa7/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S02E05" tvg-logo="https://i.postimg.cc/bYWgzJz4/Peaky-2.jpg" group-title="Peaky Blinders Season 02",S02E05
+https://dooflix.live/cdn/hls/fc00dc9bf917ab0c0f3c1c037e591358/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S02E06" tvg-logo="https://i.postimg.cc/bYWgzJz4/Peaky-2.jpg" group-title="Peaky Blinders Season 02",S02E06
+https://dooflix.live/cdn/hls/c353342b54bfb047a2f76067814ab558/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S03E01" tvg-logo="https://i.postimg.cc/hvCrQg6S/images.jpg" group-title="Peaky Blinders Season 03",S03E01
+https://dooflix.live/cdn/hls/ef941a9738a634cb2159da8c8005e13c/master.m3u8?s=1
 #EXTINF:-1 tvg-id="DDBA" tvg-name="Daredevil: Born Again S01E01" tvg-logo="https://i.postimg.cc/HLzTRWCH/DD-BA.jpg group-title="Daredevil: Born Again [Dual Audio]",Daredevil: Born Again S01E01
 https://pub-ae4961d7376541d7ac8c9c9f32eed981.r2.dev/Daredevil.Born.Again.S01E01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4US.com.mkv
 #EXTINF:-1 tvg-id="DDBA" tvg-name="Daredevil: Born Again S01E02" tvg-logo="https://i.postimg.cc/HLzTRWCH/DD-BA.jpg group-title="Daredevil: Born Again [Dual Audio]",Daredevil: Born Again S01E02

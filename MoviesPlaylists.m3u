@@ -3,6 +3,8 @@
 https://github.com/Neo045/Pictures/raw/refs/heads/main/Free%20Palestine%20(1080%20X%201440).mp4
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="The Bayou" tvg-logo="https://dooflixpanel.com/uploads/video_thumb/5451.jpg" group-title="Hollywood Movies",The Bayou
+https://dooflix.live/cdn/hls/6712c5fe24285ddd8ba866d0af8a60d2/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Havoc" tvg-logo="https://i.postimg.cc/C17NyFsX/Havoc.jpg" group-title="Hollywood Movies",Havoc
 https://dooflix.live/cdn/hls/a86271a7f662038ec12ca30e1e0e90cc/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Ne Zha English" tvg-logo="https://i.postimg.cc/KzNsxX2k/Ne-Zha.jpg" group-title="Hollywood Movies",Ne Zha English
@@ -61,6 +63,10 @@ https://absuldczzgj.packingggl.workers.dev/0:/Deadpool.And%20Wolverine.2024.Dual
 https://dadygahug.ottbangla3s.workers.dev/0:/Furiosa.A.Mad.Max.Saga.2024.720p%20ottbangla.lol.mkv
 #EXTINF:-1 tvg-id="English" tvg-name="Dune: Part Two" tvg-logo="https://i.postimg.cc/4yhgscSZ/images.jpg" group-title="Hollywood Movies",Dune: Part Two Bangla Dubbed
 https://omukgan.ottbangla4.workers.dev/0:/ottbangla.lol-Dune%20Part%20Two%20(2024)%20-Bengali%20Dubbed%20ORG%20JC%20720p.mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Kesari Chapter 2" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5454.jpg" group-title="Hindi Movies",Kesari Chapter 2
+https://dooflix.live/cdn/hls/d6cac71f3530a000cb52df8c8c4cbc8b/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Odela 2" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5456.jpg" group-title="Hindi Movies",Odela 2
+https://dooflix.live/cdn/hls/b49542f865ffca2bcb459af9da0c1c06/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hindi" tvg-name="Raid 2" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5448.jpg" group-title="Hindi Movies",Raid 2
 https://dooflix.live/cdn/hls/c3e26d034b1b1a407372586a8726ab3f/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hindi" tvg-name="The Bhootni" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5449.jpg" group-title="Hindi Movies",The Bhootni
@@ -197,6 +203,8 @@ https://pub-cd6cf42a2e39463494c0635c496e0f1e.r2.dev/Iron.Man.2.2010.720p.Hindi.E
 https://dooflix.live/cdn/hls/2aaca43a1a2a2c50c7d26dd6e7c33043/master.m3u8?s=2
 #EXTINF:-1 tvg-id="MCU" tvg-name="Iron Man 3 Source 2" tvg-logo="https://i.postimg.cc/L8CdBpP9/IM-3.jpg" group-title="Marvel Cinematic Universe",Iron Man 3 Source 2
 https://pub-fb68e4671f3c42e9b48dde4d0753d8a9.r2.dev/Iron%20Man%203%202013%20720p%20Hindi%20English%20Vegamovie.NL.mkv
+#EXTINF:-1 tvg-id="MCU" tvg-name="Thunderbolts" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5453.jpg" group-title="Marvel Cinematic Universe",Thunderbolts
+https://dooflix.live/cdn/hls/271f1924064b4ca5fe575d96917c62a0/master.m3u8?s=1
 #EXTINF:-1 tvg-id="MCU" tvg-name="Captain America : Barve New World" tvg-logo="https://i.postimg.cc/43YyRZRy/Captain.jpg" group-title="Marvel Cinematic Universe",Captain America : Barve New World 
 https://dooflix.live/cdn/hls/8dc3cfb4077fedbf4f60df23dfc205fe/master.m3u8?s=1
 #EXTINF:-1 tvg-id="MCU" tvg-name="Doctor Strange" tvg-logo="https://i.postimg.cc/cJPHsjdm/Doctor-Strange.jpg" group-title="Marvel Cinematic Universe",Doctor Strange
