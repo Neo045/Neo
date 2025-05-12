@@ -543,6 +543,52 @@ http://xtv.ooo:8080/3773747/7172737/104191
 http://xtv.ooo:8080/3773747/7172737/206310
 #EXTINF:-1 tvg-id="" tvg-name="IND: Colors Cineplex Bollywood" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/27/uvXML3.jpg" group-title="Others",IND: Colors Cineplex Bollywood
 http://xtv.ooo:8080/3773747/7172737/112983
+#EXTINF:-1 tvg-id="" tvg-name="***IND: MOVIES (4K ULTRA HD)***" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",***IND: MOVIES (4K ULTRA HD)***
+http://xtv.ooo:8080/3773747/7172737/109954
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
+http://xtv.ooo:8080/3773747/7172737/109955
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="SONY MAX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY MAX (4K)
+http://xtv.ooo:8080/3773747/7172737/109957
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ZEE CINEMA (4K)
+http://xtv.ooo:8080/3773747/7172737/109958
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star GOLD (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Star GOLD (4K)
+http://xtv.ooo:8080/3773747/7172737/109959
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Star Gold Select (4K)
+http://xtv.ooo:8080/3773747/7172737/109960
+#EXTINF:-1 tvg-id="" tvg-name="Movies_active (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Movies_active (4K)
+http://xtv.ooo:8080/3773747/7172737/109961
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& flix (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",& flix (4K)
+http://xtv.ooo:8080/3773747/7172737/109962
+#EXTINF:-1 tvg-id="hbohd.in" tvg-name="& Prive (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",& Prive (4K)
+http://xtv.ooo:8080/3773747/7172737/109963
+#EXTINF:-1 tvg-id="" tvg-name="& Xplorer (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",& Xplorer (4K)
+http://xtv.ooo:8080/3773747/7172737/109964
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
+http://xtv.ooo:8080/3773747/7172737/109965
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY PIX (4K)
+http://xtv.ooo:8080/3773747/7172737/109966
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Movies Now (4K)
+http://xtv.ooo:8080/3773747/7172737/109968
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",STAR MOVIES (4K)
+http://xtv.ooo:8080/3773747/7172737/109970
+#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="STAR WORLD (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",STAR WORLD (4K)
+http://xtv.ooo:8080/3773747/7172737/109971
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="DISCOVERY (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",DISCOVERY (4K)
+http://xtv.ooo:8080/3773747/7172737/109974
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ANIMAL PLANET (4K)
+http://xtv.ooo:8080/3773747/7172737/109975
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo Wild (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",NAT Geo Wild (4K)
+http://xtv.ooo:8080/3773747/7172737/109976
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="National GEO (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",National GEO (4K)
+http://xtv.ooo:8080/3773747/7172737/109977
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
+http://xtv.ooo:8080/3773747/7172737/109978
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="FOX Life (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",FOX Life (4K)
+http://xtv.ooo:8080/3773747/7172737/109980
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",IN: COLORS CINEPLEX (4K)
+http://xtv.ooo:8080/3773747/7172737/206315
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="IN: Jalsha Movies (4K)*" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",IN: Jalsha Movies (4K)*
+http://xtv.ooo:8080/3773747/7172737/206320
 #EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS S16 24x7" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",BIGG BOSS S16 24x7
 http://xtv.ooo:8080/3773747/7172737/207233
 #EXTINF:-1 tvg-id="" tvg-name="BIGG BOSS S15 24x7" tvg-logo="http://v3img.voot.com/v3Storage/assets/big-boss-16-gabbar-16x9-1664804897382.jpg" group-title="INDIAN | SHOW ENTERTAINMENT 24x7",BIGG BOSS S15 24x7
