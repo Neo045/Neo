@@ -282,20 +282,22 @@ https://dooflix.live/cdn/hls/7e2e2b8827f061aa201ffd8227a64ab2/master.m3u8?s=2
 https://dooflix.live/cdn/hls/a88d1fc01c5089c442cdf2fc2081b2ef/master.m3u8?s=2
 #EXTINF:-1 tvg-id="XXX" tvg-name="XXX: Return of Xander Cage (2017)" tvg-logo="https://i.postimg.cc/4376L6YK/XXX-3.jpg" group-title="XXX Flim Trilogy",XXX: Return of Xander Cage (2017)
 https://dooflix.live/cdn/hls/ee32d575784c5c44962d6af555637aa0/master.m3u8?s=3
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="365 Days" tvg-logo="https://i.postimg.cc/PqhmZdPw/images.jpg" group-title="365 Days Film series",365 Days
+#EXTINF:-1 tvg-id="AdultMovies" tvg-name="365 Days" tvg-logo="https://i.postimg.cc/Px2Cfv1V/365D.jpg" group-title="365 Days Film series",365 Days
 https://dooflix.live/cdn/hls/62edba51fd1fe9bc0c08c43e0ddc4fcb/master.m3u8?s=1
 #EXTINF:-1 tvg-id="AdultMovies" tvg-name="365 Days: This Day" tvg-logo="https://i.postimg.cc/VsXBkJQr/images.jpg" group-title="365 Days Film series",365 Days: This Day
 https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/365daysthisday.mkv
 #EXTINF:-1 tvg-id="AdultMovies" tvg-name="The Next 365 Days" tvg-logo="https://i.postimg.cc/bN80Dqp6/images-1.jpg" group-title="365 Days Film series",The Next 365 Days
 https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/thenext365days.mkv
-#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades of Grey" tvg-logo="https://i.postimg.cc/wMxkX38M/images.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades of Grey
+#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades of Grey" tvg-logo="https://i.postimg.cc/g0yw5TjW/F1.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades of Grey
 https://dooflix.live/cdn/hls/53eafbfae9f872478b423eccfc3d3de7/master.m3u8?s=2
-#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades Darker" tvg-logo="https://i.postimg.cc/wMxkX38M/images.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades Darker
+#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades Darker" tvg-logo="https://i.postimg.cc/Y9p4wzLm/F3.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades Darker
 https://dooflix.live/cdn/hls/5a3e93f11751e6a2fbc99c0d06cdafd3/master.m3u8?s=2
-#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades Freed" tvg-logo="https://i.postimg.cc/wMxkX38M/images.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades Freed
+#EXTINF:-1 tvg-id="Fifty_Shades" tvg-name="Fifty Shades Freed" tvg-logo="https://i.postimg.cc/pdMhsH2C/F2.jpg" group-title="Fifty Shades Film trilogy",Fifty Shades Freed
 https://dooflix.live/cdn/hls/5a3e93f11751e6a2fbc99c0d06cdafd3/master.m3u8?s=3
-#EXTINF:-1 tvg-id="MFYF" tvg-name="Your Fault" tvg-logo="https://i.postimg.cc/brVT36cj/Culpa-Mia.jpg" group-title="My Fault & Your Fault 18+",My Fault
+#EXTINF:-1 tvg-id="MFYF" tvg-name="Your Fault" tvg-logo="https://i.postimg.cc/brVT36cj/Culpa-Mia.jpg" group-title="My Fault & Your Fault",My Fault
 https://sahedasaha5.nazmulkhaey.workers.dev/0:/My.Fault.2023.720p.AMZN.WEB-DL.DDP5.1.-.Vegamovies.to.mkv
+#EXTINF:-1 tvg-id="MFYF" tvg-name="Your Fault" tvg-logo="https://i.postimg.cc/MHp57CLD/Culpa-Tuya.jpg" group-title="My Fault & Your Fault",Your Fault
+https://sahedasaha5.nazmulkhaey.workers.dev/0:/Your.Fault.2024.AMZN.WEB-DL.720p.Hindi.English.DD.5.1.x264.ESub.Vegamovies.is.mkv
 #EXTINF:-1 tvg-id="After Film Series" tvg-name="After (2019)" tvg-logo="https://i.postimg.cc/qq3d9W1Y/After.jpg" group-title="After Film Series",After (2019)
 http://showtimebd.com/ftpdata/summer2019_2/1.July 2019/03 July 2019/1.Movies/After (2019) 1080p BluRay.mkv
 #EXTINF:-1 tvg-id="After Film Series" tvg-name="After We Collided (2020)" tvg-logo="https://i.postimg.cc/N0sB5J09/After-2.jpg" group-title="After Film Series",After We Collided (2020)
@@ -312,47 +314,3 @@ https://dooflix.live/cdn/hls/b20e1b2ec72193dcd4640a73f456ee60/master.m3u8?s=3
 https://dooflix.live/cdn/hls/47b599a7a293691e6e32ac1ea7419cab/master.m3u8?s=2
 #EXTINF:-1 tvg-id="ThroughMyWindowFilm Series" tvg-name="Through My Window 3: Looking at You" tvg-logo="https://i.postimg.cc/jqwwx5mV/TMW-3.jpg" group-title="Through My Window Film Series",Through My Window 3: Looking at You
 https://drive.usercontent.google.com/download?id=1Hl8MnD6p5vUzraRgRKsobzBvhIlTP1Ic&export=download&confirm=t&uuid=954f1c54-2ee6-4acc-ba64-18ee8fb874f0
-#EXTINF:-1 tvg-id="MFYF" tvg-name="Your Fault" tvg-logo="https://i.postimg.cc/MHp57CLD/Culpa-Tuya.jpg" group-title="My Fault & Your Fault 18+",Your Fault
-https://sahedasaha5.nazmulkhaey.workers.dev/0:/Your.Fault.2024.AMZN.WEB-DL.720p.Hindi.English.DD.5.1.x264.ESub.Vegamovies.is.mkv
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Blacked : Tori Black The Big Fight" tvg-logo="https://i.postimg.cc/9Qxt2c9H/images-3.jpg" group-title="Adult Movies",Blacked : Tori Black The Big Fight
-https://dooflix.live/cdn/hls/664dba6acb8ac2a34731601aeafa2ade/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Angie Lynx Big Dumb Cum Cap" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5358.jpg" group-title="Adult Movies",Angie Lynx Big Dumb Cum Cap
-https://dooflix.live/cdn/hls/8c97a3bb170f49cfe8967fa704eb1816/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Impulses Vol 4" tvg-logo="https://i.postimg.cc/V6QkJH0L/Impulse.jpg" group-title="Adult Movies",Impulses Vol 4
-https://dooflix.live/cdn/hls/26ac40beb177c6daaa6756ff780bce01/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Girls At Work : Clea The New Boss" tvg-logo="https://i.postimg.cc/PJKXFX3P/new-boss.jpg" group-title="Adult Movies",Girls At Work : Clea The New Boss
-https://dooflix.live/cdn/hls/b5a6344e14f4924f8e040a4e1aa19603/master.m3u8
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Duality" tvg-logo="https://i.postimg.cc/K8Wz2YZT/Duality.jpg" group-title="Adult Movies",Duality
-https://dooflix.live/cdn/hls/eaa84e05467140e9ea9453fd98cf7ead/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Clara Desires Of Submission" tvg-logo="https://i.postimg.cc/hPPPQmvx/Submission.jpg" group-title="Adult Movies",Clara Desires Of Submission
-https://dooflix.live/cdn/hls/31796ad2b5d4c03182c43ff4e0ff2ff4/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Girls AT Work - Team Building" tvg-logo="https://i.postimg.cc/L8J9NMz8/Team-Building.jpg" group-title="Adult Movies",Girls AT Work - Team Building
-https://dooflix.live/cdn/hls/9b92f4cbd42c6783b8637abaeb83214e/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Girls AT Work - Stories 1" tvg-logo="https://i.postimg.cc/Wp7148NT/Stories.jpg" group-title="Adult Movies",Girls AT Work - Stories 1
-https://dooflix.live/cdn/hls/bd715ae031933e29eabe825fa232242c/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Thr3E 3" tvg-logo="https://i.postimg.cc/9QsWkNpt/Thr3E.jpg" group-title="Adult Movies",Thr3E 3
-https://dooflix.live/cdn/hls/bd715ae031933e29eabe825fa232242c/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Idol" tvg-logo="https://i.postimg.cc/wvXTLcD5/Idol.jpg" group-title="Adult Movies",Idol
-https://dooflix.live/cdn/hls/bd715ae031933e29eabe825fa232242c/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="5 Years Later" tvg-logo="https://i.postimg.cc/sgxXqWRy/5-Years.jpg" group-title="Adult Movies",5 Years Later
-https://dooflix.live/cdn/hls/cc9c0672dddd019a22ed6902499dcb79/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Luxure Wife's Climax" tvg-logo="https://i.postimg.cc/gjGcDXKC/Luxure.jpg" group-title="Adult Movies",Luxure Wife's Climax
-https://dooflix.live/cdn/hls/78f09ab7892fad76128e9be9a4544a8c/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Contact Vol 3 Part 1" tvg-logo="https://i.postimg.cc/7LTLYy6W/Contact.jpg" group-title="Adult Movies",Contact Vol 3 Part 1
-https://dooflix.live/cdn/hls/e1e053ffff0fc1e209f3938c6d4f635c/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Contact Vol 3 Part 2" tvg-logo="https://i.postimg.cc/7LTLYy6W/Contact.jpg" group-title="Adult Movies",Contact Vol 3 Part 2
-https://dooflix.live/cdn/hls/6522aadb2d05575ecd22bb86689a56b5/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Contact Vol 3 Part 3" tvg-logo="https://i.postimg.cc/7LTLYy6W/Contact.jpg" group-title="Adult Movies",Contact Vol 3 Part 3
-https://dooflix.live/cdn/hls/e92e470bb64794d39fbb4b915f35ae28/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Contact Vol 3 Part 4" tvg-logo="https://i.postimg.cc/7LTLYy6W/Contact.jpg" group-title="Adult Movies",Contact Vol 3 Part 4
-https://dooflix.live/cdn/hls/56f6cb50455227a0e7a7ca595daacec3/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Thr3E 4 Part 1" tvg-logo="https://i.postimg.cc/tCSR3gnc/Thr3E-4.jpg" group-title="Adult Movies",Thr3E 4 Part 1
-https://dooflix.live/cdn/hls/ec9f8d773a5a914c08da5d6fb11b33c2/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies" tvg-name="Thr3E 4 Part 2" tvg-logo="https://i.postimg.cc/tCSR3gnc/Thr3E-4.jpg" group-title="Adult Movies",Thr3E 4 Part 2
-https://dooflix.live/cdn/hls/eb8123542247c8ec2b15985868edbe61/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies_CK" tvg-name="Rape The Young Wife" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/Picsart_25-02-16_12-51-19-933_transcpr.jpg" group-title="Adult Movies Korean & China",Rape The Young Wife
-https://dooflix.live/cdn/hls/972d3ee95d58b6dfec16f4ba0b56f4ba/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies_CK" tvg-name="The Housemaid" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5148.jpg" group-title="Adult Movies Korean & China",The Housemaid
-https://dooflix.live/cdn/hls/bed1f4386810997342d05d7c05d4c639/master.m3u8?s=1
-#EXTINF:-1 tvg-id="AdultMovies_CK" tvg-name="Hot Night Girlfriend Sister" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5147.jpg" group-title="Adult Movies Korean & China",Hot Night Girlfriend Sister
-https://dooflix.live/cdn/hls/bed1f4386810997342d05d7c05d4c639/master.m3u8?s=1
