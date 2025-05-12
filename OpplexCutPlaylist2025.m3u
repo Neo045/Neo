@@ -543,6 +543,22 @@ http://xtv.ooo:8080/3773747/7172737/104191
 http://xtv.ooo:8080/3773747/7172737/206310
 #EXTINF:-1 tvg-id="" tvg-name="IND: Colors Cineplex Bollywood" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/27/uvXML3.jpg" group-title="Others",IND: Colors Cineplex Bollywood
 http://xtv.ooo:8080/3773747/7172737/112983
+#EXTINF:-1 tvg-id="" tvg-name="***IND: DRAMA (4K ULTRA HD)***" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",***IND: DRAMA (4K ULTRA HD)***
+http://xtv.ooo:8080/3773747/7172737/109946
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Colors (4K)
+http://xtv.ooo:8080/3773747/7172737/109947
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY SET (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY SET (4K)
+http://xtv.ooo:8080/3773747/7172737/109948
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",Star Plus (4K)
+http://xtv.ooo:8080/3773747/7172737/109949
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",ZEE TV (4K)
+http://xtv.ooo:8080/3773747/7172737/109950
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",STAR BHARAT (4K)
+http://xtv.ooo:8080/3773747/7172737/109951
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&tv (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&tv (4K)
+http://xtv.ooo:8080/3773747/7172737/109952
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",SONY SAB (4K)
+http://xtv.ooo:8080/3773747/7172737/109953
 #EXTINF:-1 tvg-id="" tvg-name="***IND: MOVIES (4K ULTRA HD)***" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",***IND: MOVIES (4K ULTRA HD)***
 http://xtv.ooo:8080/3773747/7172737/109954
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://logo.opplextv.com/logo/4Klogo.png" group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
