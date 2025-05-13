@@ -233,32 +233,31 @@ https://dooflix.live/cdn/hls/8c73b768b8706a7ec1d5f6b08e476014/master.m3u8?s=3
 http://showtimebd.com/ftpdata/english/English 720p & 1080p BluRay/Hulk (2003) 1080p BluRay.mp4
 #EXTINF:-1 tvg-id="MCU" tvg-name="The Incredible Hulk" tvg-logo="https://i.postimg.cc/KvbymQF2/Hulk-2.jpg" group-title="Marvel Cinematic Universe",The Incredible Hulk
 http://showtimebd.com/ftpdata/summer2019_2/1.July 2019/02 July 2019/1.Movies/The Incredible Hulk (2008) Dual Audio.mkv
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Philosopher's Stone" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Philosopher's Stone
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Philosopher's Stone" tvg-logo="https://i.postimg.cc/9Fdt65W8/HP-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Philosopher's Stone
 https://dooflix.live/cdn/hls/fdef6eebb726887a7404e6e5092ad051/master.m3u8?s=3
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Chamber of Secrets" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Chamber of Secrets
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Chamber of Secrets" tvg-logo="https://i.postimg.cc/ryt99R7L/HP-2.jpg" group-title="Harry Potter Film series",Harry Potter and the Chamber of Secrets
 https://dooflix.live/cdn/hls/6393016a0b44f5497a57a72f7cadae65/master.m3u8?s=3
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Prisoner of Azkaban" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Prisoner of Azkaban
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Prisoner of Azkaban" tvg-logo="https://i.postimg.cc/qqnXBW27/HP-3.jpg" group-title="Harry Potter Film series",Harry Potter and the Prisoner of Azkaban
 https://dooflix.live/cdn/hls/6c48a0b17658a837c135f99592ca967c/master.m3u8?s=2
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Goblet of Fire" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Goblet of Fire
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Goblet of Fire" tvg-logo="https://i.postimg.cc/SNFf1NpY/HP-4.jpg" group-title="Harry Potter Film series",Harry Potter and the Goblet of Fire
 https://dooflix.live/cdn/hls/6c48a0b17658a837c135f99592ca967c/master.m3u8?s=2
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Order of the Phoenix" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Order of the Phoenix
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Order of the Phoenix" tvg-logo="https://i.postimg.cc/4xXbZLyJ/HP-5.jpg" group-title="Harry Potter Film series",Harry Potter and the Order of the Phoenix
 https://dooflix.live/cdn/hls/e7f7716580e487037948f2259ea1ba74/master.m3u8?s=3
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Half-Blood Prince" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Half-Blood Prince
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Half-Blood Prince" tvg-logo="https://i.postimg.cc/256QL1nM/HP-6.jpg" group-title="Harry Potter Film series",Harry Potter and the Half-Blood Prince
 https://dooflix.live/cdn/hls/c7bac5d6e4fdf9875aaaf4a438e38188/master.m3u8?s=2
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Deathly Hallows: Part 1" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Deathly Hallows: Part 1
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Deathly Hallows: Part 1" tvg-logo="https://i.postimg.cc/W1Sm4Gq0/HP-7.jpg" group-title="Harry Potter Film series",Harry Potter and the Deathly Hallows: Part 1
 https://dooflix.live/cdn/hls/529e2d848d3b854049fe0ab512eb40f2/master.m3u8?s=2
-#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Deathly Hallows: Part 2" tvg-logo="https://i.postimg.cc/pXGsBQdH/images-1.jpg" group-title="Harry Potter Film series",Harry Potter and the Deathly Hallows: Part 2
+#EXTINF:-1 tvg-id="Harry Potter" tvg-name="Harry Potter and the Deathly Hallows: Part 2" tvg-logo="https://i.postimg.cc/YSs16t39/HP-8.jpg" group-title="Harry Potter Film series",Harry Potter and the Deathly Hallows: Part 2
 https://dooflix.live/cdn/hls/480b59fe07be955954114fc4042761ae/master.m3u8?s=2
-
-#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: The Curse of the Black Pearl" tvg-logo="https://i.postimg.cc/brzvdXt5/Pirates.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: The Curse of the Black Pearl
+#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: The Curse of the Black Pearl" tvg-logo="https://i.postimg.cc/Vstgmbfk/PC-1.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: The Curse of the Black Pearl
 https://free.otapp.store/cdn/stream.m3u8?id=mpvpgtd66lrz
-#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: Dead Man's Chest" tvg-logo="https://i.postimg.cc/brzvdXt5/Pirates.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: Dead Man's Chest
+#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: Dead Man's Chest" tvg-logo="https://i.postimg.cc/GtvxQ67y/PC-2.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: Dead Man's Chest
 https://free.otapp.store/cdn/stream.m3u8?id=anfj1ex3x8p4
-#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: At World's End" tvg-logo="https://i.postimg.cc/brzvdXt5/Pirates.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: At World's End
+#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: At World's End" tvg-logo="https://i.postimg.cc/tTKzF95b/PC-3.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: At World's End
 https://free.otapp.store/cdn/stream.m3u8?id=pt2jg2o6sse4
-#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: On Stranger Tides" tvg-logo="https://i.postimg.cc/brzvdXt5/Pirates.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: On Stranger Tides
+#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: On Stranger Tides" tvg-logo="https://i.postimg.cc/65N035qL/PC-4.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: On Stranger Tides
 https://free.otapp.store/cdn/stream.m3u8?id=gd8z626burzj
-#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: Dead Men Tell No Tales" tvg-logo="https://i.postimg.cc/brzvdXt5/Pirates.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: Dead Men Tell No Tales
+#EXTINF:-1 tvg-id="Pirates of the Caribbean" tvg-name="Pirates of the Caribbean: Dead Men Tell No Tales" tvg-logo="https://i.postimg.cc/mgLyYXQP/PC-5.jpg" group-title="Pirates of the Caribbean (Film series)",Pirates of the Caribbean: Dead Men Tell No Tales
 https://free.otapp.store/cdn/stream.m3u8?id=l0imoce30wal
 #EXTINF:-1 tvg-id="JohnWick" tvg-name="John Wick (2014)" tvg-logo="https://i.postimg.cc/2yf7B181/John-1.jpg" group-title="John Wick Film Series",John Wick (2014)
 https://dooflix.live/cdn/hls/a390984ecff8d24c12545754fc3749ee/master.m3u8
