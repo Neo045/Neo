@@ -3,6 +3,12 @@
 https://github.com/Neo045/Pictures/raw/refs/heads/main/Free%20Palestine%20(1080%20X%201440).mp4
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Mission: Impossible – The Final Reckoning" tvg-logo="https://i.postimg.cc/FztdmLzC/MITFDR.jpg" group-title="Hollywood Movies",Mission: Impossible – The Final Reckoning
+https://dooflix.live/cdn/hls/8c20fceda1579f1d96ba1ef084bcfc54/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Final Destination Bloodlines" tvg-logo="https://i.postimg.cc/gJLXfDz6/FDB.jpg" group-title="Hollywood Movies",Final Destination Bloodlines
+https://dooflix.live/cdn/hls/7603ab82cd9ab2f338896a04ce65c460/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Bad Influence" tvg-logo="https://i.postimg.cc/DzM4jDTT/BI.jpg" group-title="Hollywood Movies",Bad Influence
+https://dooflix.live/cdn/hls/ce653dff084a1ec1e8f6a5c31224c79f/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="The Bayou" tvg-logo="https://dooflixpanel.com/uploads/video_thumb/5451.jpg" group-title="Hollywood Movies",The Bayou
 https://dooflix.live/cdn/hls/6712c5fe24285ddd8ba866d0af8a60d2/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Havoc" tvg-logo="https://i.postimg.cc/C17NyFsX/Havoc.jpg" group-title="Hollywood Movies",Havoc
