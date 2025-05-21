@@ -29,6 +29,20 @@ https://dooflix.live/cdn/hls/fc00dc9bf917ab0c0f3c1c037e591358/master.m3u8?s=1
 https://dooflix.live/cdn/hls/c353342b54bfb047a2f76067814ab558/master.m3u8?s=1
 #EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S03E01" tvg-logo="https://i.postimg.cc/hvCrQg6S/images.jpg" group-title="Peaky Blinders Season 03",S03E01
 https://dooflix.live/cdn/hls/ef941a9738a634cb2159da8c8005e13c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S03E02" tvg-logo="https://i.postimg.cc/hvCrQg6S/images.jpg" group-title="Peaky Blinders Season 03",S03E02
+https://dooflix.live/cdn/hls/ac91d8fa14e07eb680c51cd2d90649a8/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S03E03" tvg-logo="https://i.postimg.cc/hvCrQg6S/images.jpg" group-title="Peaky Blinders Season 03",S03E03
+https://dooflix.live/cdn/hls/daedb7c73f4d3607c5a4297e6b6a6297/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S03E04" tvg-logo="https://i.postimg.cc/hvCrQg6S/images.jpg" group-title="Peaky Blinders Season 03",S03E04
+https://dooflix.live/cdn/hls/2bb59b313241eb2b2285e5b73baed442/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S03E05" tvg-logo="https://i.postimg.cc/hvCrQg6S/images.jpg" group-title="Peaky Blinders Season 03",S03E05
+https://dooflix.live/cdn/hls/183e2f2a4b551a7ee421f7d0047e0810/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S03E06" tvg-logo="https://i.postimg.cc/hvCrQg6S/images.jpg" group-title="Peaky Blinders Season 03",S03E06
+https://dooflix.live/cdn/hls/7a5c53d64cb9a5bf3d9740a31c2a2739/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S04E01" tvg-logo="https://i.postimg.cc/CKDHPwGq/Peaky-4.jpg" group-title="Peaky Blinders Season 04",S04E01
+https://dooflix.live/cdn/hls/4a2f5e824c2507993565884d55ce6b9d/master.m3u8?s=1
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S04E02" tvg-logo="https://i.postimg.cc/CKDHPwGq/Peaky-4.jpg" group-title="Peaky Blinders Season 04",S04E02
+https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Peaky.Blinders.S04E02.720p.BluRay.HIN-ENG.x264.ESub-Vegamovies.is.mkv
 #EXTINF:-1 tvg-id="DDBA" tvg-name="Daredevil: Born Again S01E01" tvg-logo="https://i.postimg.cc/8zc4MfbM/DDBA.jpg" group-title="Daredevil: Born Again [Dual Audio]",Daredevil: Born Again S01E01
 https://pub-ae4961d7376541d7ac8c9c9f32eed981.r2.dev/Daredevil.Born.Again.S01E01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4US.com.mkv
 #EXTINF:-1 tvg-id="DDBA" tvg-name="Daredevil: Born Again S01E02" tvg-logo="https://i.postimg.cc/8zc4MfbM/DDBA.jpg" group-title="Daredevil: Born Again [Dual Audio]",Daredevil: Born Again S01E02
