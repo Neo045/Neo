@@ -3,8 +3,8 @@
 https://github.com/Neo045/Pictures/raw/refs/heads/main/Free%20Palestine%20(1080%20X%201440).mp4
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
-#EXTINF:-1 tvg-id="Neo" tvg-name="Last updated on March 02, 2025" tvg-logo="https://i.postimg.cc/8Cz9b3pk/Picsart-24-09-16-13-18-44-287.png" group-title="Last updated on March 02, 2025",Last updated on March 02, 2025
-https://github.com/Neo045/Pictures/raw/main/Doctor%20Strange.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IPL 2025" tvg-logo="https://watchindia.net/images/channels/sports/Tata_IPL.png" group-title="Sports",IPL 2025
+http://watchindia.net:8880/live/41701/62215/2735.ts
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (1)
 http://watchindia.net:8880/live/41701/62215/2232.ts
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (2)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (2)
@@ -73,9 +73,9 @@ http://watchindia.net:8880/live/41701/62215/2217.ts
 http://watchindia.net:8880/live/41701/62215/268.ts
 #EXTINF:-1 tvg-id="asianetnews.in" tvg-name="Asianet News (2)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_News.png" group-title="Malayalam",Asianet News (2)
 http://watchindia.net:8880/live/41701/62215/2035.ts
-#EXTINF:-1 tvg-id="asianetplus.in" tvg-name="Asianet Plus (1)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Plus.png" group-title="Malayalam",Asianet Plus (1)
+#EXTINF:-1 tvg-id="ts953" tvg-name="Asianet Plus (1)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Plus.png" group-title="Malayalam",Asianet Plus (1)
 http://watchindia.net:8880/live/41701/62215/277.ts
-#EXTINF:-1 tvg-id="asianetplus.in" tvg-name="Asianet Plus (2)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Plus.png" group-title="Malayalam",Asianet Plus (2)
+#EXTINF:-1 tvg-id="ts953" tvg-name="Asianet Plus (2)" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Plus.png" group-title="Malayalam",Asianet Plus (2)
 http://watchindia.net:8880/live/41701/62215/2240.ts
 #EXTINF:-1 tvg-id="suryatv.in" tvg-name="Surya TV HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png" group-title="Malayalam",Surya TV HD
 http://watchindia.net:8880/live/41701/62215/279.ts
@@ -107,7 +107,7 @@ http://watchindia.net:8880/live/41701/62215/303.ts
 http://watchindia.net:8880/live/41701/62215/1291.ts
 #EXTINF:-1 tvg-id="goodnesstv.in" tvg-name="Goodness TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Goodness_TV.png" group-title="Malayalam",Goodness TV
 http://watchindia.net:8880/live/41701/62215/2234.ts
-#EXTINF:-1 tvg-id="harvesttv24x7.in" tvg-name="Harvest TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Harvest_TV.png" group-title="Malayalam",Harvest TV
+#EXTINF:-1 tvg-id="ts348" tvg-name="Harvest TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Harvest_TV.png" group-title="Malayalam",Harvest TV
 http://watchindia.net:8880/live/41701/62215/1303.ts
 #EXTINF:-1 tvg-id="jaihindtv.in" tvg-name="Jaihind" tvg-logo="https://watchindia.net/images/channels/malayalam/Jaihind.png" group-title="Malayalam",Jaihind
 http://watchindia.net:8880/live/41701/62215/293.ts
@@ -145,13 +145,13 @@ http://watchindia.net:8880/live/41701/62215/2631.ts
 http://watchindia.net:8880/live/41701/62215/286.ts
 #EXTINF:-1 tvg-id="rajnewsmalayalam.in" tvg-name="Raj News" tvg-logo="https://watchindia.net/images/channels/malayalam/Raj_News_Malayalam.png" group-title="Malayalam",Raj News
 http://watchindia.net:8880/live/41701/62215/291.ts
-#EXTINF:-1 tvg-id="reporter.in" tvg-name="Reporter TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Reporter_TV.png" group-title="Malayalam",Reporter TV
+#EXTINF:-1 tvg-id="ts1124" tvg-name="Reporter TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Reporter_TV.png" group-title="Malayalam",Reporter TV
 http://watchindia.net:8880/live/41701/62215/306.ts
 #EXTINF:-1 tvg-id="safaritv.in" tvg-name="Safari TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Safari_TV.png" group-title="Malayalam",Safari TV
 http://watchindia.net:8880/live/41701/62215/1301.ts
 #EXTINF:-1 tvg-id="shalomtv.in" tvg-name="Shalom TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Shalom_TV.png" group-title="Malayalam",Shalom TV
 http://watchindia.net:8880/live/41701/62215/288.ts
-#EXTINF:-1 tvg-id="powervision.in" tvg-name="Powervision TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Powervision_TV.png" group-title="Malayalam",Powervision TV
+#EXTINF:-1 tvg-id="ts1364" tvg-name="Powervision TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Powervision_TV.png" group-title="Malayalam",Powervision TV
 http://watchindia.net:8880/live/41701/62215/1290.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dhoomam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZ4qJFfv6UXqb6otLBW2qzOQu4C.jpg" group-title="Malayalam",Dhoomam (2023)
 http://watchindia.net:8880/movie/41701/62215/2535.mkv
@@ -225,8 +225,6 @@ http://watchindia.net:8880/live/41701/62215/794.ts
 http://watchindia.net:8880/live/41701/62215/791.ts
 #EXTINF:-1 tvg-id="indiatoday.in" tvg-name="India Today" tvg-logo="https://watchindia.net/images/channels/hindi/India_Today_TV.png" group-title="Hindi",India Today
 http://watchindia.net:8880/live/41701/62215/835.ts
-#EXTINF:-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Hindi",Kadak Hits HD
-http://watchindia.net:8880/live/41701/62215/798.ts
 #EXTINF:-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Hindi",Mastiii
 http://watchindia.net:8880/live/41701/62215/826.ts
 #EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Hindi",MTV Beats HD
@@ -2695,3 +2693,19 @@ http://watchindia.net:8880/movie/41701/62215/2731.mkv
 http://watchindia.net:8880/movie/41701/62215/2732.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Officer on Duty (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucwirgaK4v9ylQyDkwoXJtDIlf7.jpg" group-title="Malayalam",Officer on Duty (2025)
 http://watchindia.net:8880/movie/41701/62215/2733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pravinkoodu Shappu (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19RY8hiPUklE2UrjQrUiSgyVO5f.jpg" group-title="Malayalam",Pravinkoodu Shappu (2025)
+http://watchindia.net:8880/movie/41701/62215/2736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Painkili (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj2VTnrshKRFi6rUKd8neP4q8qO.jpg" group-title="Malayalam",Painkili (2025)
+http://watchindia.net:8880/movie/41701/62215/2737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daveed (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5looJkc3Siu7HqR5farCebWRxQo.jpg" group-title="Malayalam",Daveed (2025)
+http://watchindia.net:8880/movie/41701/62215/2739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Am Ah (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsaplzFtU6dADWG9Sj2aneh2Ymx.jpg" group-title="Malayalam",Am Ah (2025)
+http://watchindia.net:8880/movie/41701/62215/2740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="L2: Empuraan (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfaZipN3Aw5BK85nEvfr2FNg4EW.jpg" group-title="Malayalam",L2: Empuraan (2025)
+http://watchindia.net:8880/movie/41701/62215/2741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kattis Gang (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfaZipN3Aw5BK85nEvfr2FNg4EW.jpg" group-title="Malayalam",Kattis Gang (2024)
+http://watchindia.net:8880/movie/41701/62215/2742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virunnu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hr1FeIHdB5NbdRFjYuYO7lAhH6x.jpg" group-title="Malayalam",Virunnu (2024)
+http://watchindia.net:8880/movie/41701/62215/2743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Machante Malakha (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsz8GtsllPyaMDOYzTiTXophADO.jpg" group-title="Malayalam",Machante Malakha (2025)
+http://watchindia.net:8880/movie/41701/62215/2744.mkv
