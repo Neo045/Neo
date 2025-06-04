@@ -3,6 +3,8 @@
 https://github.com/Neo045/Pictures/raw/refs/heads/main/Free%20Palestine%20(1080%20X%201440).mp4
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Sinners" tvg-logo="https://i.postimg.cc/s25gxb6X/Sinners.jpg" group-title="Hollywood Movies",Sinners
+https://dooflix.live/cdn/hls/54fcda06095614bc5ff8d8ebc0056cfd/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Mission: Impossible – The Final Reckoning" tvg-logo="https://i.postimg.cc/FztdmLzC/MITFDR.jpg" group-title="Hollywood Movies",Mission: Impossible – The Final Reckoning
 https://dooflix.live/cdn/hls/8c20fceda1579f1d96ba1ef084bcfc54/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Final Destination Bloodlines" tvg-logo="https://i.postimg.cc/gJLXfDz6/FDB.jpg" group-title="Hollywood Movies",Final Destination Bloodlines
@@ -167,6 +169,16 @@ https://dooflix.live/cdn/hls/7bb52fed0bb26a985e88bb3744c2ae79/master.m3u8?s=2
 https://free.otapp.store/cdn/stream.m3u8?id=udbpbjrhai2k
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/73/ec/ME5GDcsW_o.jpeg" group-title="Hindi Movies",Lust Stories 2
 https://free.otapp.store/cdn/stream.m3u8?id=uc9dmna9exl9
+#EXTINF:-1 tvg-id="Hindi" tvg-name="KGF Chapter 1 1080p HD" tvg-logo="https://i.postimg.cc/KvYjfqzq/KGF-1.jpg" group-title="Hindi Movies",KGF Chapter 1 1080p HD
+https://pub-038924bfc31e485baabb28c11b43e293.r2.dev/K.G.F%20Chapter%201%202018%20BluRay%20Hindi%201080p%20x264%20DDP%205.1%20MSubs%20-%20Vegamovies.NL.mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="KGF Chapter 1 4K AMZN Print" tvg-logo="https://i.postimg.cc/KvYjfqzq/KGF-1.jpg" group-title="Hindi Movies",KGF Chapter 1 4K AMZN Print
+https://fs-08.hubcdn.xyz/K.G.F.Chapter.1.2018.2160p.UHD.AMZN.WEB.DL.HEVC.Multi.DDP5.1-DDH%20[OlaMovies.Top].mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="KGF Chapter 2 1080p HD" tvg-logo="https://i.postimg.cc/rw0mXD55/KGF-2.jpg" group-title="Hindi Movies",KGF Chapter 2 1080p HD
+https://pub-e3ebd212f90845fc82540a984ccaee15.r2.dev/K.G.F.Chapter-2.2022.1080p.Hindi.WEB-DL.5.1.ESub.x264-Vegamovies.NL.mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="KGF Chapter 2 4K AMZN Print" tvg-logo="https://i.postimg.cc/rw0mXD55/KGF-2.jpg" group-title="Hindi Movies",KGF Chapter 2 4K AMZN Print
+https://fs-08.hubcdn.xyz/K.G.F-%20Chapter%202%202022.MULTI.4K.SDR.HEVC.WEBRip.DDP5.1-[Vegamovies.NL]%20DUS-IcTv.mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Dilwale" tvg-logo="https://i.postimg.cc/GhS25FTc/Dilwale.jpg" group-title="Hindi Movies",Dilwale
+https://pub-a23ae5fc51264f6e953bb011d845c65a.r2.dev/Dilwale%202015%20BluRay%20720p%20Hindi%20AAC%205.1%20x264%20ESub%20-%20Vegamovies.NL.mkv
 #EXTINF:-1 tvg-id="HindiDubbed" tvg-name="Season of Love" tvg-logo="https://i.postimg.cc/4Nk2DbRP/images.jpg" group-title="Hindi Dubbed Movies",Season of Love AKA Ask Mevsimi
 https://prothomalo.lol/netfx/index.m3u8?id=tahe3z
 #EXTINF:-1 tvg-id="Bangla" tvg-name="Antarjal" tvg-logo="https://i.postimg.cc/d0fmk645/Antarjar.jpg" group-title="Bangla Movies",Antarjal
@@ -331,3 +343,9 @@ https://dooflix.live/cdn/hls/b20e1b2ec72193dcd4640a73f456ee60/master.m3u8?s=3
 https://dooflix.live/cdn/hls/47b599a7a293691e6e32ac1ea7419cab/master.m3u8?s=2
 #EXTINF:-1 tvg-id="ThroughMyWindowFilm Series" tvg-name="Through My Window 3: Looking at You" tvg-logo="https://i.postimg.cc/jqwwx5mV/TMW-3.jpg" group-title="Through My Window Film Series",Through My Window 3: Looking at You
 https://drive.usercontent.google.com/download?id=1Hl8MnD6p5vUzraRgRKsobzBvhIlTP1Ic&export=download&confirm=t&uuid=954f1c54-2ee6-4acc-ba64-18ee8fb874f0
+#EXTINF:-1 tvg-id="Cartoon" tvg-name="Motu Patlu And The Mighty Magnathor" tvg-logo="https://i.postimg.cc/NMp9GWFX/images-1.jpg" group-title="Cartoon Movies",Motu Patlu And The Mighty Magnathor
+https://pub-28596b915e05470ba5229d1dd2ec9daf.r2.dev/Motu.Patlu.and.The.Mighty.Magnathor.2024.Hindi.ORG.WEB-DL.1080p.x264.Vegamovies.is.mkv
+#EXTINF:-1 tvg-id="Bangla Series" tvg-name="Cat & Mouse" tvg-logo="https://i.postimg.cc/3xswK3ZV/Cat-Mouse.jpg" group-title="Bangla Series",Cat & Mouse
+https://newsprotalhub.xyz/bin/stream.m3u8?id=CqZ0w8aHiS0
+#EXTINF:-1 tvg-id="Bangla Series" tvg-name="Cat & Mouse Source 2" tvg-logo="https://i.postimg.cc/3xswK3ZV/Cat-Mouse.jpg" group-title="Bangla Series",Cat & Mouse Source 2
+https://pixeldrain.net/api/file/e77jhZJj?download
