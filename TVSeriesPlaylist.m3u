@@ -3,6 +3,18 @@
 https://github.com/Neo045/Pictures/raw/refs/heads/main/Free%20Palestine%20(1080%20X%201440).mp4
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="Iron Heart" tvg-name="S01E01" tvg-logo="https://i.postimg.cc/1XMCDjYX/Iron-Heart.jpg" group-title="Iron Heart Season 01",S01E01
+https://dooflix.live/cdn/hls/e6635f10eb3d97094bdf46907eb4480b/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Iron Heart" tvg-name="S01E02" tvg-logo="https://i.postimg.cc/1XMCDjYX/Iron-Heart.jpg" group-title="Iron Heart Season 01",S01E02
+https://dooflix.live/cdn/hls/07b854693f50176c93812a72851930d0/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Iron Heart" tvg-name="S01E03" tvg-logo="https://i.postimg.cc/1XMCDjYX/Iron-Heart.jpg" group-title="Iron Heart Season 01",S01E03
+https://dooflix.live/cdn/hls/d7d737cc1d2a68214389f221842e783a/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Iron Heart" tvg-name="S01E04" tvg-logo="https://i.postimg.cc/1XMCDjYX/Iron-Heart.jpg" group-title="Iron Heart Season 01",S01E04
+https://dooflix.live/cdn/hls/e8749a999ddd3b21a3aa9f3e451b2875/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Iron Heart" tvg-name="S01E05" tvg-logo="https://i.postimg.cc/1XMCDjYX/Iron-Heart.jpg" group-title="Iron Heart Season 01",S01E05
+https://dooflix.live/cdn/hls/67612abeacd7a6937a1b5b56ca89365c/master.m3u8?s=1
+#EXTINF:-1 tvg-id="Iron Heart" tvg-name="S01E06" tvg-logo="https://i.postimg.cc/1XMCDjYX/Iron-Heart.jpg" group-title="Iron Heart Season 01",S01E06
+https://dooflix.live/cdn/hls/63785d8213cbfa6d3cd63aee4ac8d661/master.m3u8?s=1
 #EXTINF:-1 tvg-id="SquidGameS3" tvg-name="S01E06" tvg-logo="https://i.postimg.cc/2Sp3Gt3M/images.jpg" group-title="Squid Game Season 03 Dual Audio",S01E01
 https://dooflix.live/cdn/hls/0cdd21eba38f2ad4d750f37af81653c7/master.m3u8?s=1
 #EXTINF:-1 tvg-id="SquidGameS3" tvg-name="S01E02" tvg-logo="https://i.postimg.cc/2Sp3Gt3M/images.jpg" group-title="Squid Game Season 03 Dual Audio",S01E02
@@ -79,8 +91,8 @@ https://dooflix.live/cdn/hls/6157912d1b5ffa18696417e3638456c3/master.m3u8?s=1
 https://dooflix.live/cdn/hls/4aa329216de4fc0a4bc8d77fbfce4537/master.m3u8?s=1
 #EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S05E05" tvg-logo="https://i.postimg.cc/N0LrtcRx/Peaky-5.jpg" group-title="Peaky Blinders Season 05",S05E05
 https://dooflix.live/cdn/hls/bbdc1025cd6a2517f9442b91b77168d4/master.m3u8?s=1
-#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S05-E06 HiNDi AVAiLABLE SOON" tvg-logo="https://i.postimg.cc/N0LrtcRx/Peaky-5.jpg" group-title="Peaky Blinders Season 05",S05-E06 HiNDi AVAiLABLE SOON
-https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S05-E06" tvg-logo="https://i.postimg.cc/N0LrtcRx/Peaky-5.jpg" group-title="Peaky Blinders Season 05",S05-E06
+https://pixeldrain.dev/api/file/amFVJUDc?download
 #EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S06E01" tvg-logo="https://i.postimg.cc/6QTQtqhG/images-1.jpg" group-title="Peaky Blinders Season 06",S05E01
 https://pub-ed0ca22af5c04301b7abe9dac4aaf9bc.r2.dev/Peaky.Blinders.S06.E01.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv
 #EXTINF:-1 tvg-id="PeakyBlinders" tvg-name="S06E02" tvg-logo="https://i.postimg.cc/6QTQtqhG/images-1.jpg" group-title="Peaky Blinders Season 06",S05E02
@@ -213,6 +225,18 @@ https://dooflix.live/cdn/hls/0ac21c0151e0963712999a09d26f8fa1/master.m3u8?s=1
 https://dooflix.live/cdn/hls/776196860acad2106a26c21703823acd/master.m3u8?s=1
 #EXTINF:-1 tvg-id="CID" tvg-name="CID S02E50" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E50
 https://dooflix.live/cdn/hls/ef983ca443038072e684a882cabed0db/master.m3u8?s=1
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E51" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E51
+https://pixeldrain.dev/api/file/tFSiMTEK?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E52" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E52
+https://pixeldrain.dev/api/file/brBK3KbA?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E53" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E53
+https://pixeldrain.dev/api/file/cdNA85ay?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E54" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E54
+https://pixeldrain.dev/api/file/hArE4izx?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E55" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E55
+https://pixeldrain.dev/api/file/NLbbjf9J?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E56" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E56
+https://pixeldrain.dev/api/file/xSfRgtzR?download
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJmKNQ8z/DD-1.jpg" group-title="Marvel's DareDevil Season 01",S01E01☞ Into The Ring
 http://103.145.232.246/Data/tvseries/English/Marvels%20Daredevil/s01/Daredevil.S01E01.Into.the.Ring.720p.WEB-DL.Hin-Eng.x265.HEVC-KatmovieHD.nl.mkv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJmKNQ8z/DD-1.jpg" group-title="Marvel's DareDevil Season 01",S01E02☞ Cut Man
