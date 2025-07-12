@@ -3,6 +3,10 @@
 https://github.com/Neo045/Pictures/raw/refs/heads/main/Free%20Palestine%20(1080%20X%201440).mp4
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Superman (2025)" tvg-logo="https://i.postimg.cc/brcMXF6Q/Superman.jpg" group-title="Hollywood Movies",Superman (2025)
+https://pixeldrain.dev/api/file/uTYaW6x8?download
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Superman (2025) Source 2" tvg-logo="https://i.postimg.cc/brcMXF6Q/Superman.jpg" group-title="Hollywood Movies",Superman (2025) Source 2
+https://pub-0d79bca38fef475db64194f3a2980f4f.r2.dev/SuperMan.2025.1080p.PRE-HD.Hindi.LiNE-English.x264-HDHub4u.Ms.mkv
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Jurassic World Rebirth (2025)" tvg-logo="https://i.postimg.cc/m2BNsjpp/Jurassic-World-Rebirth.jpg" group-title="Hollywood Movies",Jurassic World Rebirth (2025)
 https://pixeldrain.dev/api/file/BsXwvYA8?download
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Ballerina (2025)" tvg-logo="https://i.postimg.cc/L6Dk6Pr9/Ballerina.jpg" group-title="Hollywood Movies",Ballerina (2025)
@@ -81,18 +85,28 @@ https://dadygahug.ottbangla3s.workers.dev/0:/Furiosa.A.Mad.Max.Saga.2024.720p%20
 https://omukgan.ottbangla4.workers.dev/0:/ottbangla.lol-Dune%20Part%20Two%20(2024)%20-Bengali%20Dubbed%20ORG%20JC%20720p.mkv
 #EXTINF:-1 tvg-id="Hollywood" tvg-name="Battleship" tvg-logo="https://i.postimg.cc/nVqmMqNC/Battleship-poster.jpg" group-title="Hollywood Movies",Battleship
 https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2012/battleship.mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Aankhon ki Gustaakhiyan" tvg-logo="https://i.postimg.cc/3RD6cHZ8/AG.jpg" group-title="Hindi Movies",Aankhon ki Gustaakhiyan
+https://pixeldrain.dev/api/file/4v5jduZV?download
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Aankhon ki Gustaakhiyan Source 2" tvg-logo="https://i.postimg.cc/3RD6cHZ8/AG.jpg" group-title="Hindi Movies",Aankhon ki Gustaakhiyan Source 2
+https://pub-bb32620afec941a4885c789bdfebaf0b.r2.dev/Aankhon.Ki.Gustaakhiyan.2025.1080p.HDTS.Hindi.ORG.x264-HDHub4u.Ms.mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Sardaarji 3" tvg-logo="https://i.postimg.cc/prfSPY73/Sardaarji3.jpg" group-title="Hindi Movies",Sardaarji 3
+https://pixeldrain.dev/api/file/74XKRPjQ?download
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Sardaarji 3 Source 2" tvg-logo="https://i.postimg.cc/prfSPY73/Sardaarji3.jpg" group-title="Hindi Movies",Sardaarji 3 Source 2
+https://pub-9a0bfbf69ce54d34956eccccd370f590.r2.dev/Sardaar-Ji-3.2025.1080p.HDCAM.Punjabi-CLEAN.HC-ESub.x264-HDHub4u.Ms.mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Housefull 5A" tvg-logo="https://i.postimg.cc/1Rw20stM/Houseful.jpg" group-title="Hindi Movies",Housefull 5A
+https://pixeldrain.dev/api/file/EfQXn7QL?download
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Housefull 5A Source 2" tvg-logo="https://i.postimg.cc/1Rw20stM/Houseful.jpg" group-title="Hindi Movies",Housefull 5A Source 2
+https://pub-8b6be24a81d9428c8fa63559640bdf24.r2.dev/Housefull-5A.2025.1080p.Hindi.WEB-DL.5.1.x264-HDHub4u.Ms.mkv
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Housefull 5B" tvg-logo="https://i.postimg.cc/1Rw20stM/Houseful.jpg" group-title="Hindi Movies",Housefull 5B
+https://pixeldrain.dev/api/file/tnxfXhHK?download
+#EXTINF:-1 tvg-id="Hindi" tvg-name="Housefull 5B Source 2" tvg-logo="https://i.postimg.cc/1Rw20stM/Houseful.jpg" group-title="Hindi Movies",Housefull 5B Source 2
+https://pub-cbf0fade09e04ba78ea104df245dd7a9.r2.dev/Housefull-5B.2025.1080p.Hindi.WEB-DL.5.1.x264-HDHub4u.Ms.mkv
 #EXTINF:-1 tvg-id="Hindi" tvg-name="Maa" tvg-logo="https://i.postimg.cc/YSmsT8jD/Ma.jpg
 https://dooflix.live/cdn/hls/079fc8d723710c66dfd8ffabea0b17eb/master.m3u8?s=1
-#EXTINF:-1 tvg-id="Hindi" tvg-name="Sardaar Ji 3" tvg-logo="https://i.postimg.cc/rwHHh7yt/SJ3.jpg" group-title="Hindi Movies",Sardaar Ji 3
-https://dooflix.live/cdn/hls/8b6202f2d71dea4844615ce5456b6dba/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hindi" tvg-name="Thug Life" tvg-logo="https://i.postimg.cc/QxTP9Sw0/images-3.jpg" group-title="Hindi Movies",Thug Life
 https://dooflix.live/cdn/hls/be949c01c7db4c3d6e396fef38b2027e/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hindi" tvg-name="Antarjal" tvg-logo="https://i.postimg.cc/2jhjmdTN/images-5.jpg" group-title="Hindi Movies",Bhool Chuk Maaf
 https://pub-7b75ed59a3314809a5a89ceca236315e.r2.dev/Bhool.Chuk.Maaf.2025.1080p.HDTC.Hindi-Line.HC-ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 tvg-id="Hindi" tvg-name="Housefull 5 A" tvg-logo="https://i.postimg.cc/jjjW8DDG/HF.jpg" group-title="Hindi Movies",Housefull 5 A
-https://dooflix.live/cdn/hls/29ff649668dde39f281df4971897b63f/master.m3u8?s=1
-#EXTINF:-1 tvg-id="Hindi" tvg-name="Housefull 5 B" tvg-logo="https://i.postimg.cc/jjjW8DDG/HF.jpg" group-title="Hindi Movies",Housefull 5 B
-https://dooflix.live/cdn/hls/9cfedd3c558bae277150372d33962d4f/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hindi" tvg-name="Kesari Chapter 2" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5454.jpg" group-title="Hindi Movies",Kesari Chapter 2
 https://dooflix.live/cdn/hls/d6cac71f3530a000cb52df8c8c4cbc8b/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Hindi" tvg-name="Odela 2" tvg-logo="http://dooflixpanel.com/uploads/video_thumb/5456.jpg" group-title="Hindi Movies",Odela 2
